@@ -8,7 +8,7 @@ Team member contact information has been distributed via excel file with phone, 
 
 ## About our Data
 For this project, we compiled data from various sources to generate our final database. These sources include the following:
-### U.S. Census Bureau, American Community Surveys 2011 - 2021
+#### U.S. Census Bureau, American Community Surveys 2011 - 2021
 Each year, the U.S. Census Bureau releases American Community Survey data in the form of estimates, tables, tools and analytical reports. We pulled data from ACS 1-Year Estimates Subject Tables and ACS 5-Year Estimates Subject Tables from years 2011 to 2021 for the cities of interest. The following metrics in our database are primary from these tables:
 * Select Housing Characteristics
 * Select Population Characteristics
@@ -16,11 +16,11 @@ Each year, the U.S. Census Bureau releases American Community Survey data in the
 * Age and Sex Data
 * Median Household Income
 
-### U.S. Census Bureau, Small Area Income and Poverty Estimates (SAIPE) Program
+#### U.S. Census Bureau, Small Area Income and Poverty Estimates (SAIPE) Program
 There was missing median household income data for some years for a few of our cities of interest. We supplemented by pulling median household income from the Small Income and Poverty Estimates (SAIPE) Program. This program produces single-year estimates of income and poverty for all U.S. states and counties. Median Household Income estimates are based on statistical models that use household survey, administrative data, population estimates, and decennial census data. 
 
-### Zillow Single Family Home Index (ZVHI)
+#### Zillow Single Family Home Index (ZVHI)
 We determined a median home value for each year in each of the cities of interest by using data from the ZVHI. This dataset provided a seasonally adjusted measure of the typical home value across a given region for each month. We took the median value from each month in the year to determine an overall median home value for each respective year.  
 
-### Freddie Mac
+#### Freddie Mac
 We obtained 15- and 30-year fixed interest rate data from Freddie Mac. Freddie Mac surveys lenders across the nation on a weekly basis to determine an average 15-year fixed mortgage rate, 30-year fixed-mortgage rate, and 5/1 hybrid ARMs series This survey is called the Primary Mortgage Market Survey. Additional information on survey metrics and how results are weighted can be found on the Freddie Mac PMMS website. 
