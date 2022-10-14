@@ -15,6 +15,7 @@ Each year, the U.S. Census Bureau releases American Community Survey data in the
 * Financial Characteristics for Housing with Mortgage
 * Age and Sex Data
 * Median Household Income
+
 Additional information on survey questions, data quality measures and sample size can be found on the American Community Survey website. 
 
 #### U.S. Census Bureau, Small Area Income and Poverty Estimates (SAIPE) Program
