@@ -1,0 +1,782 @@
+﻿City_Rank_by_Population(2021),State,State_Abbrieviation,City,Observation_Date,Estimated_Median_Household_Income  ,2021_estimated_population,2020_census,Note,Link_to_Survey
+1,New York,NY,New York,1/1/2011,"$49,461.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+1,New York,NY,New York,1/1/2012,"$50,895.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+1,New York,NY,New York,1/1/2013,"$52,223.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+1,New York,NY,New York,1/1/2014,"$52,996.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+1,New York,NY,New York,1/1/2015,"$55,752.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+1,New York,NY,New York,1/1/2016,"$58,856.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+1,New York,NY,New York,1/1/2017,"$60,879.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+1,New York,NY,New York,1/1/2018,"$63,799.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+1,New York,NY,New York,1/1/2019,"$69,407.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+1,New York,NY,New York,1/1/2020,"$67,046.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+1,New York,NY,New York,1/1/2021,"$67,997.00 ",8467513,8804190, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2011,"$46,148.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2012,"$46,803.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2013,"$48,466.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2014,"$50,544.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2015,"$52,024.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2016,"$54,432.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2017,"$60,197.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2018,"$62,474.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2019,"$67,418.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2020,"$65,290.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+2,California,CA,Los Angeles,1/1/2021,"$70,372.00 ",3849297,3898747, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2011,"$43,628.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2012,"$45,214.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2013,"$47,099.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2014,"$48,734.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2015,"$50,702.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2016,"$53,006.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2017,"$55,295.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2018,"$57,238.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2019,"$61,811.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2020,"$62,097.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+3,Illinois,IL,Chicago,1/1/2021,"$66,576.00 ",2696555,2746388, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2011,"$42,877.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2012,"$42,847.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2013,"$45,353.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2014,"$45,460.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2015,"$48,064.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2016,"$47,793.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2017,"$50,896.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2018,"$51,203.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2019,"$52,450.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2020,"$53,600.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+4,Texas,TX,Houston,1/1/2021,"$55,499.00 ",2288250,2304580, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2011,"$43,960.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2012,"$44,153.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2013,"$46,601.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2014,"$47,929.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2015,"$48,452.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2016,"$52,062.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2017,"$56,696.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2018,"$57,957.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2019,"$60,931.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2020,"$60,914.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+5,Arizona,AZ,Phoenix,1/1/2021,"$68,435.00 ",1624569,1608139, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2011,"$34,207.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2012,"$35,386.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2013,"$36,836.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2014,"$39,043.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2015,"$41,233.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2016,"$41,449.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2017,"$39,759.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2018,"$46,116.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2019,"$47,474.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2020,"$49,127.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+6,Pennsylvania,PA,Philadelphia,1/1/2021,"$52,899.00 ",1576251,1603797, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+7,Texas,TX,San Antonio,1/1/2011,"$42,613.00 ",1451853,1434625, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+7,Texas,TX,San Antonio,1/1/2012,"$45,524.00 ",1451853,1434625, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+7,Texas,TX,San Antonio,1/1/2013,"$45,399.00 ",1451853,1434625, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+7,Texas,TX,San Antonio,1/1/2014,"$50,699.00 ",1451853,1434625, Median Income data supplemented by SAIPE survey data ,https://www.census.gov/programs-surveys/saipe/data/datasets.html
+7,Texas,TX,San Antonio,1/1/2015,"$48,869.00 ",1451853,1434625, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+7,Texas,TX,San Antonio,1/1/2016,"$49,268.00 ",1451853,1434625, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+7,Texas,TX,San Antonio,1/1/2017,"$50,044.00 ",1451853,1434625, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+7,Texas,TX,San Antonio,1/1/2018,"$49,024.00 ",1451853,1434625, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+7,Texas,TX,San Antonio,1/1/2019,"$53,751.00 ",1451853,1434625, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+7,Texas,TX,San Antonio,1/1/2020,"$53,420.00 ",1451853,1434625, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+7,Texas,TX,San Antonio,1/1/2021,"$54,923.00 ",1451853,1434625, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2011,"$60,797.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2012,"$62,395.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2013,"$63,456.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2014,"$67,799.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2015,"$67,871.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2016,"$71,481.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2017,"$76,662.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2018,"$79,646.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2019,"$85,507.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2020,"$83,454.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+8,California,CA,San Diego,1/1/2021,"$93,042.00 ",1381611,1386932, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2011,"$40,585.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2012,"$41,354.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2013,"$41,978.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2014,"$43,003.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2015,"$45,918.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2016,"$47,243.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2017,"$50,627.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2018,"$52,210.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2019,"$55,332.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2020,"$54,747.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+9,Texas,TX,Dallas,1/1/2021,"$57,995.00 ",1288457,1304379, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2011,"$76,593.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2012,"$80,090.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2013,"$80,977.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2014,"$87,210.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2015,"$91,451.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2016,"$101,940.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2017,"$104,675.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2018,"$113,036.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2019,"$115,893.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2020,"$117,324.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+10,California,CA,San Jose,1/1/2021,"$126,377.00 ",983489,1013240, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2011,"$49,987.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2012,"$52,453.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2013,"$56,351.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2014,"$58,458.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2015,"$62,250.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2016,"$66,697.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2017,"$67,755.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2018,"$71,543.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2019,"$75,413.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2020,"$75,752.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+11,Texas,TX,Austin,1/1/2021,"$79,542.00 ",964177,961855, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2011,"$44,802.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2012,"$42,800.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2013,"$47,424.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2014,"$44,591.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2015,"$48,239.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2016,"$51,298.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2017,"$51,497.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2018,"$54,269.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2019,"$56,975.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2020,"$55,531.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+12,Florida,FL,Jacksonville,1/1/2021,"$58,621.00 ",954614,949611, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2011,"$47,399.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2012,"$50,750.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2013,"$52,430.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2014,"$52,273.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2015,"$55,888.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2016,"$56,428.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2017,"$60,205.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2018,"$58,448.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2019,"$65,356.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2020,"$64,567.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+13,Texas,TX,Fort Worth,1/1/2021,"$68,235.00 ",935508,918915, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2011,"$40,463.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2012,"$43,844.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2013,"$44,426.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2014,"$46,481.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2015,"$47,401.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2016,"$49,602.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2017,"$51,708.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2018,"$52,971.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2019,"$57,118.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2020,"$54,902.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+14,Ohio,OH,Columbus,1/1/2021,"$58,202.00 ",906528,905748, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2011,"$39,015.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2012,"$40,854.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2013,"$41,361.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2014,"$42,370.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2015,"$41,278.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2016,"$44,615.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2017,"$47,225.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2018,"$47,678.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2019,"$49,661.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2020,"$50,813.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+15,Indiana,IN,Indianapolis,1/1/2021,"$58,479.00 ",882039,887642, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2011,"$50,177.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2012,"$50,950.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2013,"$51,034.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2014,"$55,178.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2015,"$53,919.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2016,"$61,017.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2017,"$61,350.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2018,"$60,764.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2019,"$63,483.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2020,"$65,359.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+16,North Carolina,NC,Charlotte,1/1/2021,"$70,869.00 ",879709,874579, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2011,"$69,894.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2012,"$73,012.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2013,"$77,485.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2014,"$85,070.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2015,"$92,094.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2016,"$103,801.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2017,"$110,816.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2018,"$112,376.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2019,"$123,859.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2020,"$119,136.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+17,California,CA,San Francisco,1/1/2021,"$121,826.00 ",815201,873965, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2011,"$61,037.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2012,"$64,473.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2013,"$70,172.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2014,"$70,975.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2015,"$80,349.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2016,"$83,476.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2017,"$86,822.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2018,"$93,481.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2019,"$102,486.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2020,"$97,185.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+18,Washington,WA,Seattle,1/1/2021,"$110,781.00 ",733919,737015, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2011,"$47,371.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2012,"$50,488.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2013,"$51,089.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2014,"$54,941.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2015,"$58,003.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2016,"$61,105.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2017,"$65,224.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2018,"$68,377.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2019,"$75,646.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2020,"$72,661.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+19,Colorado,CO,Denver,1/1/2021,"$81,630.00 ",711463,715522, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2011,"$42,995.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2012,"$43,352.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2013,"$46,232.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2014,"$49,119.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2015,"$50,739.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2016,"$52,915.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2017,"$52,062.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2018,"$53,973.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2019,"$55,492.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2020,"$56,456.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+20,Oklahoma,OK,Oklahoma City,1/1/2021,"$59,214.00 ",687725,681054, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2011,"$40,702.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2012,"$40,974.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2013,"$41,129.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2014,"$41,221.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2015,"$45,069.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2016,"$43,200.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2017,"$44,754.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2018,"$45,031.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2019,"$48,542.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2020,"$48,866.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+22,Texas,TX,El Paso,1/1/2021,"$51,241.00 ",678415,678815, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2011,"$63,124.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2012,"$66,583.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2013,"$67,572.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2014,"$71,648.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2015,"$75,628.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2016,"$75,506.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2017,"$82,372.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2018,"$85,203.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2019,"$92,266.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2020,"$90,842.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+23,District of Columbia,DC,Washington,1/1/2021,"$90,088.00 ",670050,689545, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+24,Massachusetts,MA,Boston,1/1/2011,"$49,081.00 ",654776,675647, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+24,Massachusetts,MA,Boston,1/1/2012,"$51,642.00 ",654776,675647, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+24,Massachusetts,MA,Boston,1/1/2013,"$53,583.00 ",654776,675647, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+24,Massachusetts,MA,Boston,1/1/2014,"$54,280.00 ",654776,675647, Median Income data supplemented by SAIPE survey data ,https://www.census.gov/programs-surveys/saipe/data/datasets.html
+24,Massachusetts,MA,Boston,1/1/2015,"$58,263.00 ",654776,675647, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+24,Massachusetts,MA,Boston,1/1/2016,"$63,621.00 ",654776,675647, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+24,Massachusetts,MA,Boston,1/1/2017,"$66,758.00 ",654776,675647, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+24,Massachusetts,MA,Boston,1/1/2018,"$71,834.00 ",654776,675647, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+24,Massachusetts,MA,Boston,1/1/2019,"$79,018.00 ",654776,675647, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+24,Massachusetts,MA,Boston,1/1/2020,"$76,298.00 ",654776,675647, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+24,Massachusetts,MA,Boston,1/1/2021,"$79,283.00 ",654776,675647, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2011,"$46,995.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2012,"$47,415.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2013,"$49,289.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2014,"$50,291.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2015,"$49,676.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2016,"$51,115.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2017,"$56,699.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2018,"$53,575.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2019,"$58,713.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2020,"$58,377.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+25,Nevada,NV,Las Vegas,1/1/2021,"$59,746.00 ",646790,641903, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2011,"$47,033.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2012,"$52,158.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2013,"$55,571.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2014,"$54,624.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2015,"$60,892.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2016,"$62,127.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2017,"$66,187.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2018,"$73,097.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2019,"$76,231.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2020,"$73,159.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+26,Oregon,OR,Portland,1/1/2021,"$79,057.00 ",641162,652503, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2011,"$25,193.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2012,"$23,600.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2013,"$24,820.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2014,"$25,769.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2015,"$25,980.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2016,"$28,099.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2017,"$30,344.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2018,"$31,283.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2019,"$33,965.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2020,"$32,498.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+27,Michigan,MI,Detroit,1/1/2021,"$36,140.00 ",632464,639111, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2011,"$34,960.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2012,"$33,563.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2013,"$36,722.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2014,"$34,704.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2015,"$36,908.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2016,"$38,826.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2017,"$39,333.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2018,"$37,199.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2019,"$43,794.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2020,"$41,864.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+29,Tennessee,TN,Memphis,1/1/2021,"$44,317.00 ",628127,633104, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+30,Maryland,MD,Baltimore,1/1/2011,"$38,721.00 ",576498,585708, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+30,Maryland,MD,Baltimore,1/1/2012,"$39,241.00 ",576498,585708, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+30,Maryland,MD,Baltimore,1/1/2013,"$42,266.00 ",576498,585708, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+30,Maryland,MD,Baltimore,1/1/2014,"$41,895.00 ",576498,585708, Median Income data supplemented by SAIPE survey data ,https://www.census.gov/programs-surveys/saipe/data/datasets.html
+30,Maryland,MD,Baltimore,1/1/2015,"$44,165.00 ",576498,585708, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+30,Maryland,MD,Baltimore,1/1/2016,"$47,350.00 ",576498,585708, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+30,Maryland,MD,Baltimore,1/1/2017,"$47,131.00 ",576498,585708, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+30,Maryland,MD,Baltimore,1/1/2018,"$51,000.00 ",576498,585708, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+30,Maryland,MD,Baltimore,1/1/2019,"$50,177.00 ",576498,585708, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+30,Maryland,MD,Baltimore,1/1/2020,"$52,164.00 ",576498,585708, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+30,Maryland,MD,Baltimore,1/1/2021,"$54,652.00 ",576498,585708, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2011,"$33,122.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2012,"$34,042.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2013,"$35,186.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2014,"$35,049.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2015,"$37,495.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2016,"$38,097.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2017,"$39,098.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2018,"$42,087.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2019,"$44,192.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2020,"$43,125.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+31,Wisconsin,WI,Milwaukee,1/1/2021,"$46,637.00 ",569330,577222, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2011,"$43,606.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2012,"$45,373.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2013,"$48,357.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2014,"$46,433.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2015,"$47,096.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2016,"$50,522.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2017,"$50,456.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2018,"$51,099.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2019,"$55,567.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2020,"$53,936.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+32,New Mexico,NM,Albuquerque,1/1/2021,"$58,512.00 ",562599,564559, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2011,"$40,533.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2012,"$38,386.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2013,"$40,179.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2014,"$39,880.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2015,"$43,494.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2016,"$44,905.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2017,"$48,600.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2018,"$49,813.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2019,"$53,161.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2020,"$53,368.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+33,California,CA,Fresno,1/1/2021,"$61,250.00 ",544510,542107, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2011,"$35,362.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2012,"$35,354.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2013,"$35,720.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2014,"$36,541.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2015,"$38,155.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2016,"$40,021.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2017,"$41,613.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2018,"$43,676.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2019,"$44,365.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2020,"$45,227.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+34,Arizona,AZ,Tucson,1/1/2021,"$50,306.00 ",543242,542629, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+35,California,CA,Sacramento,1/1/2011,"$47,908.00 ",525041,524943, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+35,California,CA,Sacramento,1/1/2012,"$48,546.00 ",525041,524943, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+35,California,CA,Sacramento,1/1/2013,"$48,034.00 ",525041,524943, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+35,California,CA,Sacramento,1/1/2014,"$55,803.00 ",525041,524943, Median Income data supplemented by SAIPE survey data ,https://www.census.gov/programs-surveys/saipe/data/datasets.html
+35,California,CA,Sacramento,1/1/2015,"$52,151.00 ",525041,524943, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+35,California,CA,Sacramento,1/1/2016,"$55,187.00 ",525041,524943, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+35,California,CA,Sacramento,1/1/2017,"$56,943.00 ",525041,524943, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+35,California,CA,Sacramento,1/1/2018,"$65,046.00 ",525041,524943, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+35,California,CA,Sacramento,1/1/2019,"$69,134.00 ",525041,524943, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+35,California,CA,Sacramento,1/1/2020,"$65,847.00 ",525041,524943, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+35,California,CA,Sacramento,1/1/2021,"$75,311.00 ",525041,524943, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2011,"$44,527.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2012,"$47,256.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2013,"$47,561.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2014,"$47,675.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2015,"$49,177.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2016,"$52,393.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2017,"$55,014.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2018,"$58,247.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2019,"$63,836.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2020,"$61,640.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+36,Arizona,AZ,Mesa,1/1/2021,"$69,266.00 ",509475,504258, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2011,"$43,810.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2012,"$41,877.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2013,"$45,551.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2014,"$44,173.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2015,"$50,259.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2016,"$51,235.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2017,"$51,330.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2018,"$54,372.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2019,"$55,259.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2020,"$56,179.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+37,Missouri,MO,Kansas City,1/1/2021,"$63,396.00 ",508394,508090, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2011,"$43,903.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2012,"$46,466.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2013,"$46,485.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2014,"$46,777.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2015,"$50,210.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2016,"$53,843.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2017,"$57,597.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2018,"$65,345.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2019,"$66,657.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2020,"$64,179.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+38,Georgia,GA,Atlanta,1/1/2021,"$74,107.00 ",496461,498715, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2011,"$45,536.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2012,"$45,159.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2013,"$47,512.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2014,"$48,410.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2015,"$51,407.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2016,"$52,672.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2017,"$56,406.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2018,"$59,266.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2019,"$61,305.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2020,"$62,213.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+39,Nebraska,NE,Omaha,1/1/2021,"$62,948.00 ",487300,486051, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2011,"$50,945.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2012,"$52,622.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2013,"$53,550.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2014,"$53,915.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2015,"$56,079.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2016,"$60,308.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2017,"$59,514.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2018,"$65,331.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2019,"$70,527.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2020,"$67,719.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+40,Colorado,CO,Colorado Springs,1/1/2021,"$74,579.00 ",483956,478961, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2011,"$52,040.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2012,"$53,653.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2013,"$55,170.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2014,"$53,475.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2015,"$56,910.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2016,"$64,456.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2017,"$64,660.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2018,"$65,695.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2019,"$69,333.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2020,"$69,720.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+41,North Carolina,NC,Raleigh,1/1/2021,"$74,612.00 ",469124,467665, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2011,"$64,614.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2012,"$61,626.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2013,"$62,855.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2014,"$68,816.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2015,"$67,281.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2016,"$71,117.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2017,"$72,586.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2018,"$77,059.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2019,"$79,054.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2020,"$78,136.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+42,Virginia,VA,Virginia Beach,1/1/2021,"$81,634.00 ",457672,459470, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2011,"$51,214.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2012,"$47,837.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2013,"$52,116.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2014,"$54,511.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2015,"$54,971.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2016,"$60,075.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2017,"$60,557.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2018,"$61,610.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2019,"$67,804.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2020,"$66,410.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+43,California,CA,Long Beach,1/1/2021,"$73,905.00 ",456062,466742, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2011,"$28,536.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2012,"$28,301.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2013,"$31,070.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2014,"$31,917.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2015,"$29,989.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2016,"$34,901.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2017,"$40,327.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2018,"$41,818.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2019,"$42,966.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2020,"$44,268.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+44,Florida,FL,Miami,1/1/2021,"$48,789.00 ",439890,442241, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2011,"$50,500.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2012,"$48,196.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2013,"$54,394.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2014,"$56,188.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2015,"$58,807.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2016,"$68,060.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2017,"$70,577.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2018,"$76,469.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2019,"$82,018.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2020,"$80,143.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+45,California,CA,Oakland,1/1/2021,"$82,236.00 ",433823,440646, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2011,"$46,682.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2012,"$47,604.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2013,"$50,563.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2014,"$50,791.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2015,"$54,571.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2016,"$56,255.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2017,"$60,789.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2018,"$63,590.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2019,"$65,889.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2020,"$66,068.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+46,Minnesota,MN,Minneapolis,1/1/2021,"$69,397.00 ",425336,429954, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2011,"$40,123.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2012,"$40,440.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2013,"$41,495.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2014,"$42,803.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2015,"$43,322.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2016,"$43,134.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2017,"$45,894.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2018,"$47,583.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2019,"$49,158.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2020,"$49,474.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+47,Oklahoma,OK,Tulsa,1/1/2021,"$51,008.00 ",411401,413066, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2011,"$51,667.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2012,"$53,693.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2013,"$54,763.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2014,"$58,154.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2015,"$61,039.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2016,"$59,233.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2017,"$57,105.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2018,"$60,002.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2019,"$62,402.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2020,"$65,687.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+48,California,CA,Bakersfield,1/1/2021,"$66,666.00 ",407615,403455, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+49,Kansas,KS,Wichita,1/1/2011,"$44,184.00 ",395699,397532, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+49,Kansas,KS,Wichita,1/1/2012,"$43,776.00 ",395699,397532, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+49,Kansas,KS,Wichita,1/1/2013,"$43,538.00 ",395699,397532, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+49,Kansas,KS,Wichita,1/1/2014,"$51,175.00 ",395699,397532, Median Income data supplemented by SAIPE survey data ,https://www.census.gov/programs-surveys/saipe/data/datasets.html
+49,Kansas,KS,Wichita,1/1/2015,"$46,894.00 ",395699,397532, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+49,Kansas,KS,Wichita,1/1/2016,"$49,202.00 ",395699,397532, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+49,Kansas,KS,Wichita,1/1/2017,"$50,504.00 ",395699,397532, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+49,Kansas,KS,Wichita,1/1/2018,"$51,051.00 ",395699,397532, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+49,Kansas,KS,Wichita,1/1/2019,"$60,014.00 ",395699,397532, Median Income data supplemented by SAIPE survey data ,https://www.census.gov/programs-surveys/saipe/data/datasets.html
+49,Kansas,KS,Wichita,1/1/2020,"$53,466.00 ",395699,397532, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+49,Kansas,KS,Wichita,1/1/2021,"$56,293.00 ",395699,397532, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2011,"$50,655.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2012,"$51,285.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2013,"$51,400.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2014,"$52,141.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2015,"$53,487.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2016,"$54,272.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2017,"$57,083.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2018,"$63,091.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2019,"$61,716.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2020,"$63,351.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+50,Texas,TX,Arlington,1/1/2021,"$59,889.00 ",392786,394266, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2011,"$49,593.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2012,"$50,512.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2013,"$49,142.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2014,"$54,702.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2015,"$58,445.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2016,"$59,467.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2017,"$63,055.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2018,"$63,128.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2019,"$69,235.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2020,"$67,723.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+51,Colorado,CO,Aurora,1/1/2021,"$71,647.00 ",389347,386261, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+52,Florida,FL,Tampa,1/1/2011,"$40,073.00 ",387050,384959, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+52,Florida,FL,Tampa,1/1/2012,"$40,894.00 ",387050,384959, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+52,Florida,FL,Tampa,1/1/2013,"$42,649.00 ",387050,384959, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+52,Florida,FL,Tampa,1/1/2014,"$50,758.00 ",387050,384959, Median Income data supplemented by SAIPE survey data ,https://www.census.gov/programs-surveys/saipe/data/datasets.html
+52,Florida,FL,Tampa,1/1/2015,"$44,432.00 ",387050,384959, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+52,Florida,FL,Tampa,1/1/2016,"$50,405.00 ",387050,384959, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+52,Florida,FL,Tampa,1/1/2017,"$50,489.00 ",387050,384959, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+52,Florida,FL,Tampa,1/1/2018,"$54,599.00 ",387050,384959, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+52,Florida,FL,Tampa,1/1/2019,"$57,709.00 ",387050,384959, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+52,Florida,FL,Tampa,1/1/2020,"$55,634.00 ",387050,384959, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+52,Florida,FL,Tampa,1/1/2021,"$63,404.00 ",387050,384959, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2011,"$35,041.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2012,"$34,361.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2013,"$36,631.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2014,"$35,504.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2015,"$39,077.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2016,"$38,681.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2017,"$36,999.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2018,"$38,423.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2019,"$45,615.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2020,"$43,258.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+53,Louisiana,LA,New Orleans,1/1/2021,"$46,942.00 ",376971,383997, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2011,"$25,371.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2012,"$24,257.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2013,"$26,096.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2014,"$24,701.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2015,"$28,831.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2016,"$27,551.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2017,"$28,974.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2018,"$29,953.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2019,"$32,053.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2020,"$31,838.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+54,Ohio,OH,Cleveland,1/1/2021,"$35,562.00 ",367991,372624, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2011,"$56,858.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2012,"$55,464.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2013,"$57,550.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2014,"$62,198.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2015,"$63,104.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2016,"$64,464.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2017,"$70,395.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2018,"$76,154.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2019,"$76,075.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2020,"$76,723.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+55,California,CA,Anaheim,1/1/2021,"$81,747.00 ",345940,346824, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2011,"$60,453.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2012,"$61,404.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2013,"$60,819.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2014,"$62,592.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2015,"$64,035.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2016,"$68,191.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2017,"$69,667.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2018,"$72,884.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2019,"$81,505.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2020,"$75,430.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+57,Nevada,NV,Henderson,1/1/2021,"$77,924.00 ",322178,317610, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2011,"$44,310.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2012,"$43,321.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2013,"$42,114.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2014,"$40,993.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2015,"$46,795.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2016,"$49,271.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2017,"$51,336.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2018,"$54,297.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2019,"$59,504.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2020,"$58,393.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+58,California,CA,Stockton,1/1/2021,"$69,844.00 ",322120,320804, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2011,"$44,893.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2012,"$49,336.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2013,"$49,686.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2014,"$52,066.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2015,"$51,255.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2016,"$54,344.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2017,"$53,605.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2018,"$56,602.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2019,"$55,564.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2020,"$57,387.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+60,Texas,TX,Corpus Christi,1/1/2021,"$59,812.00 ",317773,317863, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2011,"$51,331.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2012,"$52,697.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2013,"$54,300.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2014,"$58,368.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2015,"$61,279.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2016,"$63,548.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2017,"$66,928.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2018,"$67,850.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2019,"$71,967.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2020,"$72,738.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+61,California,CA,Riverside,1/1/2021,"$76,558.00 ",317261,314998, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2011,"$51,264.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2012,"$53,593.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2013,"$47,914.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2014,"$50,797.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2015,"$54,392.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2016,"$61,895.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2017,"$65,655.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2018,"$65,313.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2019,"$70,084.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2020,"$72,406.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+62,California,CA,Santa Ana,1/1/2021,"$80,265.00 ",309441,310227, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2011,"$40,275.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2012,"$41,695.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2013,"$41,345.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2014,"$41,081.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2015,"$44,804.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2016,"$46,761.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2017,"$47,594.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2018,"$51,820.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2019,"$58,819.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2020,"$55,183.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+63,Florida,FL,Orlando,1/1/2021,"$54,167.00 ",309154,307573, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2011,"$87,484.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2012,"$96,278.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2013,"$87,830.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2014,"$90,743.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2015,"$93,781.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2016,"$97,496.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2017,"$104,185.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2018,"$101,667.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2019,"$111,574.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2020,"$108,318.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+64,California,CA,Irvine,1/1/2021,"$105,774.00 ",309031,307670, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2011,"$31,301.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2012,"$30,188.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2013,"$34,605.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2014,"$32,688.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2015,"$35,001.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2016,"$38,539.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2017,"$38,938.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2018,"$43,585.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2019,"$46,260.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2020,"$42,663.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+65,Ohio,OH,Cincinnati,1/1/2021,"$42,733.00 ",308935,309317, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2011,"$31,731.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2012,"$31,293.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2013,"$32,973.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2014,"$35,947.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2015,"$30,966.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2016,"$31,100.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2017,"$35,167.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2018,"$37,642.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2019,"$40,235.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2020,"$37,476.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+66,New Jersey,NJ,Newark,1/1/2021,"$43,242.00 ",307220,311549, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2011,"$42,069.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2012,"$48,235.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2013,"$49,469.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2014,"$48,855.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2015,"$50,267.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2016,"$54,085.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2017,"$54,290.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2018,"$59,033.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2019,"$63,174.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2020,"$59,717.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+67,Minnesota,MN,Saint Paul,1/1/2021,"$66,098.00 ",307193,311527, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2011,"$35,947.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2012,"$39,884.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2013,"$42,004.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2014,"$41,074.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2015,"$41,293.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2016,"$44,707.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2017,"$45,851.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2018,"$47,417.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2019,"$53,799.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2020,"$50,536.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+68,Pennsylvania,PA,Pittsburgh,1/1/2021,"$57,821.00 ",300431,302971, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2011,"$39,637.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2012,"$39,336.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2013,"$41,150.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2014,"$41,181.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2015,"$44,934.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2016,"$45,064.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2017,"$47,043.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2018,"$45,787.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2019,"$49,748.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2020,"$49,492.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+69,North Carolina,NC,Greensboro,1/1/2021,"$51,825.00 ",298263,299035, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2011,"$32,570.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2012,"$31,997.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2013,"$34,488.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2014,"$35,959.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2015,"$38,397.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2016,"$40,346.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2017,"$41,441.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2018,"$43,889.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2019,"$47,176.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2020,"$45,782.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+70,Missouri,MO,St. Louis,1/1/2021,"$49,965.00 ",293310,301578, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2011,"$46,670.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2012,"$48,070.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2013,"$49,419.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2014,"$50,241.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2015,"$51,503.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2016,"$55,792.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2017,"$56,160.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2018,"$55,388.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2019,"$59,228.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2020,"$60,063.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+71,Nebraska,NE,Lincoln,1/1/2021,"$62,294.00 ",292657,291082, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2011,"$80,184.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2012,"$81,475.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2013,"$80,448.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2014,"$81,571.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2015,"$83,769.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2016,"$88,398.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2017,"$94,306.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2018,"$93,012.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2019,"$93,321.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2020,"$96,348.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+72,Texas,TX,Plano,1/1/2021,"$95,002.00 ",288253,285494, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2011,"$72,813.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2012,"$72,575.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2013,"$79,045.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2014,"$76,337.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2015,"$78,662.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2016,"$85,634.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2017,"$79,166.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2018,"$83,648.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2019,"$82,716.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2020,"$84,813.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+73,Alaska,AK,Anchorage,1/1/2021,"$86,654.00 ",288121,291247, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2011,"$43,654.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2012,"$49,332.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2013,"$50,522.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2014,"$48,731.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2015,"$52,106.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2016,"$52,208.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2017,"$56,375.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2018,"$54,840.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2019,"$65,534.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2020,"$61,962.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+74,North Carolina,NC,Durham,1/1/2021,"$71,343.00 ",285527,283506, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2011,"$56,843.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2012,"$56,794.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2013,"$54,700.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2014,"$60,497.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2015,"$59,485.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2016,"$63,227.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2017,"$66,264.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2018,"$72,561.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2019,"$81,693.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2020,"$76,444.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
+75,New Jersey,NJ,Jersey City,1/1/2021,"$81,958.00 ",283927,292449, Median Income data provided by ACS survey ,https://www.census.gov/programs-surveys/acs/data.html
