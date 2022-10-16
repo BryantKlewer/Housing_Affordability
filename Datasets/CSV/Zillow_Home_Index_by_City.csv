@@ -1,0 +1,826 @@
+﻿City_Rank_by_Population(2021),State,State_Abbreviation,City,Observation_Date, Single_Family_Median_Typical_Home_Value ,  One_Bedroom_Median_Typical_Home_Value  ,  Two_Bedroom_Median_Typical_Home_Value  ,  Three_Bedroom_Median_Typical_Home_Value  ,  Four_Bedroom_Median_Typical_Home_Value  , Fixe_Plus_Bedroom_Median_Typical_Home_Value ,Source
+1,New York,NY,New York,1/1/2011," $460,824.00 "," $419,555.50 "," $549,450.50 "," $455,413.00 "," $532,583.50 "," $659,430.50 ",https://www.zillow.com/research/data/
+1,New York,NY,New York,1/1/2012," $453,166.50 "," $421,581.50 "," $549,293.00 "," $448,447.00 "," $526,229.00 "," $657,157.50 ",https://www.zillow.com/research/data/
+1,New York,NY,New York,1/1/2013," $467,125.50 "," $445,182.50 "," $579,800.50 "," $461,446.50 "," $543,111.50 "," $688,458.00 ",https://www.zillow.com/research/data/
+1,New York,NY,New York,1/1/2014," $499,898.00 "," $487,199.50 "," $634,870.50 "," $493,995.00 "," $588,659.00 "," $757,356.50 ",https://www.zillow.com/research/data/
+1,New York,NY,New York,1/1/2015," $526,189.00 "," $536,285.00 "," $689,511.50 "," $522,588.50 "," $628,622.00 "," $830,589.00 ",https://www.zillow.com/research/data/
+1,New York,NY,New York,1/1/2016," $564,503.50 "," $569,297.50 "," $670,378.00 "," $556,116.50 "," $671,733.50 "," $902,753.00 ",https://www.zillow.com/research/data/
+1,New York,NY,New York,1/1/2017," $609,639.00 "," $596,954.50 "," $704,059.00 "," $599,185.00 "," $723,163.50 "," $974,056.00 ",https://www.zillow.com/research/data/
+1,New York,NY,New York,1/1/2018," $657,625.00 "," $616,076.50 "," $736,671.00 "," $647,903.50 "," $779,734.00 "," $1,045,178.00 ",https://www.zillow.com/research/data/
+1,New York,NY,New York,1/1/2019," $674,181.50 "," $611,226.50 "," $742,837.50 "," $660,848.00 "," $795,054.00 "," $1,074,956.00 ",https://www.zillow.com/research/data/
+1,New York,NY,New York,1/1/2020," $674,022.50 "," $601,245.00 "," $733,223.00 "," $659,853.50 "," $791,277.00 "," $1,075,888.50 ",https://www.zillow.com/research/data/
+1,New York,NY,New York,1/1/2021," $706,417.00 "," $603,709.00 "," $751,189.00 "," $690,397.50 "," $829,040.00 "," $1,127,861.00 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2011," $435,480.00 "," $272,758.50 "," $344,333.00 "," $401,657.00 "," $529,030.50 "," $1,035,366.50 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2012," $427,431.00 "," $265,623.00 "," $334,394.50 "," $392,497.00 "," $518,414.50 "," $1,024,005.00 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2013," $509,581.50 "," $325,530.50 "," $404,488.50 "," $467,068.00 "," $609,053.00 "," $1,189,716.00 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2014," $560,058.50 "," $366,900.50 "," $450,210.50 "," $514,182.00 "," $665,534.00 "," $1,301,142.00 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2015," $592,037.00 "," $392,237.00 "," $477,165.00 "," $542,274.50 "," $695,501.50 "," $1,357,641.00 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2016," $639,353.50 "," $427,137.00 "," $518,834.00 "," $586,130.50 "," $740,608.50 "," $1,430,196.00 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2017," $681,041.50 "," $458,963.50 "," $558,121.00 "," $625,633.00 "," $780,992.50 "," $1,499,041.50 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2018," $740,088.00 "," $504,160.50 "," $615,996.00 "," $679,772.50 "," $839,575.50 "," $1,604,369.50 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2019," $749,090.00 "," $510,428.00 "," $625,041.00 "," $687,367.00 "," $847,294.50 "," $1,617,306.50 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2020," $792,644.00 "," $528,657.00 "," $656,899.50 "," $729,169.50 "," $894,337.50 "," $1,676,027.00 ",https://www.zillow.com/research/data/
+2,California,CA,Los Angeles,1/1/2021," $937,656.50 "," $575,026.00 "," $746,089.50 "," $860,336.50 "," $1,066,739.50 "," $1,949,031.50 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2011," $188,293.50 "," $174,061.50 "," $195,267.00 "," $196,828.50 "," $228,488.00 "," $254,071.50 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2012," $172,570.00 "," $162,008.50 "," $178,028.50 "," $181,587.50 "," $216,034.00 "," $240,993.00 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2013," $181,089.50 "," $180,363.50 "," $189,911.50 "," $191,174.50 "," $228,698.00 "," $253,283.50 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2014," $197,298.00 "," $199,134.50 "," $210,611.50 "," $209,122.00 "," $247,594.00 "," $269,463.00 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2015," $207,696.50 "," $204,888.50 "," $221,887.00 "," $219,159.50 "," $259,367.00 "," $284,924.00 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2016," $219,346.00 "," $212,262.50 "," $233,645.50 "," $229,350.50 "," $272,202.00 "," $302,999.50 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2017," $234,363.50 "," $222,215.50 "," $248,720.00 "," $245,042.50 "," $289,533.50 "," $320,590.00 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2018," $244,208.00 "," $226,532.00 "," $258,913.50 "," $254,263.50 "," $299,045.50 "," $331,889.00 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2019," $248,326.00 "," $225,573.00 "," $260,868.50 "," $258,145.50 "," $303,511.00 "," $337,310.50 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2020," $252,159.50 "," $227,702.00 "," $261,569.50 "," $261,443.50 "," $309,442.00 "," $344,695.00 ",https://www.zillow.com/research/data/
+3,Illinois,IL,Chicago,1/1/2021," $282,580.00 "," $236,544.50 "," $284,521.50 "," $291,592.00 "," $346,520.00 "," $388,040.50 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2011," $124,864.00 "," $70,218.50 "," $85,488.00 "," $111,605.50 "," $162,445.50 "," $283,861.50 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2012," $124,078.00 "," $70,971.50 "," $85,119.00 "," $109,884.00 "," $162,726.50 "," $288,350.00 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2013," $134,300.50 "," $77,472.00 "," $92,091.50 "," $118,659.00 "," $176,576.50 "," $314,851.00 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2014," $148,960.00 "," $86,787.50 "," $102,135.50 "," $131,867.50 "," $193,211.00 "," $340,986.00 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2015," $164,574.00 "," $98,104.50 "," $113,760.00 "," $146,448.50 "," $212,427.50 "," $373,324.00 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2016," $171,800.50 "," $105,052.00 "," $119,289.50 "," $153,865.00 "," $219,179.50 "," $375,306.50 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2017," $179,082.00 "," $109,530.00 "," $125,094.00 "," $161,287.50 "," $225,189.50 "," $377,769.50 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2018," $186,486.50 "," $113,616.50 "," $133,340.00 "," $168,885.50 "," $230,974.00 "," $380,409.50 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2019," $195,305.00 "," $117,434.00 "," $143,651.50 "," $177,786.50 "," $237,475.50 "," $387,789.50 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2020," $202,412.00 "," $119,580.00 "," $150,282.50 "," $185,021.50 "," $243,819.50 "," $392,244.00 ",https://www.zillow.com/research/data/
+4,Texas,TX,Houston,1/1/2021," $229,725.50 "," $132,536.00 "," $168,663.50 "," $210,146.00 "," $276,587.50 "," $441,456.50 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2011," $112,204.00 "," $57,427.50 "," $75,507.50 "," $102,134.50 "," $150,566.50 "," $258,880.00 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2012," $126,599.00 "," $65,678.00 "," $85,786.50 "," $115,695.50 "," $169,108.50 "," $287,248.00 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2013," $160,519.00 "," $85,250.50 "," $110,561.50 "," $149,155.00 "," $209,644.50 "," $341,960.50 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2014," $178,221.50 "," $96,282.00 "," $124,740.50 "," $165,530.50 "," $230,414.00 "," $365,453.00 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2015," $190,565.00 "," $105,001.00 "," $134,899.00 "," $177,151.50 "," $242,503.00 "," $378,258.00 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2016," $206,447.50 "," $115,429.50 "," $147,805.50 "," $193,108.00 "," $258,219.00 "," $395,020.00 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2017," $222,031.50 "," $125,724.00 "," $162,374.50 "," $209,218.00 "," $272,724.00 "," $408,493.00 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2018," $239,211.00 "," $140,418.00 "," $179,529.50 "," $225,470.50 "," $291,564.50 "," $431,028.00 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2019," $251,377.00 "," $151,218.50 "," $192,577.00 "," $237,870.50 "," $304,643.50 "," $448,804.50 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2020," $277,370.50 "," $167,448.50 "," $212,292.50 "," $262,946.00 "," $332,114.50 "," $482,358.50 ",https://www.zillow.com/research/data/
+5,Arizona,AZ,Phoenix,1/1/2021," $359,291.50 "," $216,523.00 "," $277,632.00 "," $340,718.00 "," $428,991.50 "," $622,279.00 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2011," $135,741.00 "," $221,490.00 "," $160,968.50 "," $120,876.00 "," $172,850.00 "," $240,110.00 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2012," $129,322.50 "," $220,978.50 "," $152,781.00 "," $114,225.50 "," $167,669.00 "," $231,871.50 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2013," $129,270.00 "," $229,175.00 "," $156,940.00 "," $113,292.00 "," $168,913.00 "," $235,499.50 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2014," $129,916.50 "," $237,172.00 "," $158,557.50 "," $114,259.00 "," $170,732.50 "," $246,703.50 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2015," $134,176.50 "," $242,852.00 "," $166,180.50 "," $117,622.50 "," $177,645.00 "," $262,342.00 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2016," $137,178.50 "," $245,769.50 "," $170,719.50 "," $121,082.50 "," $180,801.00 "," $267,689.50 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2017," $146,778.50 "," $260,086.00 "," $182,754.50 "," $129,988.50 "," $193,419.00 "," $279,673.50 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2018," $164,287.50 "," $268,444.50 "," $201,351.00 "," $146,930.50 "," $213,342.00 "," $308,322.00 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2019," $178,344.50 "," $272,100.00 "," $212,242.00 "," $160,287.00 "," $230,354.50 "," $325,396.00 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2020," $189,607.00 "," $273,411.00 "," $221,005.50 "," $170,949.00 "," $242,497.50 "," $340,567.00 ",https://www.zillow.com/research/data/
+6,Pennsylvania,PA,Philadelphia,1/1/2021," $218,388.50 "," $292,590.50 "," $246,820.50 "," $197,773.00 "," $276,699.00 "," $388,004.00 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2011," $138,430.50 "," $63,654.50 "," $86,433.50 "," $122,131.00 "," $183,353.00 "," $256,438.50 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2012," $139,092.00 "," $60,799.50 "," $83,669.00 "," $122,656.50 "," $186,245.50 "," $261,315.50 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2013," $143,721.50 "," $63,196.50 "," $86,089.00 "," $126,713.00 "," $192,334.50 "," $269,286.50 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2014," $153,554.00 "," $67,742.00 "," $89,978.00 "," $135,575.00 "," $204,600.00 "," $284,524.50 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2015," $163,299.00 "," $72,499.00 "," $95,865.00 "," $144,937.00 "," $214,172.50 "," $295,515.00 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2016," $175,554.50 "," $76,569.00 "," $105,029.00 "," $156,408.00 "," $226,653.00 "," $308,455.00 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2017," $186,086.00 "," $84,204.50 "," $115,564.50 "," $166,854.00 "," $235,842.00 "," $315,867.50 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2018," $196,600.00 "," $91,444.50 "," $126,302.50 "," $177,087.00 "," $245,043.50 "," $324,627.00 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2019," $207,037.50 "," $99,983.50 "," $138,144.00 "," $186,959.50 "," $253,636.50 "," $332,524.00 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2020," $212,575.00 "," $103,865.00 "," $141,787.50 "," $192,123.50 "," $258,988.00 "," $337,715.00 ",https://www.zillow.com/research/data/
+7,Texas,TX,San Antonio,1/1/2021," $246,945.00 "," $118,909.00 "," $164,473.00 "," $222,745.00 "," $299,352.50 "," $390,022.00 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2011," $433,018.50 "," $185,957.50 "," $301,590.50 "," $385,353.00 "," $512,782.50 "," $784,528.50 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2012," $428,818.00 "," $179,719.00 "," $291,397.00 "," $380,750.00 "," $510,532.00 "," $779,663.50 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2013," $507,243.00 "," $222,795.00 "," $349,140.00 "," $452,690.00 "," $597,013.50 "," $899,666.50 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2014," $541,555.50 "," $251,752.50 "," $381,095.50 "," $484,065.00 "," $636,104.50 "," $947,489.50 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2015," $557,815.50 "," $261,116.00 "," $392,881.00 "," $500,726.00 "," $652,681.00 "," $966,788.00 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2016," $590,133.00 "," $279,902.50 "," $418,351.50 "," $531,355.00 "," $686,424.50 "," $1,011,260.00 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2017," $634,886.00 "," $308,936.00 "," $455,895.00 "," $574,267.00 "," $734,387.00 "," $1,074,555.50 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2018," $676,508.00 "," $335,205.00 "," $490,876.50 "," $616,134.50 "," $781,275.50 "," $1,145,974.00 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2019," $689,258.00 "," $342,028.00 "," $499,251.00 "," $629,507.50 "," $793,796.00 "," $1,160,969.50 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2020," $726,759.50 "," $355,203.50 "," $518,756.00 "," $664,131.50 "," $834,402.50 "," $1,221,636.50 ",https://www.zillow.com/research/data/
+8,California,CA,San Diego,1/1/2021," $909,939.50 "," $412,284.50 "," $621,327.00 "," $830,288.50 "," $1,048,461.50 "," $1,524,823.00 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2011," $130,076.50 "," $71,267.50 "," $95,742.00 "," $118,491.00 "," $251,898.50 "," $593,003.00 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2012," $128,011.50 "," $71,186.50 "," $93,626.50 "," $116,196.00 "," $255,461.50 "," $595,072.50 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2013," $134,944.00 "," $76,882.50 "," $98,580.50 "," $121,612.50 "," $274,148.50 "," $636,796.50 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2014," $145,377.50 "," $82,939.00 "," $106,969.00 "," $130,452.00 "," $300,230.00 "," $680,173.00 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2015," $159,655.50 "," $91,241.50 "," $119,227.50 "," $142,456.50 "," $331,359.00 "," $739,105.00 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2016," $176,023.50 "," $102,599.00 "," $132,498.00 "," $156,542.00 "," $358,669.00 "," $782,869.00 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2017," $195,097.50 "," $119,518.50 "," $149,018.00 "," $174,798.50 "," $383,381.50 "," $814,964.50 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2018," $218,016.00 "," $134,030.50 "," $168,350.00 "," $196,507.00 "," $408,388.00 "," $849,989.50 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2019," $234,389.50 "," $141,233.00 "," $184,874.50 "," $213,383.50 "," $423,867.00 "," $863,445.00 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2020," $240,299.00 "," $142,293.50 "," $189,918.50 "," $219,814.50 "," $433,499.00 "," $869,495.00 ",https://www.zillow.com/research/data/
+9,Texas,TX,Dallas,1/1/2021," $277,199.50 "," $153,968.50 "," $214,874.00 "," $253,656.00 "," $496,882.50 "," $993,572.50 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2011," $527,956.50 "," $230,025.00 "," $314,753.50 "," $472,595.00 "," $579,560.00 "," $767,867.00 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2012," $552,563.50 "," $237,825.00 "," $325,729.50 "," $494,706.00 "," $605,679.50 "," $802,815.00 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2013," $677,070.00 "," $316,021.50 "," $417,905.00 "," $614,402.00 "," $732,413.00 "," $944,364.00 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2014," $739,466.50 "," $358,783.00 "," $470,275.00 "," $673,911.50 "," $796,902.50 "," $1,021,859.00 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2015," $822,023.50 "," $400,764.50 "," $526,133.00 "," $750,570.50 "," $882,510.00 "," $1,141,121.00 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2016," $880,424.00 "," $445,194.50 "," $577,531.00 "," $806,240.00 "," $944,690.50 "," $1,214,219.00 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2017," $937,162.50 "," $469,121.00 "," $614,439.00 "," $859,703.50 "," $1,006,492.50 "," $1,283,651.00 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2018," $1,157,092.00 "," $583,161.50 "," $756,971.00 "," $1,067,095.00 "," $1,233,724.50 "," $1,534,261.00 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2019," $1,066,964.00 "," $548,891.00 "," $703,766.00 "," $980,450.00 "," $1,143,895.00 "," $1,444,830.50 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2020," $1,109,449.50 "," $547,057.50 "," $716,989.00 "," $1,013,292.00 "," $1,191,256.50 "," $1,505,316.00 ",https://www.zillow.com/research/data/
+10,California,CA,San Jose,1/1/2021," $1,311,137.50 "," $574,695.50 "," $784,850.00 "," $1,194,539.00 "," $1,414,270.50 "," $1,778,559.00 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2011," $226,502.00 "," $158,934.00 "," $200,943.50 "," $199,288.50 "," $279,670.50 "," $437,702.00 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2012," $235,254.00 "," $164,869.00 "," $209,283.00 "," $205,937.50 "," $291,546.50 "," $458,066.50 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2013," $259,171.00 "," $181,019.50 "," $230,124.00 "," $226,825.50 "," $319,929.50 "," $493,202.50 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2014," $289,027.00 "," $199,733.00 "," $256,660.50 "," $253,059.50 "," $352,088.50 "," $533,268.00 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2015," $312,608.00 "," $216,447.50 "," $280,171.00 "," $275,501.50 "," $375,071.50 "," $565,887.50 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2016," $338,906.00 "," $235,137.50 "," $302,589.50 "," $299,802.50 "," $399,864.50 "," $591,912.50 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2017," $354,855.00 "," $248,442.00 "," $318,738.00 "," $315,372.00 "," $414,776.50 "," $606,420.50 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2018," $369,228.50 "," $258,793.50 "," $331,910.50 "," $328,992.00 "," $427,760.50 "," $624,443.50 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2019," $386,678.50 "," $271,815.00 "," $347,987.00 "," $343,763.50 "," $446,165.00 "," $651,665.00 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2020," $416,094.50 "," $286,518.00 "," $369,414.00 "," $370,329.50 "," $478,950.00 "," $693,039.00 ",https://www.zillow.com/research/data/
+11,Texas,TX,Austin,1/1/2021," $590,289.00 "," $351,939.00 "," $492,504.00 "," $521,582.00 "," $686,331.00 "," $994,011.00 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2011," $123,201.00 "," $50,617.00 "," $65,512.50 "," $110,058.50 "," $173,148.00 "," $265,635.50 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2012," $115,980.00 "," $51,454.00 "," $62,477.00 "," $103,337.00 "," $167,947.50 "," $259,414.50 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2013," $127,215.50 "," $61,174.50 "," $68,089.00 "," $113,168.00 "," $184,552.00 "," $282,407.50 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2014," $139,686.00 "," $69,197.50 "," $75,768.50 "," $125,023.00 "," $198,773.00 "," $299,352.00 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2015," $146,252.50 "," $71,541.50 "," $79,423.50 "," $131,342.50 "," $206,577.00 "," $310,239.00 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2016," $156,798.00 "," $78,843.50 "," $86,732.00 "," $141,912.50 "," $218,174.50 "," $323,194.50 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2017," $169,940.50 "," $89,066.00 "," $99,082.00 "," $154,602.00 "," $232,058.00 "," $336,650.00 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2018," $186,007.50 "," $101,744.50 "," $112,890.00 "," $169,576.00 "," $249,548.00 "," $355,100.00 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2019," $196,951.00 "," $108,311.50 "," $122,937.50 "," $180,839.50 "," $257,475.00 "," $361,662.50 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2020," $207,243.00 "," $112,765.00 "," $131,204.50 "," $190,912.00 "," $268,179.50 "," $371,654.00 ",https://www.zillow.com/research/data/
+12,Florida,FL,Jacksonville,1/1/2021," $245,425.00 "," $131,292.50 "," $156,033.00 "," $226,079.50 "," $315,895.50 "," $435,503.00 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2011," $117,898.00 "," $84,586.50 "," $72,334.50 "," $100,983.00 "," $161,790.50 "," $211,913.50 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2012," $119,160.50 "," $82,946.00 "," $72,410.50 "," $101,862.00 "," $164,433.00 "," $215,400.50 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2013," $125,279.50 "," $85,012.00 "," $74,717.50 "," $106,943.00 "," $172,194.50 "," $226,140.50 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2014," $135,146.50 "," $93,866.00 "," $80,299.00 "," $115,862.50 "," $184,253.00 "," $242,720.50 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2015," $147,109.00 "," $104,559.00 "," $87,536.00 "," $126,692.00 "," $199,420.00 "," $259,453.00 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2016," $162,457.50 "," $111,964.00 "," $97,511.50 "," $140,682.50 "," $218,624.50 "," $280,394.00 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2017," $180,216.00 "," $123,226.00 "," $111,088.00 "," $157,478.00 "," $236,970.00 "," $297,904.50 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2018," $198,376.00 "," $135,272.00 "," $126,854.50 "," $174,997.00 "," $254,159.00 "," $313,919.00 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2019," $208,476.00 "," $142,962.50 "," $139,477.00 "," $186,071.50 "," $260,861.00 "," $319,172.50 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2020," $217,147.50 "," $157,436.50 "," $148,876.00 "," $195,441.00 "," $267,839.00 "," $328,030.00 ",https://www.zillow.com/research/data/
+13,Texas,TX,Fort Worth,1/1/2021," $258,910.00 "," $187,770.00 "," $178,024.00 "," $233,873.50 "," $317,881.00 "," $387,202.50 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2011," $113,589.50 "," $69,790.00 "," $84,797.00 "," $109,099.00 "," $157,415.50 "," $176,057.00 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2012," $106,262.50 "," $62,799.50 "," $74,165.50 "," $101,982.50 "," $151,474.00 "," $171,082.50 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2013," $108,055.00 "," $66,918.50 "," $75,382.50 "," $103,210.50 "," $157,413.50 "," $177,723.00 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2014," $114,738.00 "," $73,862.50 "," $81,361.00 "," $109,809.50 "," $164,630.00 "," $187,913.50 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2015," $122,822.00 "," $78,145.50 "," $86,071.00 "," $117,578.50 "," $175,501.50 "," $201,608.50 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2016," $131,862.00 "," $83,218.00 "," $91,901.00 "," $126,137.00 "," $186,814.50 "," $216,110.00 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2017," $145,376.50 "," $93,063.00 "," $102,515.00 "," $138,769.50 "," $203,978.50 "," $239,172.00 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2018," $158,895.50 "," $100,640.50 "," $113,590.50 "," $151,631.00 "," $221,107.00 "," $262,783.00 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2019," $173,569.00 "," $109,108.00 "," $125,023.50 "," $165,560.00 "," $236,508.00 "," $281,847.00 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2020," $187,836.00 "," $117,836.00 "," $135,447.50 "," $179,255.00 "," $251,611.00 "," $297,581.00 ",https://www.zillow.com/research/data/
+14,Ohio,OH,Columbus,1/1/2021," $222,232.50 "," $135,243.50 "," $157,139.00 "," $212,292.50 "," $293,580.00 "," $345,018.00 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2011," $98,012.00 "," $56,331.50 "," $64,646.50 "," $94,764.50 "," $141,834.00 "," $229,408.50 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2012," $98,261.50 "," $52,534.00 "," $61,785.50 "," $94,886.50 "," $142,848.00 "," $235,421.00 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2013," $101,841.50 "," $52,878.00 "," $62,396.50 "," $98,373.00 "," $149,370.50 "," $244,526.00 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2014," $112,446.50 "," $58,228.00 "," $69,644.00 "," $108,769.50 "," $161,785.50 "," $268,645.50 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2015," $112,882.00 "," $62,284.50 "," $71,492.00 "," $109,186.50 "," $160,719.00 "," $267,488.50 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2016," $117,379.50 "," $63,188.00 "," $73,043.00 "," $113,877.50 "," $166,154.00 "," $274,124.00 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2017," $127,929.50 "," $69,233.50 "," $80,767.00 "," $124,031.00 "," $178,960.50 "," $292,002.00 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2018," $140,086.50 "," $76,859.00 "," $89,553.00 "," $135,932.00 "," $192,914.00 "," $308,501.50 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2019," $150,651.00 "," $87,264.00 "," $99,951.50 "," $146,403.50 "," $203,867.50 "," $321,908.50 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2020," $162,216.00 "," $92,484.50 "," $109,195.50 "," $158,210.00 "," $216,672.00 "," $335,203.50 ",https://www.zillow.com/research/data/
+15,Indiana,IN,Indianapolis,1/1/2021," $190,764.00 "," $110,595.50 "," $130,187.00 "," $185,834.50 "," $254,281.50 "," $384,195.00 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2011," $157,550.50 "," $116,262.00 "," $109,340.50 "," $132,403.00 "," $213,114.50 "," $349,566.50 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2012," $153,282.50 "," $112,788.00 "," $104,464.50 "," $127,857.00 "," $211,897.00 "," $351,042.50 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2013," $163,528.50 "," $122,954.00 "," $110,969.50 "," $137,002.50 "," $226,419.00 "," $372,872.50 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2014," $175,227.50 "," $131,194.50 "," $118,804.50 "," $146,717.50 "," $240,643.00 "," $393,802.00 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2015," $182,745.00 "," $135,144.50 "," $123,368.50 "," $153,467.00 "," $250,076.50 "," $405,790.00 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2016," $197,891.00 "," $144,685.50 "," $135,097.50 "," $167,139.00 "," $266,767.00 "," $425,430.50 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2017," $215,533.00 "," $156,415.50 "," $149,073.00 "," $183,885.50 "," $285,667.50 "," $444,766.00 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2018," $236,953.00 "," $168,998.50 "," $166,951.00 "," $205,044.00 "," $305,143.00 "," $465,981.50 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2019," $250,490.00 "," $179,558.00 "," $178,789.00 "," $219,190.00 "," $317,525.00 "," $478,532.00 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2020," $267,463.50 "," $188,227.00 "," $195,274.00 "," $236,610.50 "," $335,146.50 "," $502,538.00 ",https://www.zillow.com/research/data/
+16,North Carolina,NC,Charlotte,1/1/2021," $319,755.00 "," $212,561.00 "," $230,120.50 "," $284,407.50 "," $398,512.00 "," $592,072.50 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2011," $711,068.00 "," $497,281.50 "," $669,323.50 "," $785,617.50 "," $969,584.00 "," $1,377,356.00 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2012," $733,017.50 "," $522,053.00 "," $695,193.00 "," $813,645.50 "," $1,006,108.00 "," $1,460,770.00 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2013," $892,435.00 "," $638,767.50 "," $845,219.00 "," $988,725.00 "," $1,219,400.00 "," $1,728,004.00 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2014," $1,010,879.50 "," $716,696.00 "," $954,029.50 "," $1,135,704.50 "," $1,398,884.50 "," $1,945,256.00 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2015," $1,122,676.50 "," $777,337.50 "," $1,062,146.00 "," $1,264,731.50 "," $1,561,384.00 "," $2,225,917.00 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2016," $1,230,189.00 "," $820,051.00 "," $1,138,847.50 "," $1,369,740.00 "," $1,665,764.50 "," $2,300,428.00 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2017," $1,282,075.00 "," $810,963.50 "," $1,162,809.50 "," $1,406,662.00 "," $1,737,992.00 "," $2,358,511.50 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2018," $1,461,953.00 "," $865,841.50 "," $1,298,969.00 "," $1,582,453.00 "," $1,948,270.00 "," $2,580,585.50 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2019," $1,459,591.00 "," $871,199.50 "," $1,302,193.50 "," $1,578,292.50 "," $1,954,933.50 "," $2,586,607.00 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2020," $1,477,349.50 "," $885,907.00 "," $1,317,934.00 "," $1,598,244.00 "," $1,994,261.50 "," $2,618,850.00 ",https://www.zillow.com/research/data/
+17,California,CA,San Francisco,1/1/2021," $1,561,610.00 "," $854,926.50 "," $1,350,482.50 "," $1,665,413.00 "," $2,059,453.50 "," $2,652,445.50 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2011," $391,745.00 "," $227,426.00 "," $318,366.50 "," $383,792.50 "," $484,252.00 "," $552,129.50 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2012," $399,671.00 "," $213,134.50 "," $317,669.50 "," $392,048.50 "," $491,237.00 "," $556,643.50 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2013," $458,092.00 "," $251,220.50 "," $364,837.00 "," $450,031.50 "," $562,597.50 "," $635,488.50 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2014," $493,790.50 "," $271,772.50 "," $394,607.00 "," $484,512.00 "," $607,578.50 "," $684,945.00 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2015," $542,547.50 "," $300,577.00 "," $433,232.50 "," $532,546.50 "," $664,544.50 "," $748,826.00 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2016," $626,880.50 "," $351,245.00 "," $503,050.50 "," $616,272.00 "," $761,646.50 "," $854,720.50 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2017," $709,651.00 "," $403,134.50 "," $575,800.50 "," $698,612.00 "," $852,549.00 "," $954,717.00 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2018," $792,132.00 "," $472,046.50 "," $654,476.00 "," $780,165.00 "," $943,968.00 "," $1,063,972.50 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2019," $762,979.00 "," $441,201.50 "," $624,826.50 "," $749,436.50 "," $915,359.50 "," $1,035,312.50 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2020," $797,407.00 "," $448,356.50 "," $647,939.50 "," $782,498.00 "," $956,464.50 "," $1,083,450.50 ",https://www.zillow.com/research/data/
+18,Washington,WA,Seattle,1/1/2021," $912,606.50 "," $464,597.50 "," $720,118.50 "," $894,329.50 "," $1,108,445.00 "," $1,252,099.00 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2011," $250,184.50 "," $142,527.50 "," $198,631.50 "," $243,332.00 "," $323,914.50 "," $446,704.00 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2012," $257,608.50 "," $147,667.00 "," $202,737.50 "," $250,598.00 "," $335,331.50 "," $463,029.50 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2013," $287,382.50 "," $161,268.50 "," $224,318.50 "," $279,895.50 "," $372,629.00 "," $512,735.00 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2014," $318,815.50 "," $178,358.00 "," $249,867.50 "," $309,829.50 "," $408,209.50 "," $557,703.00 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2015," $355,412.50 "," $203,535.00 "," $281,021.00 "," $345,817.50 "," $449,545.50 "," $610,894.00 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2016," $398,738.00 "," $233,623.00 "," $319,595.00 "," $387,823.50 "," $496,625.50 "," $673,460.50 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2017," $436,280.00 "," $262,765.50 "," $353,877.00 "," $425,002.00 "," $533,355.00 "," $712,037.00 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2018," $475,024.50 "," $284,718.50 "," $385,580.00 "," $462,672.00 "," $584,718.50 "," $787,426.00 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2019," $488,204.00 "," $290,044.50 "," $395,104.00 "," $474,436.50 "," $599,705.00 "," $809,883.00 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2020," $501,642.50 "," $297,467.00 "," $403,703.50 "," $489,074.50 "," $616,021.00 "," $830,369.00 ",https://www.zillow.com/research/data/
+19,Colorado,CO,Denver,1/1/2021," $578,828.00 "," $324,312.00 "," $460,216.50 "," $564,538.50 "," $701,331.50 "," $936,511.00 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2011," $112,144.50 "," $44,657.00 "," $63,777.50 "," $114,269.50 "," $189,452.00 "," $284,071.00 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2012," $112,089.50 "," $42,804.00 "," $60,982.00 "," $114,603.00 "," $190,418.00 "," $285,412.50 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2013," $113,710.00 "," $43,739.50 "," $61,430.00 "," $116,417.50 "," $194,810.00 "," $291,223.50 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2014," $118,487.50 "," $45,253.00 "," $64,466.50 "," $121,012.00 "," $201,194.00 "," $302,682.00 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2015," $122,418.00 "," $48,371.00 "," $67,316.50 "," $124,974.00 "," $205,422.50 "," $313,084.00 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2016," $125,649.50 "," $52,739.00 "," $70,220.50 "," $127,931.00 "," $208,866.50 "," $317,867.50 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2017," $129,587.00 "," $55,450.00 "," $74,025.00 "," $131,713.50 "," $212,580.50 "," $326,377.50 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2018," $133,338.00 "," $59,594.00 "," $77,543.00 "," $135,182.50 "," $215,671.00 "," $332,511.50 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2019," $138,410.00 "," $60,596.50 "," $80,415.50 "," $140,278.50 "," $220,874.50 "," $339,024.50 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2020," $148,449.00 "," $66,355.50 "," $89,302.00 "," $150,079.00 "," $231,480.00 "," $349,954.00 ",https://www.zillow.com/research/data/
+20,Oklahoma,OK,Oklahoma City,1/1/2021," $168,685.00 "," $76,781.00 "," $106,456.50 "," $170,110.00 "," $257,716.50 "," $387,977.00 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2011," $165,655.50 "," $139,190.00 "," $123,516.50 "," $159,560.00 "," $251,418.00 "," $452,824.50 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2012," $163,942.50 "," $139,095.00 "," $120,939.50 "," $157,705.50 "," $250,657.00 "," $453,712.50 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2013," $172,640.50 "," $147,310.00 "," $126,425.00 "," $165,666.50 "," $265,477.00 "," $479,907.50 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2014," $185,574.00 "," $162,074.00 "," $137,562.50 "," $177,309.50 "," $283,450.00 "," $511,432.00 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2015," $201,001.50 "," $178,929.50 "," $150,755.00 "," $191,281.50 "," $301,780.50 "," $544,369.00 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2016," $227,862.50 "," $200,988.50 "," $172,599.00 "," $216,626.00 "," $335,260.50 "," $602,488.50 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2017," $256,457.50 "," $224,831.50 "," $197,134.50 "," $244,106.00 "," $367,353.00 "," $653,922.50 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2018," $278,166.00 "," $237,241.00 "," $217,672.00 "," $265,861.50 "," $387,699.00 "," $681,710.00 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2019," $288,852.00 "," $240,379.00 "," $225,589.00 "," $276,975.50 "," $398,659.50 "," $706,895.00 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2020," $308,220.50 "," $257,478.50 "," $242,509.00 "," $294,857.00 "," $422,400.00 "," $752,023.50 ",https://www.zillow.com/research/data/
+21,Tennessee,TN,Nashville,1/1/2021," $356,685.50 "," $274,162.50 "," $277,765.00 "," $340,746.00 "," $498,052.00 "," $886,156.00 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2011," $127,252.50 "," $93,080.50 "," $90,771.50 "," $123,935.50 "," $180,375.00 "," $267,509.00 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2012," $124,843.00 "," $88,871.50 "," $88,185.00 "," $121,466.50 "," $177,230.00 "," $260,788.00 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2013," $125,589.50 "," $87,521.50 "," $88,387.50 "," $122,162.00 "," $177,409.00 "," $261,462.00 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2014," $125,633.00 "," $83,207.50 "," $86,982.50 "," $122,204.50 "," $176,247.50 "," $260,843.00 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2015," $125,087.00 "," $82,729.00 "," $86,917.50 "," $121,835.00 "," $175,618.50 "," $259,789.50 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2016," $126,011.50 "," $81,804.00 "," $87,430.00 "," $122,729.00 "," $176,625.50 "," $259,482.00 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2017," $131,395.00 "," $84,604.00 "," $91,844.00 "," $127,725.50 "," $182,572.00 "," $269,731.50 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2018," $132,041.00 "," $86,383.50 "," $93,613.00 "," $128,411.50 "," $182,195.00 "," $268,896.50 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2019," $139,505.50 "," $93,027.50 "," $98,494.50 "," $136,158.50 "," $190,802.00 "," $282,878.50 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2020," $143,517.50 "," $94,828.50 "," $101,265.00 "," $139,905.00 "," $194,652.00 "," $287,215.00 ",https://www.zillow.com/research/data/
+22,Texas,TX,El Paso,1/1/2021," $168,171.00 "," $108,477.00 "," $120,016.50 "," $163,865.00 "," $224,434.50 "," $330,222.50 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2011," $441,241.00 "," $321,204.00 "," $404,417.00 "," $402,321.50 "," $594,370.00 "," $1,052,189.50 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2012," $450,616.00 "," $321,878.00 "," $407,294.00 "," $409,407.50 "," $611,071.50 "," $1,069,500.00 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2013," $512,987.00 "," $346,269.50 "," $453,421.00 "," $470,909.50 "," $684,294.00 "," $1,182,158.50 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2014," $583,238.00 "," $359,390.00 "," $486,810.00 "," $547,096.50 "," $753,438.00 "," $1,240,266.00 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2015," $580,347.50 "," $360,678.50 "," $497,697.50 "," $542,896.00 "," $757,445.00 "," $1,267,891.50 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2016," $612,070.00 "," $369,051.50 "," $518,481.00 "," $575,668.50 "," $802,492.00 "," $1,313,673.50 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2017," $640,452.00 "," $380,368.50 "," $541,620.50 "," $606,160.50 "," $831,287.00 "," $1,374,688.50 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2018," $670,384.00 "," $387,287.00 "," $558,438.50 "," $640,272.00 "," $856,536.50 "," $1,385,527.50 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2019," $711,088.50 "," $393,961.00 "," $577,434.00 "," $680,961.00 "," $910,518.50 "," $1,448,381.50 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2020," $727,580.50 "," $404,412.00 "," $588,050.50 "," $698,302.00 "," $929,938.50 "," $1,474,740.50 ",https://www.zillow.com/research/data/
+23,District of Columbia,DC,Washington,1/1/2021," $785,795.50 "," $410,295.50 "," $615,767.00 "," $763,016.50 "," $1,011,158.50 "," $1,584,145.00 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2011," $363,006.50 "," $321,367.50 "," $373,243.00 "," $364,955.50 "," $400,037.50 "," $431,926.50 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2012," $367,203.50 "," $327,892.50 "," $379,420.50 "," $368,727.00 "," $407,195.00 "," $441,381.50 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2013," $402,936.00 "," $365,405.50 "," $421,195.50 "," $404,828.50 "," $445,965.50 "," $489,099.50 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2014," $442,052.00 "," $404,275.00 "," $467,443.00 "," $443,857.00 "," $491,763.50 "," $548,698.50 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2015," $471,728.00 "," $435,956.50 "," $499,662.50 "," $473,388.50 "," $524,424.00 "," $588,738.50 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2016," $521,015.50 "," $475,995.50 "," $548,959.50 "," $522,246.50 "," $579,700.50 "," $648,196.50 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2017," $565,071.50 "," $515,335.00 "," $596,820.00 "," $565,262.50 "," $623,676.00 "," $701,131.00 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2018," $602,747.50 "," $543,258.00 "," $632,462.50 "," $601,494.50 "," $666,976.50 "," $763,222.00 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2019," $624,970.50 "," $548,303.00 "," $644,120.50 "," $621,514.50 "," $689,953.00 "," $785,616.50 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2020," $636,921.50 "," $551,631.50 "," $652,239.50 "," $631,529.50 "," $703,587.50 "," $802,527.00 ",https://www.zillow.com/research/data/
+24,Massachusetts,MA,Boston,1/1/2021," $701,742.00 "," $566,714.50 "," $683,604.50 "," $689,777.50 "," $772,975.00 "," $875,208.00 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2011," $138,601.00 "," $57,363.00 "," $81,483.50 "," $120,908.00 "," $167,266.00 "," $247,967.50 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2012," $135,262.50 "," $59,939.50 "," $78,999.50 "," $117,508.50 "," $164,007.50 "," $243,453.50 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2013," $171,396.00 "," $75,183.00 "," $103,162.50 "," $151,592.00 "," $204,861.00 "," $295,962.00 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2014," $199,594.50 "," $83,996.50 "," $120,080.00 "," $177,367.50 "," $238,757.50 "," $337,404.50 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2015," $212,247.00 "," $85,725.00 "," $126,983.50 "," $189,128.50 "," $253,095.50 "," $352,963.00 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2016," $226,930.00 "," $89,244.00 "," $135,329.50 "," $203,472.50 "," $268,277.00 "," $367,705.50 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2017," $242,796.50 "," $96,414.50 "," $146,542.50 "," $218,946.00 "," $284,497.50 "," $384,869.50 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2018," $282,068.50 "," $119,006.00 "," $178,366.00 "," $257,593.00 "," $325,146.50 "," $429,681.50 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2019," $298,345.00 "," $128,314.50 "," $193,778.50 "," $274,073.00 "," $341,250.50 "," $448,175.50 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2020," $306,297.00 "," $130,142.00 "," $199,353.00 "," $281,599.50 "," $349,689.00 "," $458,764.00 ",https://www.zillow.com/research/data/
+25,Nevada,NV,Las Vegas,1/1/2021," $363,213.00 "," $147,942.00 "," $233,623.00 "," $333,388.50 "," $414,984.50 "," $547,479.50 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2011," $262,861.50 "," $192,174.00 "," $215,707.50 "," $243,907.00 "," $342,913.50 "," $426,194.00 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2012," $269,522.50 "," $197,641.00 "," $221,350.50 "," $249,028.50 "," $352,463.50 "," $436,169.50 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2013," $302,519.00 "," $222,794.50 "," $249,729.00 "," $280,022.00 "," $393,624.00 "," $483,939.00 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2014," $326,179.50 "," $241,304.50 "," $269,688.00 "," $302,780.50 "," $423,463.50 "," $519,117.50 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2015," $363,501.50 "," $268,951.50 "," $303,663.00 "," $336,883.50 "," $465,130.00 "," $565,657.00 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2016," $420,149.00 "," $312,060.00 "," $355,720.50 "," $391,052.00 "," $525,464.50 "," $635,785.50 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2017," $450,167.50 "," $334,121.50 "," $382,908.50 "," $420,929.00 "," $557,486.50 "," $672,957.50 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2018," $460,307.50 "," $338,048.50 "," $389,946.00 "," $432,475.00 "," $568,413.00 "," $685,835.00 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2019," $462,246.00 "," $332,269.00 "," $391,470.50 "," $434,760.00 "," $569,796.50 "," $687,310.00 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2020," $474,131.00 "," $335,827.50 "," $402,267.50 "," $446,150.00 "," $581,547.50 "," $699,357.50 ",https://www.zillow.com/research/data/
+26,Oregon,OR,Portland,1/1/2021," $552,571.00 "," $368,329.00 "," $465,731.50 "," $521,927.00 "," $671,636.00 "," $802,219.50 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2011," $17,125.00 "," $78,940.50 "," $16,670.50 "," $18,190.00 "," $20,821.00 "," $30,259.00 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2012," $16,502.50 "," $83,263.00 "," $15,741.50 "," $18,092.00 "," $21,608.50 "," $33,887.00 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2013," $17,582.50 "," $90,572.00 "," $17,044.00 "," $19,437.50 "," $21,783.50 "," $33,704.00 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2014," $20,716.50 "," $109,579.00 "," $21,487.00 "," $23,557.50 "," $26,218.00 "," $39,466.50 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2015," $23,832.00 "," $129,265.50 "," $23,179.00 "," $27,015.00 "," $30,554.00 "," $43,773.50 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2016," $27,219.50 "," $124,392.00 "," $25,324.00 "," $31,341.50 "," $35,469.50 "," $55,344.00 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2017," $31,439.00 "," $139,676.00 "," $28,711.00 "," $33,239.50 "," $40,108.00 "," $67,430.50 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2018," $35,258.00 "," $125,577.00 "," $32,137.50 "," $37,945.00 "," $45,772.50 "," $81,913.00 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2019," $40,096.00 "," $117,775.50 "," $35,090.50 "," $43,281.00 "," $53,199.50 "," $93,050.50 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2020," $41,632.50 "," $130,759.00 "," $36,377.50 "," $44,574.00 "," $56,217.00 "," $99,944.50 ",https://www.zillow.com/research/data/
+27,Michigan,MI,Detroit,1/1/2021," $54,653.00 "," $156,599.00 "," $47,362.00 "," $58,958.00 "," $74,711.50 "," $130,628.50 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2011," $133,799.00 "," $72,933.50 "," $112,958.00 "," $136,960.50 "," $213,727.50 "," $334,741.00 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2012," $131,931.50 "," $71,496.00 "," $111,628.50 "," $135,218.00 "," $212,132.50 "," $329,021.00 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2013," $134,290.50 "," $70,948.00 "," $113,584.00 "," $138,090.00 "," $218,138.50 "," $338,989.50 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2014," $140,479.00 "," $75,955.50 "," $119,073.50 "," $144,038.00 "," $228,090.00 "," $353,790.00 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2015," $143,835.00 "," $78,243.00 "," $121,803.50 "," $147,084.00 "," $233,001.00 "," $362,541.00 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2016," $150,858.50 "," $82,607.50 "," $127,489.50 "," $153,869.00 "," $243,418.00 "," $372,902.50 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2017," $161,390.00 "," $90,602.00 "," $136,813.50 "," $164,023.00 "," $256,452.00 "," $386,983.50 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2018," $171,162.00 "," $96,283.50 "," $143,828.50 "," $173,566.00 "," $266,904.50 "," $399,577.00 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2019," $176,751.00 "," $101,630.50 "," $147,791.00 "," $179,054.50 "," $271,583.50 "," $402,504.00 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2020," $186,700.00 "," $112,436.00 "," $155,187.50 "," $188,169.50 "," $283,201.00 "," $415,258.50 ",https://www.zillow.com/research/data/
+28,Kentucky,KY,Louisville,1/1/2021," $211,835.50 "," $130,317.00 "," $174,313.00 "," $213,299.00 "," $317,794.00 "," $465,230.00 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2011," $69,824.50 "," $66,768.00 "," $43,183.50 "," $67,895.50 "," $114,752.50 "," $211,132.00 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2012," $67,048.00 "," $63,724.00 "," $39,421.00 "," $65,119.00 "," $110,989.00 "," $210,072.50 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2013," $66,843.00 "," $64,618.50 "," $38,712.00 "," $65,004.50 "," $111,757.00 "," $209,918.00 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2014," $71,353.00 "," $66,191.00 "," $40,537.00 "," $69,556.50 "," $117,823.00 "," $220,855.50 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2015," $72,332.00 "," $68,763.50 "," $39,767.00 "," $70,672.50 "," $121,075.00 "," $224,118.00 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2016," $74,260.50 "," $72,198.50 "," $39,947.00 "," $72,764.50 "," $125,351.50 "," $235,016.50 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2017," $80,176.00 "," $78,016.50 "," $45,192.50 "," $77,956.00 "," $135,223.00 "," $247,710.00 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2018," $87,922.50 "," $81,875.50 "," $48,151.50 "," $85,818.00 "," $147,255.00 "," $263,160.00 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2019," $96,674.00 "," $88,453.00 "," $56,143.00 "," $94,126.00 "," $160,775.00 "," $279,661.00 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2020," $106,181.00 "," $97,049.00 "," $62,087.50 "," $103,495.00 "," $174,808.00 "," $299,725.50 ",https://www.zillow.com/research/data/
+29,Tennessee,TN,Memphis,1/1/2021," $126,594.00 "," $111,356.50 "," $75,560.50 "," $123,171.50 "," $207,034.50 "," $345,741.00 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2011," $129,614.50 "," $132,484.00 "," $136,005.00 "," $126,633.00 "," $157,762.50 "," $230,573.00 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2012," $121,196.00 "," $123,823.00 "," $128,838.50 "," $117,088.00 "," $151,581.50 "," $226,860.50 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2013," $124,549.00 "," $133,836.50 "," $138,165.00 "," $119,319.00 "," $158,404.00 "," $238,105.50 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2014," $131,986.00 "," $141,276.50 "," $147,299.00 "," $125,863.00 "," $168,505.00 "," $248,832.00 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2015," $133,606.50 "," $138,988.50 "," $147,992.00 "," $127,026.00 "," $168,163.50 "," $245,932.00 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2016," $137,352.00 "," $139,775.50 "," $151,069.00 "," $131,349.50 "," $176,439.50 "," $253,218.50 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2017," $142,805.00 "," $143,431.50 "," $156,884.00 "," $135,997.00 "," $175,233.00 "," $252,175.00 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2018," $150,225.00 "," $143,140.50 "," $160,132.50 "," $141,911.50 "," $187,887.50 "," $266,115.00 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2019," $154,566.00 "," $141,790.00 "," $160,284.00 "," $147,194.00 "," $198,607.50 "," $279,113.00 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2020," $157,069.00 "," $139,639.00 "," $157,923.50 "," $148,910.00 "," $201,323.50 "," $279,665.50 ",https://www.zillow.com/research/data/
+30,Maryland,MD,Baltimore,1/1/2021," $182,879.50 "," $156,479.50 "," $180,872.50 "," $174,990.00 "," $232,127.00 "," $319,817.00 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2011," $94,258.50 "," $117,210.50 "," $83,165.50 "," $98,712.00 "," $95,168.50 "," $91,592.50 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2012," $86,602.00 "," $109,963.50 "," $75,301.50 "," $91,006.00 "," $87,296.00 "," $82,960.50 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2013," $86,425.50 "," $109,009.50 "," $74,597.50 "," $91,153.50 "," $86,536.50 "," $82,187.50 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2014," $91,677.50 "," $115,003.50 "," $79,113.50 "," $96,451.00 "," $91,626.50 "," $87,618.00 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2015," $94,235.50 "," $117,961.00 "," $80,507.00 "," $99,292.00 "," $94,286.50 "," $89,143.50 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2016," $99,340.00 "," $123,828.00 "," $85,030.50 "," $104,649.50 "," $99,233.50 "," $93,803.50 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2017," $105,203.50 "," $130,019.00 "," $90,791.00 "," $110,546.00 "," $104,548.50 "," $98,285.50 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2018," $116,683.50 "," $138,953.50 "," $100,282.50 "," $122,133.00 "," $116,372.50 "," $109,715.50 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2019," $125,907.50 "," $145,415.50 "," $109,708.00 "," $131,170.50 "," $124,736.00 "," $117,755.50 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2020," $135,165.00 "," $153,013.00 "," $118,761.00 "," $140,710.00 "," $132,911.00 "," $124,625.00 ",https://www.zillow.com/research/data/
+31,Wisconsin,WI,Milwaukee,1/1/2021," $163,062.00 "," $171,169.50 "," $142,074.50 "," $169,943.00 "," $159,782.00 "," $147,736.50 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2011," $177,824.50 "," $114,714.00 "," $137,432.00 "," $169,741.00 "," $236,264.00 "," $313,733.00 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2012," $173,554.00 "," $110,606.00 "," $133,162.00 "," $165,796.00 "," $230,908.50 "," $311,576.00 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2013," $178,615.00 "," $116,864.50 "," $136,738.50 "," $170,576.50 "," $237,657.50 "," $317,963.50 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2014," $182,963.50 "," $113,126.00 "," $138,288.50 "," $173,822.50 "," $245,388.00 "," $327,535.50 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2015," $184,081.00 "," $116,142.50 "," $138,944.50 "," $174,878.00 "," $245,727.00 "," $324,077.00 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2016," $189,185.00 "," $116,226.00 "," $141,462.00 "," $179,869.50 "," $251,439.50 "," $332,860.00 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2017," $194,309.00 "," $120,593.00 "," $145,302.50 "," $185,106.50 "," $256,645.50 "," $337,527.00 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2018," $200,410.50 "," $122,984.50 "," $150,961.50 "," $191,345.50 "," $263,291.00 "," $342,799.50 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2019," $210,580.50 "," $132,418.00 "," $159,835.50 "," $201,242.00 "," $275,038.00 "," $353,879.50 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2020," $226,809.50 "," $141,623.00 "," $171,432.50 "," $217,153.50 "," $293,833.50 "," $379,983.00 ",https://www.zillow.com/research/data/
+32,New Mexico,NM,Albuquerque,1/1/2021," $267,317.00 "," $169,306.50 "," $203,287.50 "," $256,512.50 "," $343,715.50 "," $439,983.50 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2011," $145,525.50 "," $66,183.00 "," $80,611.00 "," $138,732.50 "," $207,232.00 "," $267,317.00 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2012," $145,894.50 "," $64,476.50 "," $78,545.50 "," $138,352.00 "," $209,868.00 "," $273,715.50 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2013," $169,556.00 "," $78,502.00 "," $94,493.00 "," $161,661.50 "," $239,813.00 "," $305,894.50 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2014," $191,375.00 "," $87,211.50 "," $112,310.50 "," $182,121.50 "," $263,817.00 "," $336,762.50 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2015," $197,705.50 "," $85,644.50 "," $118,343.00 "," $188,201.50 "," $268,652.50 "," $339,847.50 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2016," $208,811.00 "," $92,446.50 "," $128,363.50 "," $198,564.00 "," $279,423.50 "," $354,915.00 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2017," $225,663.50 "," $100,337.50 "," $139,143.50 "," $215,517.00 "," $298,301.50 "," $374,256.00 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2018," $247,866.50 "," $117,257.50 "," $154,847.00 "," $237,497.50 "," $322,545.00 "," $403,272.50 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2019," $257,142.00 "," $130,118.00 "," $165,991.50 "," $246,922.00 "," $330,076.00 "," $411,982.00 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2020," $269,243.50 "," $134,457.50 "," $173,506.00 "," $258,643.00 "," $343,272.00 "," $426,812.00 ",https://www.zillow.com/research/data/
+33,California,CA,Fresno,1/1/2021," $325,704.00 "," $163,386.50 "," $214,682.00 "," $312,936.00 "," $410,963.50 "," $508,300.50 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2011," $140,638.00 "," $82,197.00 "," $110,705.00 "," $134,135.50 "," $179,326.50 "," $296,126.50 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2012," $135,861.50 "," $75,996.50 "," $103,476.50 "," $129,459.00 "," $175,798.00 "," $292,194.50 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2013," $149,922.00 "," $81,955.50 "," $113,120.50 "," $143,403.00 "," $193,375.50 "," $313,518.50 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2014," $160,605.00 "," $88,803.50 "," $121,541.00 "," $154,158.00 "," $205,186.50 "," $329,955.50 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2015," $162,409.50 "," $90,757.50 "," $124,138.50 "," $155,693.50 "," $205,325.50 "," $327,831.50 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2016," $168,199.00 "," $95,329.00 "," $128,425.00 "," $161,405.00 "," $211,294.00 "," $335,357.50 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2017," $179,898.00 "," $101,085.50 "," $137,359.50 "," $172,751.50 "," $224,933.00 "," $349,705.50 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2018," $194,067.00 "," $119,320.00 "," $149,673.50 "," $186,222.00 "," $240,154.00 "," $370,157.50 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2019," $205,109.50 "," $128,470.00 "," $159,950.50 "," $196,846.00 "," $252,442.00 "," $387,069.00 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2020," $221,207.50 "," $135,831.50 "," $174,090.00 "," $212,165.00 "," $269,322.00 "," $412,999.00 ",https://www.zillow.com/research/data/
+34,Arizona,AZ,Tucson,1/1/2021," $277,344.00 "," $163,565.00 "," $217,433.50 "," $267,897.00 "," $331,191.00 "," $492,816.50 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2011," $162,881.00 "," $114,933.50 "," $134,070.00 "," $148,853.50 "," $193,525.50 "," $271,021.50 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2012," $158,016.00 "," $109,865.00 "," $128,082.00 "," $142,971.50 "," $190,852.00 "," $269,747.00 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2013," $205,847.00 "," $145,428.50 "," $168,893.00 "," $188,600.00 "," $243,812.00 "," $338,471.50 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2014," $236,712.00 "," $167,827.00 "," $192,797.50 "," $217,622.50 "," $279,824.00 "," $386,557.00 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2015," $249,496.00 "," $175,830.50 "," $205,362.50 "," $229,615.50 "," $292,883.50 "," $400,838.00 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2016," $276,816.50 "," $199,645.50 "," $230,660.50 "," $256,112.00 "," $319,899.50 "," $428,209.50 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2017," $305,537.50 "," $230,871.00 "," $260,296.50 "," $283,467.50 "," $349,447.00 "," $460,844.00 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2018," $331,526.00 "," $257,406.00 "," $286,319.00 "," $308,878.50 "," $375,535.00 "," $483,133.00 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2019," $341,906.00 "," $264,905.50 "," $298,401.50 "," $319,100.50 "," $385,735.50 "," $493,867.50 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2020," $362,549.50 "," $280,230.00 "," $316,043.00 "," $339,325.50 "," $408,110.00 "," $518,453.00 ",https://www.zillow.com/research/data/
+35,California,CA,Sacramento,1/1/2021," $443,387.00 "," $319,045.50 "," $382,760.00 "," $415,556.50 "," $498,514.50 "," $633,129.00 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2011," $127,528.00 "," $49,737.50 "," $87,598.00 "," $109,477.00 "," $158,316.50 "," $254,931.00 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2012," $142,387.50 "," $55,838.50 "," $98,285.50 "," $122,930.50 "," $177,397.00 "," $279,545.00 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2013," $174,646.50 "," $71,914.00 "," $122,143.00 "," $155,333.50 "," $216,910.50 "," $331,025.00 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2014," $190,584.00 "," $78,158.50 "," $132,231.00 "," $171,039.50 "," $236,760.00 "," $350,084.50 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2015," $202,221.00 "," $84,917.00 "," $140,466.50 "," $181,846.50 "," $248,653.00 "," $362,667.00 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2016," $216,157.50 "," $90,721.50 "," $150,271.00 "," $195,948.00 "," $264,179.50 "," $377,119.50 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2017," $229,236.50 "," $98,948.50 "," $162,429.50 "," $210,489.00 "," $274,738.00 "," $390,280.50 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2018," $247,740.00 "," $113,081.00 "," $178,537.50 "," $227,343.50 "," $295,594.00 "," $415,794.50 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2019," $262,061.00 "," $123,533.50 "," $192,160.50 "," $240,735.00 "," $312,170.00 "," $435,542.50 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2020," $288,810.50 "," $138,956.50 "," $215,518.50 "," $267,556.00 "," $341,722.00 "," $469,219.00 ",https://www.zillow.com/research/data/
+36,Arizona,AZ,Mesa,1/1/2021," $370,778.00 "," $180,361.00 "," $275,690.50 "," $345,127.00 "," $436,341.00 "," $605,320.00 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2011," $104,059.00 "," $84,844.50 "," $61,285.50 "," $102,575.50 "," $178,648.50 "," $199,639.50 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2012," $99,323.00 "," $80,667.50 "," $56,678.00 "," $96,777.00 "," $176,340.50 "," $197,580.50 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2013," $102,867.50 "," $84,804.50 "," $58,185.00 "," $99,706.50 "," $182,932.50 "," $207,810.00 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2014," $109,449.00 "," $91,233.50 "," $60,979.50 "," $105,858.00 "," $194,739.50 "," $223,894.50 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2015," $114,954.50 "," $94,879.50 "," $63,727.50 "," $111,298.00 "," $202,901.50 "," $234,647.00 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2016," $122,884.50 "," $100,695.00 "," $67,419.50 "," $119,169.50 "," $214,518.00 "," $247,849.50 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2017," $135,164.50 "," $106,193.00 "," $75,956.00 "," $131,250.50 "," $233,372.50 "," $275,176.00 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2018," $148,542.00 "," $114,826.00 "," $86,956.00 "," $144,889.00 "," $248,973.00 "," $298,957.50 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2019," $157,824.50 "," $117,896.00 "," $94,748.00 "," $153,742.00 "," $259,616.50 "," $308,287.00 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2020," $166,051.50 "," $121,917.50 "," $99,862.00 "," $161,543.50 "," $272,286.50 "," $324,091.00 ",https://www.zillow.com/research/data/
+37,Missouri,MO,Kansas City,1/1/2021," $198,352.00 "," $134,734.50 "," $122,937.50 "," $193,287.00 "," $316,474.00 "," $376,953.00 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2011," $148,844.00 "," $105,213.00 "," $131,583.50 "," $123,730.00 "," $234,393.00 "," $502,644.00 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2012," $145,665.50 "," $101,851.00 "," $124,625.50 "," $121,272.00 "," $234,214.50 "," $517,824.50 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2013," $162,795.00 "," $119,578.00 "," $141,709.00 "," $134,258.00 "," $256,784.00 "," $559,188.50 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2014," $185,707.50 "," $139,879.50 "," $163,970.00 "," $153,616.50 "," $290,076.50 "," $621,302.00 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2015," $203,108.00 "," $157,175.50 "," $180,345.50 "," $170,662.00 "," $312,492.00 "," $664,011.00 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2016," $223,509.50 "," $170,965.00 "," $205,497.00 "," $187,691.00 "," $335,145.50 "," $697,412.50 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2017," $245,937.00 "," $189,154.00 "," $225,987.00 "," $210,490.00 "," $357,628.00 "," $725,516.00 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2018," $282,226.50 "," $212,794.00 "," $258,950.00 "," $245,941.00 "," $393,821.00 "," $785,368.50 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2019," $307,839.50 "," $220,638.00 "," $278,267.50 "," $273,285.00 "," $415,017.50 "," $817,990.50 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2020," $318,639.00 "," $221,347.50 "," $288,444.00 "," $285,370.00 "," $426,610.50 "," $834,932.00 ",https://www.zillow.com/research/data/
+38,Georgia,GA,Atlanta,1/1/2021," $368,365.00 "," $241,905.50 "," $319,592.00 "," $331,724.50 "," $491,268.00 "," $940,993.50 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2011," $138,968.00 "," $83,693.00 "," $94,587.00 "," $129,978.00 "," $209,933.50 "," $279,126.00 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2012," $139,628.00 "," $76,922.50 "," $92,204.50 "," $130,749.50 "," $211,993.00 "," $279,091.00 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2013," $145,123.00 "," $78,641.50 "," $95,254.50 "," $135,817.00 "," $221,890.00 "," $289,911.00 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2014," $150,384.00 "," $82,389.50 "," $99,731.00 "," $140,493.00 "," $231,821.50 "," $304,824.50 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2015," $155,973.00 "," $85,384.50 "," $103,284.50 "," $145,810.50 "," $240,053.50 "," $313,232.50 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2016," $162,305.50 "," $87,104.50 "," $106,741.00 "," $152,252.50 "," $249,329.00 "," $324,895.50 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2017," $174,765.00 "," $95,164.00 "," $116,706.00 "," $164,153.00 "," $265,778.50 "," $342,053.50 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2018," $187,158.50 "," $103,157.00 "," $128,563.00 "," $176,314.50 "," $277,149.00 "," $352,252.00 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2019," $195,225.50 "," $110,382.50 "," $136,247.50 "," $184,449.00 "," $281,578.00 "," $352,073.00 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2020," $206,738.00 "," $117,307.00 "," $144,429.50 "," $195,577.50 "," $299,979.50 "," $377,373.50 ",https://www.zillow.com/research/data/
+39,Nebraska,NE,Omaha,1/1/2021," $240,620.00 "," $136,756.50 "," $168,841.00 "," $228,024.50 "," $344,537.00 "," $428,459.00 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2011," $201,464.50 "," $117,356.50 "," $134,431.00 "," $173,504.50 "," $236,474.50 "," $313,927.50 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2012," $203,713.50 "," $118,022.00 "," $133,713.50 "," $175,252.00 "," $238,649.50 "," $316,776.50 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2013," $213,863.00 "," $122,628.50 "," $140,354.00 "," $184,578.00 "," $249,501.00 "," $330,781.50 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2014," $219,395.50 "," $124,840.50 "," $143,994.50 "," $189,636.00 "," $255,716.00 "," $338,200.50 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2015," $229,736.00 "," $133,970.00 "," $153,153.00 "," $199,426.50 "," $266,085.00 "," $346,857.50 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2016," $245,721.00 "," $147,283.00 "," $166,315.50 "," $214,650.00 "," $282,390.50 "," $366,089.00 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2017," $267,328.00 "," $163,070.50 "," $184,592.50 "," $235,630.00 "," $305,272.00 "," $392,527.50 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2018," $291,448.00 "," $181,988.00 "," $206,573.50 "," $259,152.50 "," $329,957.50 "," $421,581.00 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2019," $307,300.50 "," $197,272.50 "," $221,827.00 "," $274,356.00 "," $345,350.00 "," $438,703.50 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2020," $336,721.50 "," $223,235.00 "," $246,993.00 "," $301,756.50 "," $376,388.00 "," $472,145.00 ",https://www.zillow.com/research/data/
+40,Colorado,CO,Colorado Springs,1/1/2021," $423,478.00 "," $280,415.00 "," $310,573.00 "," $384,984.50 "," $465,376.50 "," $569,067.00 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2011," $206,785.50 "," $139,762.00 "," $137,986.00 "," $175,252.00 "," $292,926.50 "," $453,035.50 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2012," $203,112.50 "," $136,392.50 "," $133,848.50 "," $171,837.00 "," $290,609.00 "," $446,310.50 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2013," $210,965.50 "," $142,396.50 "," $137,884.50 "," $178,164.00 "," $301,971.50 "," $469,299.00 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2014," $220,289.00 "," $148,003.50 "," $142,876.50 "," $185,621.00 "," $314,554.50 "," $487,740.50 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2015," $229,164.00 "," $156,432.00 "," $148,392.00 "," $192,919.50 "," $327,192.50 "," $501,935.50 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2016," $241,298.00 "," $165,763.50 "," $157,440.00 "," $204,158.00 "," $341,407.00 "," $513,284.00 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2017," $257,406.50 "," $178,465.50 "," $170,711.00 "," $218,861.50 "," $358,035.50 "," $528,725.00 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2018," $271,961.50 "," $193,586.50 "," $184,676.00 "," $233,027.00 "," $371,555.50 "," $543,185.50 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2019," $285,889.00 "," $207,999.50 "," $198,438.50 "," $246,882.00 "," $387,057.00 "," $558,670.00 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2020," $297,628.00 "," $214,121.00 "," $208,148.50 "," $257,883.00 "," $399,812.00 "," $577,609.50 ",https://www.zillow.com/research/data/
+41,North Carolina,NC,Raleigh,1/1/2021," $352,628.00 "," $243,934.00 "," $242,969.00 "," $307,083.00 "," $471,200.50 "," $672,607.00 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2011," $254,406.50 "," $156,441.00 "," $162,062.50 "," $221,282.50 "," $296,033.00 "," $457,335.00 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2012," $251,110.50 "," $147,418.00 "," $154,899.00 "," $217,681.50 "," $293,059.50 "," $454,923.50 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2013," $256,961.50 "," $153,401.50 "," $156,114.00 "," $222,468.50 "," $303,056.50 "," $470,267.00 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2014," $262,696.50 "," $151,794.50 "," $156,584.00 "," $226,192.50 "," $310,155.00 "," $480,226.50 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2015," $265,973.50 "," $154,580.50 "," $157,014.00 "," $228,425.00 "," $314,359.50 "," $487,273.00 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2016," $269,660.50 "," $155,416.50 "," $160,085.50 "," $232,137.00 "," $317,760.00 "," $488,646.00 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2017," $276,647.50 "," $152,140.50 "," $162,861.00 "," $237,516.50 "," $325,923.00 "," $497,765.00 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2018," $281,045.00 "," $154,852.00 "," $165,776.00 "," $241,530.50 "," $331,188.50 "," $505,565.00 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2019," $286,459.00 "," $157,422.50 "," $170,333.50 "," $246,086.00 "," $336,677.50 "," $512,638.00 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2020," $301,354.50 "," $165,454.00 "," $180,381.00 "," $259,471.50 "," $353,975.50 "," $533,732.00 ",https://www.zillow.com/research/data/
+42,Virginia,VA,Virginia Beach,1/1/2021," $340,504.00 "," $190,154.00 "," $202,476.00 "," $290,821.00 "," $400,654.50 "," $602,742.50 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2011," $386,679.50 "," $184,090.00 "," $294,674.50 "," $398,393.00 "," $508,766.00 "," $627,621.50 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2012," $378,017.50 "," $175,793.00 "," $281,685.00 "," $391,210.00 "," $500,463.50 "," $613,750.00 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2013," $447,885.50 "," $211,461.50 "," $336,047.00 "," $462,910.00 "," $578,067.50 "," $702,420.00 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2014," $484,056.00 "," $245,347.50 "," $369,469.00 "," $499,893.50 "," $615,367.50 "," $746,326.00 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2015," $505,479.00 "," $258,106.50 "," $384,634.00 "," $524,562.50 "," $645,439.00 "," $781,549.00 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2016," $541,308.00 "," $276,297.50 "," $416,573.50 "," $558,950.50 "," $679,585.50 "," $821,154.00 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2017," $575,548.00 "," $297,881.00 "," $443,409.00 "," $594,221.00 "," $715,148.00 "," $860,218.50 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2018," $620,454.50 "," $327,680.50 "," $484,348.00 "," $641,000.50 "," $762,500.50 "," $913,535.00 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2019," $624,976.50 "," $334,625.50 "," $491,150.50 "," $645,398.50 "," $764,764.50 "," $932,792.00 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2020," $657,162.50 "," $354,939.00 "," $516,653.50 "," $677,973.50 "," $800,784.50 "," $979,583.00 ",https://www.zillow.com/research/data/
+43,California,CA,Long Beach,1/1/2021," $779,957.50 "," $402,029.50 "," $603,782.00 "," $806,116.50 "," $950,972.50 "," $1,133,235.50 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2011," $196,413.50 "," $151,923.00 "," $188,275.00 "," $214,099.00 "," $261,109.50 "," $491,982.00 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2012," $199,663.50 "," $169,599.00 "," $194,313.50 "," $218,684.00 "," $265,819.00 "," $494,852.00 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2013," $230,772.00 "," $214,039.50 "," $234,080.00 "," $254,069.50 "," $306,397.00 "," $564,774.00 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2014," $268,479.00 "," $245,118.00 "," $271,966.00 "," $289,231.00 "," $348,788.00 "," $637,106.00 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2015," $298,539.50 "," $253,174.00 "," $295,523.50 "," $317,847.50 "," $380,003.00 "," $695,856.50 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2016," $329,346.00 "," $256,757.50 "," $314,038.50 "," $346,334.00 "," $415,156.00 "," $752,181.50 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2017," $358,167.50 "," $253,470.00 "," $324,632.50 "," $369,313.00 "," $441,632.00 "," $799,911.00 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2018," $378,630.50 "," $248,470.00 "," $331,332.50 "," $387,157.00 "," $466,656.50 "," $838,782.50 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2019," $396,793.50 "," $246,617.00 "," $335,743.50 "," $402,857.50 "," $483,000.50 "," $853,614.00 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2020," $412,744.00 "," $249,688.00 "," $339,568.00 "," $415,082.50 "," $496,566.00 "," $852,419.00 ",https://www.zillow.com/research/data/
+44,Florida,FL,Miami,1/1/2021," $470,847.00 "," $269,016.00 "," $375,024.50 "," $469,053.50 "," $564,340.00 "," $971,243.50 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2011," $355,861.50 "," $212,468.50 "," $256,807.00 "," $393,621.00 "," $578,404.50 "," $672,305.00 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2012," $349,611.00 "," $205,603.00 "," $251,201.50 "," $386,763.00 "," $575,994.00 "," $668,439.00 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2013," $452,167.00 "," $267,528.50 "," $327,814.50 "," $494,179.50 "," $717,656.00 "," $831,127.00 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2014," $505,486.00 "," $318,502.00 "," $376,667.50 "," $552,047.50 "," $785,945.50 "," $917,651.00 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2015," $569,729.50 "," $365,568.00 "," $428,916.50 "," $615,389.00 "," $858,828.00 "," $1,004,150.00 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2016," $651,996.00 "," $430,060.50 "," $506,645.00 "," $700,252.50 "," $960,712.50 "," $1,121,194.00 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2017," $697,364.50 "," $457,097.50 "," $546,669.50 "," $747,665.50 "," $1,027,300.50 "," $1,196,864.00 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2018," $785,944.00 "," $515,186.50 "," $620,983.50 "," $838,758.50 "," $1,147,136.00 "," $1,327,759.50 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2019," $785,879.00 "," $506,216.50 "," $620,664.50 "," $836,416.00 "," $1,146,289.50 "," $1,337,651.50 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2020," $819,767.00 "," $516,246.50 "," $645,044.50 "," $873,041.00 "," $1,211,583.50 "," $1,406,466.50 ",https://www.zillow.com/research/data/
+45,California,CA,Oakland,1/1/2021," $993,567.50 "," $560,100.50 "," $761,228.00 "," $1,062,397.50 "," $1,474,912.50 "," $1,674,091.00 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2011," $178,491.50 "," $121,715.00 "," $159,726.00 "," $183,183.50 "," $221,185.50 "," $279,328.50 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2012," $169,493.00 "," $110,556.50 "," $149,042.50 "," $174,071.50 "," $213,880.50 "," $269,431.00 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2013," $194,106.50 "," $125,640.00 "," $170,012.50 "," $198,972.00 "," $243,358.00 "," $302,234.00 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2014," $210,952.00 "," $141,248.50 "," $185,303.00 "," $215,363.50 "," $261,726.00 "," $323,473.00 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2015," $222,421.00 "," $148,232.50 "," $193,812.00 "," $226,973.50 "," $276,129.50 "," $339,864.50 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2016," $237,824.00 "," $157,582.50 "," $208,270.50 "," $242,604.50 "," $291,724.50 "," $355,474.50 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2017," $256,038.50 "," $169,448.50 "," $224,152.00 "," $260,618.00 "," $312,771.00 "," $379,668.00 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2018," $277,691.00 "," $181,117.00 "," $243,132.50 "," $282,501.50 "," $337,995.50 "," $408,158.50 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2019," $287,626.00 "," $186,551.00 "," $252,301.50 "," $292,473.50 "," $348,325.00 "," $418,946.00 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2020," $301,249.50 "," $195,162.50 "," $263,055.00 "," $305,976.50 "," $363,331.50 "," $435,075.00 ",https://www.zillow.com/research/data/
+46,Minnesota,MN,Minneapolis,1/1/2021," $331,018.50 "," $202,033.50 "," $286,659.50 "," $336,431.50 "," $397,649.00 "," $474,347.00 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2011," $112,290.50 "," $52,958.00 "," $74,021.50 "," $109,592.00 "," $216,265.50 "," $375,539.50 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2012," $111,063.00 "," $52,850.00 "," $72,425.00 "," $108,476.50 "," $218,040.00 "," $380,678.00 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2013," $112,983.50 "," $52,480.00 "," $73,438.50 "," $110,389.50 "," $223,632.00 "," $392,625.50 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2014," $115,052.00 "," $54,214.50 "," $74,463.00 "," $112,222.50 "," $229,889.00 "," $398,581.00 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2015," $116,698.00 "," $54,534.50 "," $75,143.00 "," $113,887.50 "," $233,547.00 "," $407,442.50 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2016," $120,742.50 "," $53,327.50 "," $77,126.50 "," $117,845.00 "," $236,093.50 "," $402,751.00 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2017," $126,488.50 "," $58,720.50 "," $81,948.50 "," $123,133.00 "," $241,915.50 "," $407,872.50 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2018," $130,491.00 "," $60,625.00 "," $85,604.50 "," $127,332.50 "," $245,631.00 "," $412,894.00 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2019," $133,608.50 "," $61,235.00 "," $89,700.00 "," $130,666.50 "," $248,622.00 "," $414,307.50 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2020," $141,104.50 "," $65,582.00 "," $94,366.00 "," $138,402.00 "," $258,890.00 "," $424,196.00 ",https://www.zillow.com/research/data/
+47,Oklahoma,OK,Tulsa,1/1/2021," $160,370.00 "," $70,953.00 "," $108,043.00 "," $157,701.00 "," $290,812.00 "," $471,069.50 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2011," $149,850.00 "," $50,265.50 "," $77,398.00 "," $128,462.50 "," $188,640.50 "," $260,594.00 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2012," $156,543.00 "," $52,054.50 "," $77,814.50 "," $134,173.50 "," $197,808.00 "," $268,169.00 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2013," $190,768.50 "," $68,274.50 "," $99,286.50 "," $163,867.00 "," $239,217.50 "," $320,393.00 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2014," $220,257.00 "," $77,885.50 "," $120,272.50 "," $190,484.00 "," $271,214.00 "," $353,067.00 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2015," $225,902.00 "," $84,141.50 "," $127,522.50 "," $197,495.50 "," $273,566.50 "," $353,082.50 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2016," $228,398.50 "," $87,702.50 "," $132,946.50 "," $200,974.50 "," $273,913.50 "," $349,094.00 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2017," $232,868.50 "," $92,696.50 "," $135,950.00 "," $205,793.00 "," $278,315.00 "," $350,447.00 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2018," $245,757.00 "," $105,071.50 "," $144,983.00 "," $218,154.50 "," $290,423.00 "," $362,550.00 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2019," $255,974.50 "," $110,490.00 "," $153,794.00 "," $228,479.50 "," $301,413.00 "," $375,690.50 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2020," $268,935.00 "," $118,983.00 "," $165,119.00 "," $240,651.00 "," $315,203.00 "," $390,365.50 ",https://www.zillow.com/research/data/
+48,California,CA,Bakersfield,1/1/2021," $319,239.00 "," $139,718.00 "," $193,505.00 "," $286,236.50 "," $373,101.50 "," $458,637.50 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2011," $112,918.50 "," $60,507.50 "," $73,223.00 "," $112,445.50 "," $169,127.00 "," $248,730.50 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2012," $109,817.00 "," $53,146.50 "," $68,653.50 "," $109,744.00 "," $167,546.00 "," $247,031.50 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2013," $109,374.00 "," $52,492.00 "," $66,440.50 "," $109,364.00 "," $166,736.50 "," $246,458.50 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2014," $109,945.00 "," $50,028.00 "," $65,837.50 "," $110,121.00 "," $168,272.50 "," $248,867.50 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2015," $114,116.50 "," $50,703.00 "," $67,311.00 "," $114,472.50 "," $175,659.50 "," $259,055.50 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2016," $116,398.00 "," $50,288.50 "," $68,410.00 "," $117,116.50 "," $178,910.00 "," $262,834.50 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2017," $121,318.50 "," $52,603.50 "," $70,899.00 "," $122,304.50 "," $184,630.00 "," $270,022.00 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2018," $125,991.50 "," $55,745.50 "," $73,864.50 "," $127,209.50 "," $189,782.50 "," $273,525.00 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2019," $133,064.00 "," $57,899.00 "," $77,820.50 "," $134,387.50 "," $199,500.50 "," $286,898.00 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2020," $140,752.00 "," $63,195.00 "," $82,998.00 "," $142,120.50 "," $209,284.00 "," $296,320.00 ",https://www.zillow.com/research/data/
+49,Kansas,KS,Wichita,1/1/2021," $160,727.50 "," $71,738.50 "," $98,314.50 "," $162,012.00 "," $235,702.00 "," $331,233.00 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2011," $123,974.50 "," $48,869.50 "," $73,608.00 "," $112,686.00 "," $160,550.50 "," $209,285.00 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2012," $125,185.50 "," $48,641.50 "," $73,293.00 "," $113,229.50 "," $163,305.00 "," $212,532.00 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2013," $131,544.50 "," $49,191.00 "," $75,651.00 "," $118,957.00 "," $171,960.50 "," $224,627.50 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2014," $140,957.50 "," $54,080.50 "," $81,874.50 "," $128,012.50 "," $182,498.50 "," $236,201.00 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2015," $153,004.00 "," $56,553.50 "," $89,222.50 "," $139,202.00 "," $196,030.00 "," $255,318.00 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2016," $168,721.00 "," $63,301.00 "," $99,146.00 "," $154,319.50 "," $214,692.50 "," $274,850.00 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2017," $185,705.50 "," $68,096.50 "," $112,932.50 "," $170,599.50 "," $233,580.00 "," $292,969.50 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2018," $205,166.50 "," $81,837.50 "," $127,851.00 "," $189,287.50 "," $253,360.00 "," $309,457.00 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2019," $215,431.50 "," $94,086.00 "," $142,483.00 "," $199,896.50 "," $261,931.00 "," $317,169.50 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2020," $225,764.00 "," $104,259.50 "," $152,367.50 "," $210,619.00 "," $270,330.50 "," $326,502.50 ",https://www.zillow.com/research/data/
+50,Texas,TX,Arlington,1/1/2021," $268,774.50 "," $122,595.50 "," $177,789.50 "," $251,100.50 "," $322,126.50 "," $388,140.50 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2011," $184,350.00 "," $80,385.50 "," $120,215.00 "," $171,865.50 "," $220,254.00 "," $276,612.00 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2012," $190,257.00 "," $73,479.50 "," $122,341.00 "," $177,215.50 "," $228,997.50 "," $288,038.00 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2013," $215,664.00 "," $75,139.50 "," $141,685.00 "," $201,460.50 "," $256,546.50 "," $318,423.00 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2014," $233,972.00 "," $84,148.50 "," $156,666.00 "," $219,979.50 "," $274,169.00 "," $338,860.00 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2015," $267,907.50 "," $99,540.00 "," $183,162.00 "," $253,694.50 "," $307,911.50 "," $373,902.00 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2016," $302,918.50 "," $118,479.00 "," $212,934.00 "," $287,408.50 "," $343,114.50 "," $412,141.00 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2017," $330,428.50 "," $136,060.00 "," $237,452.50 "," $314,595.00 "," $371,042.00 "," $439,719.00 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2018," $356,957.50 "," $155,291.00 "," $261,166.50 "," $340,439.00 "," $398,390.00 "," $472,104.00 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2019," $370,415.00 "," $163,904.00 "," $272,485.00 "," $353,844.00 "," $411,062.50 "," $484,368.50 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2020," $385,148.50 "," $169,421.50 "," $281,252.50 "," $368,692.50 "," $426,037.00 "," $498,653.00 ",https://www.zillow.com/research/data/
+51,Colorado,CO,Aurora,1/1/2021," $454,110.00 "," $192,529.50 "," $326,961.50 "," $435,431.50 "," $500,541.00 "," $584,217.00 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2011," $123,153.00 "," $60,094.50 "," $76,322.00 "," $116,623.50 "," $238,815.00 "," $418,887.50 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2012," $123,196.50 "," $61,783.50 "," $76,310.50 "," $116,677.50 "," $244,435.00 "," $431,322.50 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2013," $142,083.00 "," $72,404.50 "," $89,583.00 "," $134,561.00 "," $271,547.50 "," $475,710.00 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2014," $160,575.50 "," $80,442.00 "," $104,142.00 "," $152,189.00 "," $294,475.00 "," $507,643.50 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2015," $172,335.00 "," $88,206.50 "," $112,213.00 "," $163,406.50 "," $303,085.00 "," $525,348.00 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2016," $193,554.00 "," $100,297.50 "," $128,100.00 "," $183,775.50 "," $321,598.00 "," $555,394.00 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2017," $218,514.00 "," $113,133.50 "," $149,946.50 "," $207,805.50 "," $342,130.00 "," $585,123.50 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2018," $236,383.00 "," $127,737.00 "," $167,615.50 "," $224,679.00 "," $357,225.00 "," $606,594.50 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2019," $250,671.00 "," $135,940.00 "," $177,582.50 "," $239,906.00 "," $372,433.00 "," $628,177.00 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2020," $268,324.50 "," $143,505.50 "," $194,507.00 "," $256,601.50 "," $386,630.00 "," $643,012.50 ",https://www.zillow.com/research/data/
+52,Florida,FL,Tampa,1/1/2021," $326,315.50 "," $172,584.50 "," $240,256.00 "," $311,563.50 "," $462,465.50 "," $763,210.00 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2011," $167,864.50 "," $179,555.00 "," $154,691.00 "," $140,115.00 "," $208,012.50 "," $369,233.50 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2012," $169,251.00 "," $180,930.50 "," $159,889.50 "," $140,663.50 "," $207,116.50 "," $366,177.00 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2013," $181,030.00 "," $198,576.50 "," $175,307.50 "," $147,332.50 "," $222,503.00 "," $402,250.00 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2014," $193,965.50 "," $214,013.50 "," $195,487.00 "," $155,857.50 "," $233,367.50 "," $428,223.00 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2015," $208,368.50 "," $243,556.50 "," $217,426.00 "," $164,115.00 "," $243,609.00 "," $454,959.50 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2016," $223,887.50 "," $255,564.50 "," $237,822.00 "," $177,497.50 "," $256,957.00 "," $465,466.00 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2017," $226,089.50 "," $247,876.50 "," $234,073.50 "," $178,281.00 "," $261,779.50 "," $468,680.00 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2018," $229,356.00 "," $245,187.00 "," $237,749.00 "," $182,602.50 "," $265,845.50 "," $482,445.50 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2019," $226,012.50 "," $243,235.00 "," $238,528.50 "," $181,280.50 "," $264,067.00 "," $479,597.50 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2020," $229,674.00 "," $248,967.50 "," $251,569.50 "," $200,428.50 "," $286,875.50 "," $501,938.50 ",https://www.zillow.com/research/data/
+53,Louisiana,LA,New Orleans,1/1/2021," $251,447.00 "," $256,444.50 "," $270,735.50 "," $221,597.50 "," $313,750.00 "," $543,213.00 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2011," $52,735.50 "," $58,913.00 "," $52,225.50 "," $54,642.00 "," $56,640.50 "," $59,338.00 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2012," $43,716.00 "," $52,216.50 "," $43,758.00 "," $46,411.50 "," $45,119.50 "," $45,238.00 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2013," $45,300.00 "," $53,824.00 "," $45,958.50 "," $48,150.00 "," $44,746.50 "," $43,767.00 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2014," $44,728.00 "," $55,311.50 "," $45,130.00 "," $47,665.00 "," $43,701.50 "," $42,481.00 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2015," $45,532.50 "," $61,811.00 "," $47,296.50 "," $48,188.50 "," $43,377.50 "," $41,861.00 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2016," $47,911.00 "," $63,426.00 "," $48,746.50 "," $51,157.50 "," $45,732.50 "," $41,988.00 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2017," $52,363.50 "," $70,712.50 "," $52,981.00 "," $56,509.00 "," $48,485.50 "," $44,255.00 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2018," $59,987.00 "," $84,309.50 "," $60,741.00 "," $64,290.00 "," $55,814.50 "," $50,575.50 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2019," $65,759.00 "," $88,117.00 "," $65,768.50 "," $70,700.50 "," $61,006.00 "," $54,947.00 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2020," $72,193.50 "," $93,667.00 "," $72,199.00 "," $77,434.50 "," $66,242.00 "," $59,444.50 ",https://www.zillow.com/research/data/
+54,Ohio,OH,Cleveland,1/1/2021," $92,699.50 "," $108,732.00 "," $89,305.50 "," $99,517.50 "," $85,926.00 "," $79,093.50 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2011," $391,295.50 "," $200,733.00 "," $263,349.50 "," $364,201.50 "," $426,579.00 "," $591,094.50 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2012," $386,126.50 "," $197,629.00 "," $258,603.00 "," $359,830.00 "," $420,923.00 "," $588,349.50 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2013," $464,487.50 "," $240,571.50 "," $319,747.50 "," $435,990.50 "," $500,956.00 "," $695,338.00 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2014," $496,168.00 "," $272,425.00 "," $351,495.00 "," $467,218.00 "," $534,969.50 "," $729,760.00 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2015," $514,974.50 "," $290,594.50 "," $369,271.00 "," $485,021.50 "," $555,466.00 "," $753,255.00 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2016," $549,877.50 "," $308,368.00 "," $395,579.00 "," $519,250.50 "," $590,790.50 "," $789,252.50 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2017," $580,539.00 "," $324,510.00 "," $416,498.50 "," $549,304.50 "," $622,831.00 "," $824,376.00 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2018," $616,232.00 "," $349,797.50 "," $445,343.50 "," $585,976.00 "," $658,186.50 "," $862,063.00 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2019," $619,642.50 "," $351,591.50 "," $449,705.00 "," $588,760.00 "," $662,043.50 "," $865,160.00 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2020," $650,024.00 "," $368,101.00 "," $466,875.00 "," $618,941.50 "," $693,499.50 "," $890,142.50 ",https://www.zillow.com/research/data/
+55,California,CA,Anaheim,1/1/2021," $769,946.00 "," $413,882.50 "," $543,086.50 "," $735,464.50 "," $818,735.50 "," $1,053,712.00 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2011," $861,174.00 "," $213,544.00 "," $426,781.50 "," $768,616.50 "," $868,996.50 "," $915,803.00 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2012," $854,387.00 "," $244,182.50 "," $447,034.00 "," $760,453.00 "," $861,816.00 "," $905,896.00 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2013," $866,094.50 "," $289,121.50 "," $450,157.50 "," $791,599.50 "," $910,190.00 "," $947,748.00 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2014," $934,239.00 "," $355,214.00 "," $512,251.00 "," $864,832.00 "," $992,009.00 "," $1,038,098.00 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2015," $975,847.00 "," $366,736.50 "," $530,679.00 "," $903,479.50 "," $1,037,282.50 "," $1,085,695.50 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2016," $995,603.00 "," $372,133.50 "," $538,067.00 "," $918,768.50 "," $1,054,969.50 "," $1,108,297.50 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2017," $1,051,232.00 "," $400,490.00 "," $568,991.00 "," $965,631.00 "," $1,109,178.00 "," $1,167,522.00 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2018," $1,087,422.00 "," $407,041.00 "," $575,541.50 "," $995,561.00 "," $1,148,377.00 "," $1,207,527.50 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2019," $1,086,826.50 "," $407,990.50 "," $576,040.00 "," $995,496.50 "," $1,146,260.50 "," $1,209,379.00 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2020," $1,064,175.50 "," $400,706.50 "," $566,653.00 "," $973,586.50 "," $1,126,751.50 "," $1,187,662.00 ",https://www.zillow.com/research/data/
+56,Hawaii,HI,Honolulu,1/1/2021," $1,180,658.50 "," $418,037.50 "," $599,075.50 "," $1,072,773.50 "," $1,260,724.50 "," $1,318,695.00 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2011," $175,657.00 "," $54,173.00 "," $124,506.00 "," $151,218.00 "," $203,747.00 "," $278,479.00 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2012," $170,364.00 "," $53,307.00 "," $119,808.00 "," $146,254.00 "," $198,451.00 "," $270,560.50 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2013," $210,579.50 "," $68,741.50 "," $151,183.50 "," $181,306.50 "," $242,596.00 "," $329,694.00 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2014," $244,122.50 "," $76,815.00 "," $173,047.50 "," $212,019.50 "," $281,395.00 "," $372,859.50 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2015," $259,386.00 "," $79,761.50 "," $183,786.50 "," $227,388.50 "," $298,825.00 "," $388,731.50 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2016," $274,015.00 "," $86,293.50 "," $194,988.00 "," $242,167.50 "," $314,275.50 "," $402,069.50 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2017," $290,866.50 "," $94,530.50 "," $209,522.00 "," $258,730.00 "," $331,394.00 "," $419,135.00 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2018," $329,735.50 "," $124,620.00 "," $245,309.50 "," $296,729.00 "," $371,567.00 "," $460,169.50 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2019," $345,381.50 "," $136,210.50 "," $260,257.50 "," $312,110.50 "," $387,771.50 "," $476,895.50 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2020," $355,309.50 "," $138,150.00 "," $268,276.50 "," $321,618.00 "," $398,975.50 "," $490,568.00 ",https://www.zillow.com/research/data/
+57,Nevada,NV,Henderson,1/1/2021," $421,088.00 "," $164,629.50 "," $314,696.00 "," $380,917.50 "," $475,272.00 "," $588,211.00 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2011," $133,213.00 "," $53,985.50 "," $78,375.00 "," $123,675.00 "," $165,037.50 "," $212,502.50 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2012," $129,688.50 "," $51,070.00 "," $73,885.50 "," $120,327.50 "," $161,991.00 "," $209,670.00 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2013," $155,853.50 "," $65,119.50 "," $91,244.00 "," $145,005.50 "," $194,876.00 "," $248,437.50 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2014," $197,140.00 "," $82,792.50 "," $117,113.00 "," $182,546.00 "," $246,203.00 "," $303,826.50 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2015," $208,749.50 "," $84,735.00 "," $127,855.50 "," $193,902.00 "," $256,381.50 "," $315,153.50 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2016," $232,154.50 "," $97,559.00 "," $145,877.50 "," $217,495.00 "," $282,378.00 "," $338,718.00 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2017," $258,159.00 "," $112,123.00 "," $170,440.50 "," $242,625.50 "," $311,458.50 "," $366,390.50 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2018," $291,519.00 "," $146,533.00 "," $202,257.00 "," $275,167.50 "," $346,159.00 "," $404,768.50 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2019," $302,872.00 "," $161,246.50 "," $217,356.50 "," $286,854.00 "," $355,440.00 "," $412,483.00 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2020," $316,692.00 "," $169,637.00 "," $228,779.50 "," $300,490.00 "," $369,081.00 "," $429,919.00 ",https://www.zillow.com/research/data/
+58,California,CA,Stockton,1/1/2021," $399,067.50 "," $211,833.50 "," $290,736.50 "," $378,809.00 "," $462,582.00 "," $532,217.50 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2011," $158,863.00 "," $79,122.50 "," $113,560.50 "," $145,336.50 "," $229,381.50 "," $368,387.50 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2012," $156,731.00 "," $76,751.50 "," $111,727.00 "," $143,493.00 "," $224,034.00 "," $356,503.00 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2013," $163,753.00 "," $83,575.00 "," $114,465.00 "," $147,941.50 "," $238,581.50 "," $390,664.00 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2014," $164,622.50 "," $84,916.50 "," $114,388.00 "," $149,208.00 "," $240,845.00 "," $390,006.00 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2015," $168,077.50 "," $87,023.50 "," $114,665.00 "," $152,532.00 "," $249,216.50 "," $402,497.00 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2016," $173,555.50 "," $92,501.00 "," $117,409.50 "," $157,895.50 "," $254,691.50 "," $407,566.00 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2017," $185,673.00 "," $96,551.50 "," $123,966.00 "," $168,559.00 "," $271,545.00 "," $426,010.50 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2018," $194,169.50 "," $102,832.50 "," $131,025.00 "," $177,414.00 "," $280,099.00 "," $428,398.00 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2019," $201,647.00 "," $106,188.00 "," $136,641.50 "," $184,855.50 "," $285,816.00 "," $435,846.00 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2020," $212,363.00 "," $112,489.00 "," $143,263.50 "," $195,511.00 "," $296,971.50 "," $447,469.50 ",https://www.zillow.com/research/data/
+59,Kentucky,KY,Lexington,1/1/2021," $241,379.50 "," $124,094.50 "," $161,506.50 "," $223,471.50 "," $334,612.00 "," $493,788.00 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2011," $125,382.00 "," $72,074.50 "," $88,137.00 "," $131,952.00 "," $197,565.50 "," $284,011.50 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2012," $126,466.00 "," $75,487.00 "," $88,828.50 "," $132,435.50 "," $200,490.50 "," $285,954.00 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2013," $129,422.50 "," $77,752.00 "," $89,870.00 "," $134,965.00 "," $204,671.50 "," $289,741.50 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2014," $136,010.50 "," $79,874.50 "," $95,569.50 "," $143,100.50 "," $220,414.00 "," $311,617.50 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2015," $147,219.00 "," $93,007.50 "," $104,011.50 "," $155,259.50 "," $235,221.50 "," $335,593.50 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2016," $152,141.50 "," $97,108.50 "," $107,629.00 "," $160,057.00 "," $241,513.50 "," $344,220.00 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2017," $157,870.00 "," $98,193.00 "," $110,029.00 "," $164,659.50 "," $245,688.50 "," $349,015.50 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2018," $159,217.50 "," $96,946.00 "," $111,366.00 "," $166,727.50 "," $246,948.00 "," $349,858.50 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2019," $159,760.00 "," $99,696.00 "," $112,279.00 "," $168,889.50 "," $249,661.50 "," $355,419.00 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2020," $171,509.00 "," $112,714.00 "," $121,965.00 "," $179,956.50 "," $259,977.50 "," $376,309.50 ",https://www.zillow.com/research/data/
+60,Texas,TX,Corpus Christi,1/1/2021," $190,229.50 "," $131,930.00 "," $138,395.50 "," $202,956.50 "," $289,376.00 "," $401,970.00 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2011," $222,791.00 "," $105,843.00 "," $151,920.00 "," $194,965.00 "," $254,406.00 "," $354,558.50 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2012," $222,096.00 "," $104,231.50 "," $151,159.50 "," $195,668.00 "," $253,122.50 "," $345,740.50 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2013," $269,656.50 "," $135,332.50 "," $184,612.00 "," $239,592.00 "," $308,052.50 "," $413,118.00 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2014," $319,377.00 "," $167,530.00 "," $227,691.00 "," $285,187.00 "," $363,775.50 "," $479,574.50 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2015," $333,516.00 "," $181,287.00 "," $245,010.00 "," $298,969.00 "," $377,783.00 "," $490,961.00 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2016," $353,560.00 "," $191,800.00 "," $261,265.00 "," $321,078.00 "," $395,242.00 "," $504,579.50 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2017," $375,222.00 "," $208,474.50 "," $281,806.50 "," $342,899.00 "," $417,769.00 "," $529,992.00 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2018," $406,721.00 "," $234,244.50 "," $313,136.50 "," $372,427.00 "," $452,148.00 "," $565,459.00 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2019," $417,773.00 "," $250,061.00 "," $326,216.50 "," $385,393.50 "," $461,422.50 "," $569,986.50 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2020," $434,391.50 "," $261,700.00 "," $340,493.00 "," $402,038.50 "," $479,453.00 "," $585,441.50 ",https://www.zillow.com/research/data/
+61,California,CA,Riverside,1/1/2021," $533,322.00 "," $307,967.50 "," $414,127.50 "," $496,874.50 "," $589,724.00 "," $713,664.00 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2011," $344,390.00 ",," $212,102.50 "," $327,106.50 "," $384,704.50 "," $451,539.50 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2012," $345,064.00 "," $152,770.00 "," $214,022.00 "," $327,752.00 "," $383,653.00 "," $452,857.50 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2013," $417,040.50 "," $181,858.50 "," $272,421.50 "," $397,522.50 "," $457,876.00 "," $534,799.50 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2014," $444,438.00 "," $203,275.00 "," $305,746.00 "," $424,245.00 "," $493,266.50 "," $570,241.00 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2015," $466,028.50 "," $218,078.50 "," $326,286.00 "," $445,701.50 "," $514,545.00 "," $590,642.50 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2016," $498,901.00 "," $232,994.00 "," $349,202.00 "," $477,752.00 "," $549,564.50 "," $631,278.00 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2017," $532,961.00 "," $252,774.50 "," $372,421.00 "," $511,981.50 "," $582,591.00 "," $664,862.00 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2018," $572,469.00 "," $278,736.50 "," $403,976.00 "," $551,346.00 "," $625,090.50 "," $711,115.00 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2019," $581,344.50 "," $284,277.00 "," $415,171.00 "," $561,061.00 "," $631,949.50 "," $717,084.50 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2020," $608,552.50 "," $296,292.00 "," $434,418.00 "," $589,315.00 "," $656,354.00 "," $741,568.00 ",https://www.zillow.com/research/data/
+62,California,CA,Santa Ana,1/1/2021," $712,877.50 "," $335,764.00 "," $508,147.50 "," $689,446.00 "," $776,403.00 "," $876,335.00 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2011," $131,868.00 "," $50,813.50 "," $66,635.00 "," $111,557.00 "," $171,321.00 "," $253,843.00 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2012," $135,336.50 "," $55,244.00 "," $70,483.00 "," $114,563.50 "," $176,000.00 "," $260,192.00 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2013," $160,676.50 "," $66,386.50 "," $84,726.50 "," $137,301.00 "," $208,614.50 "," $302,339.00 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2014," $184,736.00 "," $73,772.50 "," $97,093.00 "," $159,031.00 "," $235,078.50 "," $332,218.50 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2015," $192,253.00 "," $76,278.50 "," $100,961.00 "," $166,131.00 "," $241,882.50 "," $338,149.50 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2016," $210,762.50 "," $80,612.00 "," $109,827.50 "," $183,016.50 "," $259,843.50 "," $356,819.50 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2017," $228,492.50 "," $87,236.00 "," $122,384.50 "," $200,931.00 "," $276,422.00 "," $374,457.00 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2018," $248,352.00 "," $95,966.50 "," $137,452.00 "," $221,214.00 "," $295,185.50 "," $392,941.00 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2019," $260,555.50 "," $106,780.00 "," $149,532.00 "," $233,915.50 "," $307,134.50 "," $405,933.00 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2020," $273,860.00 "," $114,353.50 "," $159,339.50 "," $247,352.50 "," $319,922.50 "," $417,766.00 ",https://www.zillow.com/research/data/
+63,Florida,FL,Orlando,1/1/2021," $309,523.00 "," $121,802.50 "," $176,827.50 "," $279,458.50 "," $362,824.50 "," $470,097.50 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2011," $709,454.50 "," $244,968.00 "," $418,282.00 "," $578,521.50 "," $785,354.50 "," $1,207,561.50 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2012," $705,382.50 "," $237,025.00 "," $406,494.50 "," $570,626.00 "," $781,117.00 "," $1,195,947.50 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2013," $846,788.00 "," $318,868.00 "," $492,442.50 "," $686,851.00 "," $928,307.50 "," $1,426,892.50 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2014," $887,786.00 "," $339,333.50 "," $514,954.50 "," $717,971.50 "," $967,204.00 "," $1,500,070.50 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2015," $910,962.50 "," $349,147.00 "," $523,538.50 "," $734,461.50 "," $997,529.50 "," $1,549,914.50 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2016," $947,107.50 "," $364,230.00 "," $545,911.50 "," $761,818.50 "," $1,037,004.50 "," $1,593,618.50 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2017," $986,444.50 "," $384,752.00 "," $568,896.50 "," $792,420.00 "," $1,077,281.50 "," $1,627,035.50 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2018," $1,039,436.00 "," $420,213.50 "," $612,937.00 "," $839,742.00 "," $1,134,421.00 "," $1,681,892.00 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2019," $1,033,155.50 "," $417,703.00 "," $616,034.00 "," $838,022.50 "," $1,127,307.50 "," $1,650,486.50 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2020," $1,042,498.00 "," $422,298.00 "," $618,847.50 "," $850,484.50 "," $1,133,914.50 "," $1,646,768.50 ",https://www.zillow.com/research/data/
+64,California,CA,Irvine,1/1/2021," $1,189,227.50 "," $480,649.00 "," $688,402.50 "," $955,101.00 "," $1,297,249.00 "," $1,864,203.00 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2011," $122,862.00 "," $86,777.50 "," $94,274.50 "," $119,712.50 "," $174,722.50 "," $220,452.50 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2012," $116,978.00 "," $79,861.00 "," $88,635.00 "," $113,962.50 "," $167,440.50 "," $214,101.00 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2013," $117,550.50 "," $81,478.50 "," $88,311.50 "," $114,326.50 "," $170,953.50 "," $221,346.50 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2014," $118,274.00 "," $81,145.50 "," $87,329.50 "," $114,742.50 "," $173,747.00 "," $230,416.00 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2015," $124,065.00 "," $90,752.00 "," $92,805.50 "," $120,585.00 "," $180,806.00 "," $239,287.50 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2016," $128,959.50 "," $94,459.50 "," $96,659.50 "," $125,177.00 "," $187,326.00 "," $247,001.00 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2017," $142,937.00 "," $107,638.50 "," $108,706.50 "," $138,404.00 "," $205,306.50 "," $270,534.00 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2018," $152,737.00 "," $114,898.50 "," $117,750.00 "," $148,292.50 "," $216,692.50 "," $283,905.00 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2019," $162,385.50 "," $125,589.00 "," $126,994.50 "," $157,034.50 "," $227,201.50 "," $298,937.00 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2020," $174,786.00 "," $133,448.00 "," $137,847.50 "," $168,386.00 "," $239,554.00 "," $312,441.00 ",https://www.zillow.com/research/data/
+65,Ohio,OH,Cincinnati,1/1/2021," $209,273.50 "," $156,040.00 "," $164,074.00 "," $201,153.50 "," $280,312.50 "," $368,561.50 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2011," $222,492.50 "," $161,820.50 "," $185,158.00 "," $184,306.00 "," $197,027.00 "," $248,158.00 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2012," $203,184.00 "," $152,728.00 "," $171,231.50 "," $162,103.50 "," $176,882.50 "," $223,549.00 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2013," $192,766.00 "," $141,342.00 "," $159,810.50 "," $157,175.50 "," $167,641.50 "," $209,564.00 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2014," $188,359.50 "," $150,852.00 "," $158,854.50 "," $153,203.50 "," $162,531.00 "," $210,877.50 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2015," $196,290.50 "," $157,162.00 "," $158,982.00 "," $159,194.50 "," $165,665.50 "," $215,164.00 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2016," $213,306.50 "," $164,864.00 "," $168,852.00 "," $173,002.50 "," $181,245.50 "," $229,176.50 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2017," $235,595.00 "," $177,084.50 "," $181,737.00 "," $187,419.00 "," $198,842.50 "," $253,065.50 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2018," $259,271.00 "," $199,424.00 "," $203,568.50 "," $210,399.00 "," $220,435.50 "," $283,732.00 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2019," $291,674.00 "," $236,426.50 "," $240,359.00 "," $244,578.00 "," $254,450.50 "," $317,369.50 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2020," $327,033.50 "," $242,153.00 "," $258,312.00 "," $273,848.50 "," $289,652.00 "," $359,939.00 ",https://www.zillow.com/research/data/
+66,New Jersey,NJ,Newark,1/1/2021," $383,058.50 "," $265,725.50 "," $286,507.00 "," $316,510.00 "," $339,867.00 "," $423,252.50 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2011," $150,690.00 "," $97,974.50 "," $132,697.00 "," $149,365.00 "," $177,796.50 "," $257,767.50 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2012," $145,291.50 "," $86,547.50 "," $124,857.50 "," $143,871.50 "," $175,934.00 "," $261,130.00 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2013," $160,690.50 "," $97,801.00 "," $138,233.50 "," $159,097.50 "," $193,079.00 "," $283,342.00 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2014," $178,532.00 "," $112,312.00 "," $154,813.00 "," $176,579.00 "," $213,433.00 "," $307,506.00 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2015," $184,113.50 "," $117,940.00 "," $157,999.00 "," $182,406.50 "," $221,083.50 "," $319,648.00 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2016," $189,579.00 "," $124,768.50 "," $165,443.00 "," $187,322.00 "," $226,072.50 "," $323,172.00 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2017," $210,114.50 "," $138,311.00 "," $181,465.50 "," $207,745.50 "," $251,268.50 "," $356,447.00 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2018," $226,137.50 "," $151,366.00 "," $195,761.50 "," $223,669.00 "," $267,505.50 "," $373,312.50 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2019," $235,418.50 "," $156,862.00 "," $204,767.50 "," $232,733.00 "," $276,206.00 "," $380,180.50 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2020," $245,539.00 "," $164,392.00 "," $215,521.00 "," $242,387.50 "," $287,396.00 "," $393,986.50 ",https://www.zillow.com/research/data/
+67,Minnesota,MN,Saint Paul,1/1/2021," $273,061.50 "," $177,734.00 "," $238,549.50 "," $270,123.00 "," $318,460.00 "," $431,134.50 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2011," $110,758.50 "," $82,621.00 "," $80,446.00 "," $108,399.00 "," $176,693.00 "," $236,187.00 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2012," $113,371.00 "," $83,308.50 "," $83,091.00 "," $110,782.00 "," $182,075.00 "," $245,778.00 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2013," $117,759.00 "," $86,506.50 "," $85,934.50 "," $115,851.00 "," $193,037.00 "," $262,975.50 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2014," $124,734.50 "," $91,355.00 "," $90,638.00 "," $121,838.00 "," $204,475.00 "," $281,563.50 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2015," $131,826.50 "," $99,332.50 "," $96,980.50 "," $128,013.00 "," $216,392.50 "," $299,167.00 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2016," $140,905.50 "," $105,654.50 "," $103,864.50 "," $136,565.50 "," $228,824.00 "," $314,081.00 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2017," $149,571.50 "," $109,794.00 "," $110,387.00 "," $145,051.50 "," $240,353.50 "," $330,323.00 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2018," $163,589.50 "," $120,080.00 "," $122,566.00 "," $158,024.50 "," $259,874.00 "," $352,999.00 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2019," $173,672.50 "," $126,872.00 "," $131,459.00 "," $168,156.50 "," $270,711.00 "," $368,068.50 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2020," $181,704.50 "," $131,994.00 "," $137,662.50 "," $175,606.00 "," $283,139.50 "," $383,840.50 ",https://www.zillow.com/research/data/
+68,Pennsylvania,PA,Pittsburgh,1/1/2021," $218,523.00 "," $149,991.50 "," $166,637.00 "," $211,782.00 "," $333,129.00 "," $447,217.50 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2011," $133,343.00 "," $69,698.00 "," $80,922.50 "," $121,363.00 "," $220,429.00 "," $337,829.50 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2012," $127,841.50 "," $65,079.50 "," $75,737.50 "," $116,128.00 "," $212,771.50 "," $326,598.50 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2013," $130,235.00 "," $64,140.00 "," $75,001.50 "," $117,825.50 "," $219,968.00 "," $338,292.00 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2014," $132,570.00 "," $64,450.00 "," $74,477.50 "," $119,979.00 "," $224,732.50 "," $345,261.50 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2015," $134,464.50 "," $65,163.50 "," $75,023.00 "," $121,727.00 "," $227,917.50 "," $350,052.00 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2016," $136,425.00 "," $66,765.00 "," $75,433.50 "," $123,425.50 "," $231,583.50 "," $354,878.00 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2017," $144,680.50 "," $68,810.00 "," $80,564.50 "," $131,313.50 "," $242,778.50 "," $366,898.50 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2018," $152,530.50 "," $74,423.50 "," $86,759.00 "," $138,804.50 "," $253,225.50 "," $378,510.50 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2019," $162,028.50 "," $78,985.00 "," $93,831.50 "," $147,968.00 "," $263,206.00 "," $386,854.50 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2020," $175,142.50 "," $86,926.00 "," $102,840.00 "," $160,631.50 "," $278,589.00 "," $400,283.50 ",https://www.zillow.com/research/data/
+69,North Carolina,NC,Greensboro,1/1/2021," $203,397.00 "," $102,327.50 "," $121,319.50 "," $186,699.00 "," $317,728.00 "," $450,470.00 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2011," $107,783.00 "," $95,958.00 "," $110,276.50 "," $128,025.00 "," $149,745.50 "," $212,962.50 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2012," $101,257.00 "," $85,154.50 "," $103,362.00 "," $123,897.50 "," $148,002.50 "," $210,341.00 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2013," $98,311.50 "," $81,928.50 "," $101,905.50 "," $124,056.00 "," $149,196.50 "," $203,910.50 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2014," $93,462.50 "," $76,945.00 "," $98,160.50 "," $122,624.00 "," $151,213.50 "," $208,609.50 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2015," $99,473.00 "," $82,352.50 "," $104,983.00 "," $132,074.50 "," $166,565.50 "," $228,471.00 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2016," $102,480.50 "," $86,349.50 "," $109,034.00 "," $135,581.50 "," $169,439.50 "," $231,598.00 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2017," $107,003.50 "," $89,010.50 "," $114,176.00 "," $143,099.00 "," $179,947.00 "," $241,638.00 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2018," $118,023.50 "," $97,504.00 "," $123,868.00 "," $156,244.00 "," $198,740.50 "," $267,545.00 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2019," $121,908.00 "," $101,921.00 "," $127,216.50 "," $161,664.00 "," $205,796.50 "," $280,035.50 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2020," $131,926.50 "," $106,984.00 "," $137,579.00 "," $173,350.00 "," $219,791.50 "," $288,890.50 ",https://www.zillow.com/research/data/
+70,Missouri,MO,Saint Louis,1/1/2021," $153,783.50 "," $126,116.50 "," $157,626.00 "," $199,568.00 "," $253,031.50 "," $327,573.00 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2011," $143,373.50 "," $121,445.50 "," $113,848.00 "," $143,538.00 "," $204,246.50 "," $250,233.50 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2012," $141,606.00 "," $118,088.00 "," $112,124.00 "," $141,715.00 "," $201,992.00 "," $247,062.00 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2013," $153,241.50 "," $129,422.00 "," $120,614.00 "," $153,376.50 "," $220,617.00 "," $270,988.00 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2014," $152,768.50 "," $128,746.00 "," $120,342.50 "," $153,130.50 "," $220,609.50 "," $272,691.50 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2015," $161,227.00 "," $136,473.00 "," $127,091.00 "," $161,640.00 "," $232,427.50 "," $287,110.00 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2016," $167,435.50 "," $142,092.50 "," $132,215.00 "," $167,820.00 "," $240,131.50 "," $294,524.50 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2017," $179,368.00 "," $151,501.50 "," $142,166.00 "," $179,566.00 "," $255,716.00 "," $314,395.00 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2018," $190,735.50 "," $161,202.00 "," $151,439.50 "," $190,635.00 "," $270,475.00 "," $333,154.50 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2019," $199,829.50 "," $166,573.50 "," $159,333.50 "," $200,194.00 "," $277,319.00 "," $337,747.50 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2020," $206,405.00 "," $175,433.00 "," $164,951.50 "," $206,821.50 "," $285,473.00 "," $346,885.00 ",https://www.zillow.com/research/data/
+71,Nebraska,NE,Lincoln,1/1/2021," $239,984.00 "," $202,191.00 "," $192,750.00 "," $240,544.50 "," $326,178.50 "," $396,055.50 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2011," $214,394.00 "," $100,016.50 "," $141,277.50 "," $164,561.00 "," $244,630.00 "," $343,567.50 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2012," $221,487.50 "," $97,844.50 "," $145,178.00 "," $170,088.00 "," $252,576.50 "," $354,701.50 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2013," $236,001.50 "," $104,442.50 "," $153,179.50 "," $180,646.50 "," $268,649.50 "," $374,282.00 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2014," $257,953.50 "," $112,683.00 "," $167,521.00 "," $198,544.00 "," $292,901.00 "," $402,705.00 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2015," $287,377.00 "," $129,975.00 "," $189,769.50 "," $223,094.50 "," $324,682.00 "," $439,890.00 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2016," $311,768.00 "," $142,929.00 "," $211,940.50 "," $245,917.50 "," $349,047.50 "," $465,433.50 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2017," $336,346.50 "," $157,896.00 "," $231,663.00 "," $268,979.50 "," $372,350.00 "," $488,487.50 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2018," $346,470.50 "," $169,101.00 "," $244,183.00 "," $281,272.50 "," $380,378.50 "," $494,717.00 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2019," $345,363.50 "," $169,518.50 "," $244,247.00 "," $282,372.50 "," $379,122.00 "," $488,555.00 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2020," $346,070.50 "," $175,108.00 "," $246,768.50 "," $285,130.00 "," $379,772.50 "," $487,476.50 ",https://www.zillow.com/research/data/
+72,Texas,TX,Plano,1/1/2021," $418,720.00 "," $201,140.50 "," $291,360.00 "," $343,630.00 "," $460,291.00 "," $587,071.00 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2011," $311,298.00 "," $169,022.00 "," $185,462.00 "," $277,219.00 "," $361,443.00 "," $442,855.00 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2012," $320,151.00 "," $170,352.50 "," $188,610.50 "," $285,109.00 "," $372,592.00 "," $455,300.50 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2013," $329,224.00 "," $165,984.00 "," $194,450.00 "," $292,771.50 "," $384,083.00 "," $467,488.50 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2014," $337,848.00 "," $173,960.50 "," $200,033.00 "," $300,443.00 "," $393,736.00 "," $475,222.50 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2015," $347,864.50 "," $174,756.50 "," $204,008.50 "," $309,136.50 "," $405,519.50 "," $492,796.50 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2016," $349,531.50 "," $172,933.00 "," $204,776.00 "," $311,551.00 "," $406,070.00 "," $494,621.00 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2017," $345,169.50 "," $170,416.00 "," $201,414.00 "," $307,791.50 "," $400,519.00 "," $488,539.50 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2018," $348,934.00 "," $168,301.00 "," $202,581.50 "," $310,726.00 "," $405,180.50 "," $490,931.00 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2019," $376,230.50 "," $174,745.00 "," $213,092.00 "," $335,240.50 "," $434,512.00 "," $519,519.50 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2020," $363,828.00 "," $175,803.00 "," $215,585.50 "," $325,580.50 "," $417,118.50 "," $505,119.50 ",https://www.zillow.com/research/data/
+73,Alaska,AK,Anchorage,1/1/2021," $386,293.50 "," $182,718.50 "," $233,835.50 "," $348,141.50 "," $439,046.00 "," $523,015.00 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2011," $173,763.50 "," $114,658.50 "," $119,833.00 "," $158,634.50 "," $239,943.50 "," $327,673.00 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2012," $165,082.50 "," $114,476.00 "," $112,377.00 "," $150,418.50 "," $230,384.00 "," $314,748.00 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2013," $173,155.50 "," $111,900.50 "," $118,900.50 "," $157,406.50 "," $241,050.00 "," $331,657.50 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2014," $181,836.50 "," $99,312.00 "," $123,106.00 "," $165,382.00 "," $254,233.00 "," $349,121.50 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2015," $187,012.50 "," $111,281.00 "," $127,397.50 "," $170,565.00 "," $258,945.00 "," $355,666.50 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2016," $199,077.00 "," $113,195.00 "," $135,026.50 "," $181,524.00 "," $274,296.50 "," $370,972.50 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2017," $214,394.50 "," $128,355.00 "," $147,590.00 "," $196,134.00 "," $289,979.00 "," $386,523.50 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2018," $234,040.00 "," $148,092.00 "," $165,426.00 "," $215,561.50 "," $310,458.50 "," $406,205.00 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2019," $252,311.50 "," $169,797.00 "," $181,573.50 "," $233,427.00 "," $329,617.50 "," $428,602.00 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2020," $264,304.50 "," $183,650.50 "," $194,246.00 "," $245,325.00 "," $341,077.00 "," $442,067.00 ",https://www.zillow.com/research/data/
+74,North Carolina,NC,Durham,1/1/2021," $314,496.50 "," $211,638.00 "," $229,229.50 "," $292,391.50 "," $406,237.00 "," $520,258.00 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2011," $282,310.00 "," $306,726.50 "," $397,301.50 "," $300,482.50 "," $283,982.50 "," $299,933.00 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2012," $272,130.00 "," $304,456.00 "," $364,742.00 "," $303,058.00 "," $285,664.50 "," $297,587.50 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2013," $286,890.00 "," $328,660.50 "," $386,024.00 "," $315,621.00 "," $299,661.50 "," $314,675.00 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2014," $314,745.00 "," $367,817.00 "," $426,867.00 "," $347,701.50 "," $332,334.00 "," $345,716.00 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2015," $330,900.00 "," $390,149.50 "," $453,688.00 "," $370,242.50 "," $357,180.00 "," $373,238.00 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2016," $365,580.50 "," $433,664.00 "," $495,381.50 "," $410,903.00 "," $403,386.50 "," $424,509.50 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2017," $408,525.00 "," $471,067.50 "," $537,922.50 "," $458,794.50 "," $445,592.00 "," $478,914.00 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2018," $459,463.00 "," $503,269.50 "," $568,473.00 "," $501,645.00 "," $497,800.50 "," $540,612.50 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2019," $489,001.00 "," $490,562.50 "," $566,059.00 "," $523,939.50 "," $529,699.50 "," $576,188.50 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2020," $514,131.50 "," $487,710.50 "," $570,039.50 "," $541,306.00 "," $548,908.00 "," $603,894.00 ",https://www.zillow.com/research/data/
+75,New Jersey,NJ,Jersey City,1/1/2021," $569,324.00 "," $502,310.00 "," $594,366.50 "," $585,132.50 "," $602,130.50 "," $656,787.00 ",https://www.zillow.com/research/data/

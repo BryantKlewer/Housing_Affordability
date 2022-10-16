@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Datasets/Simple_Amortization_Table_for_calculation_example.xlsx
