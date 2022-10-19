@@ -1,6 +1,6 @@
 # project-one
 Contributors: Laura Ross, Bryant Klewer, Matt Watts, Veena Puvvada, and Annika Alicardi
-[Presentation Link] (https://docs.google.com/presentation/d/10ihHbhPH5w8b3enussh1Tu3RalZYbiRg6_Voe1-td5E/edit?usp=sharing)
+[Presentation Link] (https://docs.google.com/presentation/d/10ihHbhPH5w8b3enussh1Tu3RalZYbiRg6_Voe1-td5E/edit?usp=sharing).
 
 ## Purpose
 This project will be assessing US housing costs trends between 2011 and 2021 for single family homes in the 75 most populated cities compared to median incomes. Additionally, we will be using machine learning in an attempt to determine when housing in these cities became unaffordable, more than 1/3 of median monthly income, as well as give these locations an afordability score. A random forest classifier algorithm is most likely the best method to determine the affordability score as there are a high number of variables, it can rank each variables contribution to the affordability, and it can work well over a large data set. Housing affordability has become a hot button topic over the last few years across America and determining housing affordability can be utilized to help individuals make a determination on where to live and still be able to afford a quality life.
