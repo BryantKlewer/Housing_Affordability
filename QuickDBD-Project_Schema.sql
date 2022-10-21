@@ -224,7 +224,7 @@ ALTER TABLE "median_income" ADD CONSTRAINT "fk_median_income_Identifier" FOREIGN
 REFERENCES "acs_rental_index" ("Identifier");
 
 ALTER TABLE "acs_rental_index" ADD CONSTRAINT "fk_acs_rental_index_Identifier" FOREIGN KEY("Identifier")
-REFERENCES "master_data_set" ("Identifier");
+REFERENCES "payments_dataframe" ("Identifier");
 
 ALTER TABLE "affordability_scores" ADD CONSTRAINT "fk_affordability_scores_Identifier" FOREIGN KEY("Identifier")
 REFERENCES "payments_dataframe" ("Identifier");
