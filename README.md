@@ -28,3 +28,11 @@ We determined a median home value for each year in each of the cities of interes
 
 #### Freddie Mac
 We obtained 15- and 30-year fixed interest rate data from Freddie Mac. Freddie Mac surveys lenders across the nation on a weekly basis to determine an average 15-year fixed mortgage rate, 30-year fixed-mortgage rate, and 5/1 hybrid ARMs series This survey is called the Primary Mortgage Market Survey. Additional information on survey metrics and how results are weighted can be found on the Freddie Mac [PMMS website](https://www.freddiemac.com/pmms). 
+
+## Analysis
+
+
+
+## Machine Learning
+
+Target - 30 year mortgage with a 20% down payment.
