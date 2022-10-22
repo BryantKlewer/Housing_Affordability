@@ -211,8 +211,8 @@ CREATE TABLE "master_data_set" (
      )
 );
 
-ALTER TABLE "interest_rate" ADD CONSTRAINT "fk_interest_rate_Observation_Date" FOREIGN KEY("Observation_Date")
-REFERENCES "zillow_home_index" ("Observation_Date");
+ALTER TABLE "zillow_home_index" ADD CONSTRAINT "fk_zillow_home_index_Observation_Date" FOREIGN KEY("Observation_Date")
+REFERENCES "interest_rate" ("Observation_Date");
 
 ALTER TABLE "zillow_home_index" ADD CONSTRAINT "fk_zillow_home_index_Identifier" FOREIGN KEY("Identifier")
 REFERENCES "median_tax_and_monthly_cost" ("Indentifier");
