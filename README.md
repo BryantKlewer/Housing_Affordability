@@ -3,7 +3,7 @@ Contributors: Laura Ross, Bryant Klewer, Matt Watts, Veena Puvvada, and Annika A
 
 [Presentation Link](https://docs.google.com/presentation/d/10ihHbhPH5w8b3enussh1Tu3RalZYbiRg6_Voe1-td5E/edit?usp=sharing)
 ## Purpose
-This project will be assessing US housing costs trends between 2011 and 2021 for single family homes in the 75 most populated cities compared to median incomes. Additionally, we will be using machine learning in an attempt to determine when housing in these cities became unaffordable, more than 1/3 of median monthly income, as well as give these locations an afordability score. A supervised machine learning linear regression model will be the best method to determine the affordability score trends as there are a high number of variables, it can rank each variables contribution to the affordability, and it can work well over a large data set. Housing affordability has become a hot button topic over the last few years across America and determining housing affordability can be utilized to help individuals make a determination on where to live and still be able to afford a quality life.
+This project will be assessing US housing costs trends between 2011 and 2021 for single family homes in the 75 most populated cities compared to median incomes. Additionally, we will be using machine learning in an attempt to determine when housing in these cities became unaffordable, [more than 1/3 of median monthly income](https://www.huduser.gov/portal/pdredge/pdr-edge-featd-article-081417.html), as well as give these locations an afordability score. A supervised machine learning linear regression model will be the best method to determine the affordability score trends as there are a high number of variables, it can rank each variables contribution to the affordability, and it can work well over a large data set. Housing affordability has become a hot button topic over the last few years across America and determining housing affordability can be utilized to help individuals make a determination on where to live and still be able to afford a quality life.
 
 ## Communication protocols
 Team member contact information has been distributed via excel file with phone, email and best contact time. We are meeting 5-7 times weekly on Google Meetings or Discord to update what work has been completed and assessing next steps. In the event of a situation where an individual is stuck, slack, email, or phone calls to team members to get assistance is expected. 
@@ -35,4 +35,4 @@ We obtained 15 and 30-year fixed interest rate data from Freddie Mac. Freddie Ma
 
 ## Machine Learning
 
-Target - 30 year mortgage with a 20% down payment.
+Targets: 30 year mortgage with a 20% down payment, 30 year mortgage with 10% down payment, 15 year mortgage with 20% down payment, 15 year mortgage with 10% down payment. 
