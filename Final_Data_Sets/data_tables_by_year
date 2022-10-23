@@ -1,0 +1,509 @@
+-- create new tables of categorical data by year
+
+-- 2011 table 
+create table categorical_data_2011
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2011-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- 2012 table
+create table categorical_data_2012
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2012-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- 2013 table 
+create table categorical_data_2013
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2013-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- 2014 table 
+create table categorical_data_2014
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2014-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- 2015 table 
+create table categorical_data_2015
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2015-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- 2016 table 
+create table categorical_data_2016
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2016-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- 2017 table 
+create table categorical_data_2017
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2017-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- 2018 table 
+create table categorical_data_2018
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2018-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- 2019 table 
+create table categorical_data_2019
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2019-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- 2020 table 
+create table categorical_data_2020
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2020-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- 2021 table
+create table categorical_data_2021
+as 
+select 
+	zhi."Identifier", zhi."City_Rank_by_Population(2021)", zhi."City", zhi."State", zhi."Observation_Date", zhi."Single_Family_Median_Typical_Home_Value", 
+	zhi."One_Bedroom_Median_Typical_Home_Value", zhi."Two_Bedroom_Median_Typical_Home_Value", zhi."Three_Bedroom_Median_Typical_Home_Value", 
+	zhi."Four_Bedroom_Median_Typical_Home_Value", zhi."Five_Plus_Bedroom_Median_Typical_Home_Value",
+	ari."Median_Rent",
+	mi."Estimated_Median_Household_Income", mi."2021_estimated_population", mi."2020_census",
+	mtmc."Median_Taxes", mtmc."Median_Monthly_Housing_Cost",
+	ir."15_Year_Annual_Average_Rate", ir."30_Year_Annual_Average_Rate",
+	pd."home_15yr_Payment_10_Perc_Down", pd."home_15yr_Payment_20_Perc_Down", pd."home_30yr_Payment_10_Perc_Down", pd."home_30yr_Payment_20_Perc_Down",
+	pd."1br_15yr_Payment_10_Perc_Down", pd."1br_15yr_Payment_20_Perc_Down", pd."1br_30yr_Payment_10_Perc_Down", pd."1br_30yr_Payment_20_Perc_Down", 
+	pd."2br_15yr_Payment_10_Perc_Down", pd."2br_15yr_Payment_20_Perc_Down", pd."2br_30yr_Payment_10_Perc_Down", pd."2br_30yr_Payment_20_Perc_Down", 
+	pd."3br_15yr_Payment_10_Perc_Down", pd."3br_15yr_Payment_20_Perc_Down", pd."3br_30yr_Payment_10_Perc_Down", pd."3br_30yr_Payment_20_Perc_Down", 
+	pd."4br_15yr_Payment_10_Perc_Down", pd."4br_15yr_Payment_20_Perc_Down", pd."4br_30yr_Payment_10_Perc_Down", pd."4br_30yr_Payment_20_Perc_Down", 
+	pd."5_plus_br_15yr_Payment_10_Perc_Down", pd."5_plus_br_15yr_Payment_20_Perc_Down", pd."5_plus_br_30yr_Payment_10_Perc_Down", pd."5_plus_br_30yr_Payment_20_Perc_Down",
+	af."affordability_rent", af."Monthly_Affordability_Limit", af."affordability_home_15yr_Payment_10_Perc_Down", af."affordability_home_15yr_Payment_20_Perc_Down",
+	af."affordability_home_30yr_Payment_10_Perc_Down", af."affordability_home_30yr_Payment_20_Perc_Down", af."affordability_1br_15yr_Payment_10_Perc_Down", 
+	af."affordability_1br_15yr_Payment_20_Perc_Down", af."affordability_1br_30yr_Payment_10_Perc_Down", af."affordability_1br_30yr_Payment_20_Perc_Down", 
+	af."affordability_2br_15yr_Payment_10_Perc_Down", af."affordability_2br_15yr_Payment_20_Perc_Down", af."affordability_2br_30yr_Payment_10_Perc_Down", 
+	af."affordability_2br_30yr_Payment_20_Perc_Down", af."affordability_3br_15yr_Payment_10_Perc_Down", af."affordability_3br_15yr_Payment_20_Perc_Down", 
+	af."affordability_3br_30yr_Payment_10_Perc_Down", af."affordability_3br_30yr_Payment_20_Perc_Down", af."affordability_4br_15yr_Payment_10_Perc_Down", 
+	af."affordability_4br_15yr_Payment_20_Perc_Down", af."affordability_4br_30yr_Payment_10_Perc_Down", af."affordability_4br_30yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_15yr_Payment_10_Perc_Down", af."affordability_5_plus_br_15yr_Payment_20_Perc_Down", 
+	af."affordability_5_plus_br_30yr_Payment_10_Perc_Down", af."affordability_5_plus_br_30yr_Payment_20_Perc_Down"	
+from zillow_home_index zhi
+left join acs_rental_index ari 
+	on ari."Identifier" = zhi."Identifier"
+left join median_income mi
+	on mi."Identifier" = zhi."Identifier"
+left join median_tax_and_monthly_cost mtmc
+	on mtmc."Indentifier" = zhi."Identifier"
+left join interest_rate ir
+	on ir."Observation_Date" = zhi."Observation_Date"
+left join payments_dataframe pd
+	on pd."Identifier" = zhi."Identifier"
+left join affordability_scores af
+	on af."Identifier" = zhi."Identifier"
+where zhi."Observation_Date" = '2021-01-01'
+order by zhi."City_Rank_by_Population(2021)";
+
+
+-- verify data
+select *
+from categorical_data_2011;
+
+select *
+from categorical_data_2012;
+
+select *
+from categorical_data_2013;
+
+select *
+from categorical_data_2014;
+
+select *
+from categorical_data_2015;
+
+select *
+from categorical_data_2016;
+
+select *
+from categorical_data_2017;
+
+select *
+from categorical_data_2018;
+
+select *
+from categorical_data_2019;
+
+select *
+from categorical_data_2020;
+
+select *
+from categorical_data_2021;
+

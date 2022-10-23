@@ -1,2 +1,0 @@
-select * 
-from zillow_home_index;
