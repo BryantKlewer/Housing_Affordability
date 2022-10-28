@@ -1,0 +1,782 @@
+﻿Identifier,City_Rank_by_Population(2021),State,State_Abbreviation,City,Observation_Date,Single_Family_Median_Typical_Home_Value,One_Bedroom_Median_Typical_Home_Value,Two_Bedroom_Median_Typical_Home_Value,Three_Bedroom_Median_Typical_Home_Value,Four_Bedroom_Median_Typical_Home_Value,Five_Plus_Bedroom_Median_Typical_Home_Value,Data_Source_Link
+201101,1,New York,NY,New York,1/1/2011,460824,419555.5,549450.5,455413,532583.5,659430.5,https://www.zillow.com/research/data/
+201201,1,New York,NY,New York,1/1/2012,453166.5,421581.5,549293,448447,526229,657157.5,https://www.zillow.com/research/data/
+201301,1,New York,NY,New York,1/1/2013,467125.5,445182.5,579800.5,461446.5,543111.5,688458,https://www.zillow.com/research/data/
+201401,1,New York,NY,New York,1/1/2014,499898,487199.5,634870.5,493995,588659,757356.5,https://www.zillow.com/research/data/
+201501,1,New York,NY,New York,1/1/2015,526189,536285,689511.5,522588.5,628622,830589,https://www.zillow.com/research/data/
+201601,1,New York,NY,New York,1/1/2016,564503.5,569297.5,670378,556116.5,671733.5,902753,https://www.zillow.com/research/data/
+201701,1,New York,NY,New York,1/1/2017,609639,596954.5,704059,599185,723163.5,974056,https://www.zillow.com/research/data/
+201801,1,New York,NY,New York,1/1/2018,657625,616076.5,736671,647903.5,779734,1045178,https://www.zillow.com/research/data/
+201901,1,New York,NY,New York,1/1/2019,674181.5,611226.5,742837.5,660848,795054,1074956,https://www.zillow.com/research/data/
+202001,1,New York,NY,New York,1/1/2020,674022.5,601245,733223,659853.5,791277,1075888.5,https://www.zillow.com/research/data/
+202101,1,New York,NY,New York,1/1/2021,706417,603709,751189,690397.5,829040,1127861,https://www.zillow.com/research/data/
+201102,2,California,CA,Los Angeles,1/1/2011,435480,272758.5,344333,401657,529030.5,1035366.5,https://www.zillow.com/research/data/
+201202,2,California,CA,Los Angeles,1/1/2012,427431,265623,334394.5,392497,518414.5,1024005,https://www.zillow.com/research/data/
+201302,2,California,CA,Los Angeles,1/1/2013,509581.5,325530.5,404488.5,467068,609053,1189716,https://www.zillow.com/research/data/
+201402,2,California,CA,Los Angeles,1/1/2014,560058.5,366900.5,450210.5,514182,665534,1301142,https://www.zillow.com/research/data/
+201502,2,California,CA,Los Angeles,1/1/2015,592037,392237,477165,542274.5,695501.5,1357641,https://www.zillow.com/research/data/
+201602,2,California,CA,Los Angeles,1/1/2016,639353.5,427137,518834,586130.5,740608.5,1430196,https://www.zillow.com/research/data/
+201702,2,California,CA,Los Angeles,1/1/2017,681041.5,458963.5,558121,625633,780992.5,1499041.5,https://www.zillow.com/research/data/
+201802,2,California,CA,Los Angeles,1/1/2018,740088,504160.5,615996,679772.5,839575.5,1604369.5,https://www.zillow.com/research/data/
+201902,2,California,CA,Los Angeles,1/1/2019,749090,510428,625041,687367,847294.5,1617306.5,https://www.zillow.com/research/data/
+202002,2,California,CA,Los Angeles,1/1/2020,792644,528657,656899.5,729169.5,894337.5,1676027,https://www.zillow.com/research/data/
+202102,2,California,CA,Los Angeles,1/1/2021,937656.5,575026,746089.5,860336.5,1066739.5,1949031.5,https://www.zillow.com/research/data/
+201103,3,Illinois,IL,Chicago,1/1/2011,188293.5,174061.5,195267,196828.5,228488,254071.5,https://www.zillow.com/research/data/
+201203,3,Illinois,IL,Chicago,1/1/2012,172570,162008.5,178028.5,181587.5,216034,240993,https://www.zillow.com/research/data/
+201303,3,Illinois,IL,Chicago,1/1/2013,181089.5,180363.5,189911.5,191174.5,228698,253283.5,https://www.zillow.com/research/data/
+201403,3,Illinois,IL,Chicago,1/1/2014,197298,199134.5,210611.5,209122,247594,269463,https://www.zillow.com/research/data/
+201503,3,Illinois,IL,Chicago,1/1/2015,207696.5,204888.5,221887,219159.5,259367,284924,https://www.zillow.com/research/data/
+201603,3,Illinois,IL,Chicago,1/1/2016,219346,212262.5,233645.5,229350.5,272202,302999.5,https://www.zillow.com/research/data/
+201703,3,Illinois,IL,Chicago,1/1/2017,234363.5,222215.5,248720,245042.5,289533.5,320590,https://www.zillow.com/research/data/
+201803,3,Illinois,IL,Chicago,1/1/2018,244208,226532,258913.5,254263.5,299045.5,331889,https://www.zillow.com/research/data/
+201903,3,Illinois,IL,Chicago,1/1/2019,248326,225573,260868.5,258145.5,303511,337310.5,https://www.zillow.com/research/data/
+202003,3,Illinois,IL,Chicago,1/1/2020,252159.5,227702,261569.5,261443.5,309442,344695,https://www.zillow.com/research/data/
+202103,3,Illinois,IL,Chicago,1/1/2021,282580,236544.5,284521.5,291592,346520,388040.5,https://www.zillow.com/research/data/
+201104,4,Texas,TX,Houston,1/1/2011,124864,70218.5,85488,111605.5,162445.5,283861.5,https://www.zillow.com/research/data/
+201204,4,Texas,TX,Houston,1/1/2012,124078,70971.5,85119,109884,162726.5,288350,https://www.zillow.com/research/data/
+201304,4,Texas,TX,Houston,1/1/2013,134300.5,77472,92091.5,118659,176576.5,314851,https://www.zillow.com/research/data/
+201404,4,Texas,TX,Houston,1/1/2014,148960,86787.5,102135.5,131867.5,193211,340986,https://www.zillow.com/research/data/
+201504,4,Texas,TX,Houston,1/1/2015,164574,98104.5,113760,146448.5,212427.5,373324,https://www.zillow.com/research/data/
+201604,4,Texas,TX,Houston,1/1/2016,171800.5,105052,119289.5,153865,219179.5,375306.5,https://www.zillow.com/research/data/
+201704,4,Texas,TX,Houston,1/1/2017,179082,109530,125094,161287.5,225189.5,377769.5,https://www.zillow.com/research/data/
+201804,4,Texas,TX,Houston,1/1/2018,186486.5,113616.5,133340,168885.5,230974,380409.5,https://www.zillow.com/research/data/
+201904,4,Texas,TX,Houston,1/1/2019,195305,117434,143651.5,177786.5,237475.5,387789.5,https://www.zillow.com/research/data/
+202004,4,Texas,TX,Houston,1/1/2020,202412,119580,150282.5,185021.5,243819.5,392244,https://www.zillow.com/research/data/
+202104,4,Texas,TX,Houston,1/1/2021,229725.5,132536,168663.5,210146,276587.5,441456.5,https://www.zillow.com/research/data/
+201105,5,Arizona,AZ,Phoenix,1/1/2011,112204,57427.5,75507.5,102134.5,150566.5,258880,https://www.zillow.com/research/data/
+201205,5,Arizona,AZ,Phoenix,1/1/2012,126599,65678,85786.5,115695.5,169108.5,287248,https://www.zillow.com/research/data/
+201305,5,Arizona,AZ,Phoenix,1/1/2013,160519,85250.5,110561.5,149155,209644.5,341960.5,https://www.zillow.com/research/data/
+201405,5,Arizona,AZ,Phoenix,1/1/2014,178221.5,96282,124740.5,165530.5,230414,365453,https://www.zillow.com/research/data/
+201505,5,Arizona,AZ,Phoenix,1/1/2015,190565,105001,134899,177151.5,242503,378258,https://www.zillow.com/research/data/
+201605,5,Arizona,AZ,Phoenix,1/1/2016,206447.5,115429.5,147805.5,193108,258219,395020,https://www.zillow.com/research/data/
+201705,5,Arizona,AZ,Phoenix,1/1/2017,222031.5,125724,162374.5,209218,272724,408493,https://www.zillow.com/research/data/
+201805,5,Arizona,AZ,Phoenix,1/1/2018,239211,140418,179529.5,225470.5,291564.5,431028,https://www.zillow.com/research/data/
+201905,5,Arizona,AZ,Phoenix,1/1/2019,251377,151218.5,192577,237870.5,304643.5,448804.5,https://www.zillow.com/research/data/
+202005,5,Arizona,AZ,Phoenix,1/1/2020,277370.5,167448.5,212292.5,262946,332114.5,482358.5,https://www.zillow.com/research/data/
+202105,5,Arizona,AZ,Phoenix,1/1/2021,359291.5,216523,277632,340718,428991.5,622279,https://www.zillow.com/research/data/
+201106,6,Pennsylvania,PA,Philadelphia,1/1/2011,135741,221490,160968.5,120876,172850,240110,https://www.zillow.com/research/data/
+201206,6,Pennsylvania,PA,Philadelphia,1/1/2012,129322.5,220978.5,152781,114225.5,167669,231871.5,https://www.zillow.com/research/data/
+201306,6,Pennsylvania,PA,Philadelphia,1/1/2013,129270,229175,156940,113292,168913,235499.5,https://www.zillow.com/research/data/
+201406,6,Pennsylvania,PA,Philadelphia,1/1/2014,129916.5,237172,158557.5,114259,170732.5,246703.5,https://www.zillow.com/research/data/
+201506,6,Pennsylvania,PA,Philadelphia,1/1/2015,134176.5,242852,166180.5,117622.5,177645,262342,https://www.zillow.com/research/data/
+201606,6,Pennsylvania,PA,Philadelphia,1/1/2016,137178.5,245769.5,170719.5,121082.5,180801,267689.5,https://www.zillow.com/research/data/
+201706,6,Pennsylvania,PA,Philadelphia,1/1/2017,146778.5,260086,182754.5,129988.5,193419,279673.5,https://www.zillow.com/research/data/
+201806,6,Pennsylvania,PA,Philadelphia,1/1/2018,164287.5,268444.5,201351,146930.5,213342,308322,https://www.zillow.com/research/data/
+201906,6,Pennsylvania,PA,Philadelphia,1/1/2019,178344.5,272100,212242,160287,230354.5,325396,https://www.zillow.com/research/data/
+202006,6,Pennsylvania,PA,Philadelphia,1/1/2020,189607,273411,221005.5,170949,242497.5,340567,https://www.zillow.com/research/data/
+202106,6,Pennsylvania,PA,Philadelphia,1/1/2021,218388.5,292590.5,246820.5,197773,276699,388004,https://www.zillow.com/research/data/
+201107,7,Texas,TX,San Antonio,1/1/2011,138430.5,63654.5,86433.5,122131,183353,256438.5,https://www.zillow.com/research/data/
+201207,7,Texas,TX,San Antonio,1/1/2012,139092,60799.5,83669,122656.5,186245.5,261315.5,https://www.zillow.com/research/data/
+201307,7,Texas,TX,San Antonio,1/1/2013,143721.5,63196.5,86089,126713,192334.5,269286.5,https://www.zillow.com/research/data/
+201407,7,Texas,TX,San Antonio,1/1/2014,153554,67742,89978,135575,204600,284524.5,https://www.zillow.com/research/data/
+201507,7,Texas,TX,San Antonio,1/1/2015,163299,72499,95865,144937,214172.5,295515,https://www.zillow.com/research/data/
+201607,7,Texas,TX,San Antonio,1/1/2016,175554.5,76569,105029,156408,226653,308455,https://www.zillow.com/research/data/
+201707,7,Texas,TX,San Antonio,1/1/2017,186086,84204.5,115564.5,166854,235842,315867.5,https://www.zillow.com/research/data/
+201807,7,Texas,TX,San Antonio,1/1/2018,196600,91444.5,126302.5,177087,245043.5,324627,https://www.zillow.com/research/data/
+201907,7,Texas,TX,San Antonio,1/1/2019,207037.5,99983.5,138144,186959.5,253636.5,332524,https://www.zillow.com/research/data/
+202007,7,Texas,TX,San Antonio,1/1/2020,212575,103865,141787.5,192123.5,258988,337715,https://www.zillow.com/research/data/
+202107,7,Texas,TX,San Antonio,1/1/2021,246945,118909,164473,222745,299352.5,390022,https://www.zillow.com/research/data/
+201108,8,California,CA,San Diego,1/1/2011,433018.5,185957.5,301590.5,385353,512782.5,784528.5,https://www.zillow.com/research/data/
+201208,8,California,CA,San Diego,1/1/2012,428818,179719,291397,380750,510532,779663.5,https://www.zillow.com/research/data/
+201308,8,California,CA,San Diego,1/1/2013,507243,222795,349140,452690,597013.5,899666.5,https://www.zillow.com/research/data/
+201408,8,California,CA,San Diego,1/1/2014,541555.5,251752.5,381095.5,484065,636104.5,947489.5,https://www.zillow.com/research/data/
+201508,8,California,CA,San Diego,1/1/2015,557815.5,261116,392881,500726,652681,966788,https://www.zillow.com/research/data/
+201608,8,California,CA,San Diego,1/1/2016,590133,279902.5,418351.5,531355,686424.5,1011260,https://www.zillow.com/research/data/
+201708,8,California,CA,San Diego,1/1/2017,634886,308936,455895,574267,734387,1074555.5,https://www.zillow.com/research/data/
+201808,8,California,CA,San Diego,1/1/2018,676508,335205,490876.5,616134.5,781275.5,1145974,https://www.zillow.com/research/data/
+201908,8,California,CA,San Diego,1/1/2019,689258,342028,499251,629507.5,793796,1160969.5,https://www.zillow.com/research/data/
+202008,8,California,CA,San Diego,1/1/2020,726759.5,355203.5,518756,664131.5,834402.5,1221636.5,https://www.zillow.com/research/data/
+202108,8,California,CA,San Diego,1/1/2021,909939.5,412284.5,621327,830288.5,1048461.5,1524823,https://www.zillow.com/research/data/
+201109,9,Texas,TX,Dallas,1/1/2011,130076.5,71267.5,95742,118491,251898.5,593003,https://www.zillow.com/research/data/
+201209,9,Texas,TX,Dallas,1/1/2012,128011.5,71186.5,93626.5,116196,255461.5,595072.5,https://www.zillow.com/research/data/
+201309,9,Texas,TX,Dallas,1/1/2013,134944,76882.5,98580.5,121612.5,274148.5,636796.5,https://www.zillow.com/research/data/
+201409,9,Texas,TX,Dallas,1/1/2014,145377.5,82939,106969,130452,300230,680173,https://www.zillow.com/research/data/
+201509,9,Texas,TX,Dallas,1/1/2015,159655.5,91241.5,119227.5,142456.5,331359,739105,https://www.zillow.com/research/data/
+201609,9,Texas,TX,Dallas,1/1/2016,176023.5,102599,132498,156542,358669,782869,https://www.zillow.com/research/data/
+201709,9,Texas,TX,Dallas,1/1/2017,195097.5,119518.5,149018,174798.5,383381.5,814964.5,https://www.zillow.com/research/data/
+201809,9,Texas,TX,Dallas,1/1/2018,218016,134030.5,168350,196507,408388,849989.5,https://www.zillow.com/research/data/
+201909,9,Texas,TX,Dallas,1/1/2019,234389.5,141233,184874.5,213383.5,423867,863445,https://www.zillow.com/research/data/
+202009,9,Texas,TX,Dallas,1/1/2020,240299,142293.5,189918.5,219814.5,433499,869495,https://www.zillow.com/research/data/
+202109,9,Texas,TX,Dallas,1/1/2021,277199.5,153968.5,214874,253656,496882.5,993572.5,https://www.zillow.com/research/data/
+201110,10,California,CA,San Jose,1/1/2011,527956.5,230025,314753.5,472595,579560,767867,https://www.zillow.com/research/data/
+201210,10,California,CA,San Jose,1/1/2012,552563.5,237825,325729.5,494706,605679.5,802815,https://www.zillow.com/research/data/
+201310,10,California,CA,San Jose,1/1/2013,677070,316021.5,417905,614402,732413,944364,https://www.zillow.com/research/data/
+201410,10,California,CA,San Jose,1/1/2014,739466.5,358783,470275,673911.5,796902.5,1021859,https://www.zillow.com/research/data/
+201510,10,California,CA,San Jose,1/1/2015,822023.5,400764.5,526133,750570.5,882510,1141121,https://www.zillow.com/research/data/
+201610,10,California,CA,San Jose,1/1/2016,880424,445194.5,577531,806240,944690.5,1214219,https://www.zillow.com/research/data/
+201710,10,California,CA,San Jose,1/1/2017,937162.5,469121,614439,859703.5,1006492.5,1283651,https://www.zillow.com/research/data/
+201810,10,California,CA,San Jose,1/1/2018,1157092,583161.5,756971,1067095,1233724.5,1534261,https://www.zillow.com/research/data/
+201910,10,California,CA,San Jose,1/1/2019,1066964,548891,703766,980450,1143895,1444830.5,https://www.zillow.com/research/data/
+202010,10,California,CA,San Jose,1/1/2020,1109449.5,547057.5,716989,1013292,1191256.5,1505316,https://www.zillow.com/research/data/
+202110,10,California,CA,San Jose,1/1/2021,1311137.5,574695.5,784850,1194539,1414270.5,1778559,https://www.zillow.com/research/data/
+201111,11,Texas,TX,Austin,1/1/2011,226502,158934,200943.5,199288.5,279670.5,437702,https://www.zillow.com/research/data/
+201211,11,Texas,TX,Austin,1/1/2012,235254,164869,209283,205937.5,291546.5,458066.5,https://www.zillow.com/research/data/
+201311,11,Texas,TX,Austin,1/1/2013,259171,181019.5,230124,226825.5,319929.5,493202.5,https://www.zillow.com/research/data/
+201411,11,Texas,TX,Austin,1/1/2014,289027,199733,256660.5,253059.5,352088.5,533268,https://www.zillow.com/research/data/
+201511,11,Texas,TX,Austin,1/1/2015,312608,216447.5,280171,275501.5,375071.5,565887.5,https://www.zillow.com/research/data/
+201611,11,Texas,TX,Austin,1/1/2016,338906,235137.5,302589.5,299802.5,399864.5,591912.5,https://www.zillow.com/research/data/
+201711,11,Texas,TX,Austin,1/1/2017,354855,248442,318738,315372,414776.5,606420.5,https://www.zillow.com/research/data/
+201811,11,Texas,TX,Austin,1/1/2018,369228.5,258793.5,331910.5,328992,427760.5,624443.5,https://www.zillow.com/research/data/
+201911,11,Texas,TX,Austin,1/1/2019,386678.5,271815,347987,343763.5,446165,651665,https://www.zillow.com/research/data/
+202011,11,Texas,TX,Austin,1/1/2020,416094.5,286518,369414,370329.5,478950,693039,https://www.zillow.com/research/data/
+202111,11,Texas,TX,Austin,1/1/2021,590289,351939,492504,521582,686331,994011,https://www.zillow.com/research/data/
+201112,12,Florida,FL,Jacksonville,1/1/2011,123201,50617,65512.5,110058.5,173148,265635.5,https://www.zillow.com/research/data/
+201212,12,Florida,FL,Jacksonville,1/1/2012,115980,51454,62477,103337,167947.5,259414.5,https://www.zillow.com/research/data/
+201312,12,Florida,FL,Jacksonville,1/1/2013,127215.5,61174.5,68089,113168,184552,282407.5,https://www.zillow.com/research/data/
+201412,12,Florida,FL,Jacksonville,1/1/2014,139686,69197.5,75768.5,125023,198773,299352,https://www.zillow.com/research/data/
+201512,12,Florida,FL,Jacksonville,1/1/2015,146252.5,71541.5,79423.5,131342.5,206577,310239,https://www.zillow.com/research/data/
+201612,12,Florida,FL,Jacksonville,1/1/2016,156798,78843.5,86732,141912.5,218174.5,323194.5,https://www.zillow.com/research/data/
+201712,12,Florida,FL,Jacksonville,1/1/2017,169940.5,89066,99082,154602,232058,336650,https://www.zillow.com/research/data/
+201812,12,Florida,FL,Jacksonville,1/1/2018,186007.5,101744.5,112890,169576,249548,355100,https://www.zillow.com/research/data/
+201912,12,Florida,FL,Jacksonville,1/1/2019,196951,108311.5,122937.5,180839.5,257475,361662.5,https://www.zillow.com/research/data/
+202012,12,Florida,FL,Jacksonville,1/1/2020,207243,112765,131204.5,190912,268179.5,371654,https://www.zillow.com/research/data/
+202112,12,Florida,FL,Jacksonville,1/1/2021,245425,131292.5,156033,226079.5,315895.5,435503,https://www.zillow.com/research/data/
+201113,13,Texas,TX,Fort Worth,1/1/2011,117898,84586.5,72334.5,100983,161790.5,211913.5,https://www.zillow.com/research/data/
+201213,13,Texas,TX,Fort Worth,1/1/2012,119160.5,82946,72410.5,101862,164433,215400.5,https://www.zillow.com/research/data/
+201313,13,Texas,TX,Fort Worth,1/1/2013,125279.5,85012,74717.5,106943,172194.5,226140.5,https://www.zillow.com/research/data/
+201413,13,Texas,TX,Fort Worth,1/1/2014,135146.5,93866,80299,115862.5,184253,242720.5,https://www.zillow.com/research/data/
+201513,13,Texas,TX,Fort Worth,1/1/2015,147109,104559,87536,126692,199420,259453,https://www.zillow.com/research/data/
+201613,13,Texas,TX,Fort Worth,1/1/2016,162457.5,111964,97511.5,140682.5,218624.5,280394,https://www.zillow.com/research/data/
+201713,13,Texas,TX,Fort Worth,1/1/2017,180216,123226,111088,157478,236970,297904.5,https://www.zillow.com/research/data/
+201813,13,Texas,TX,Fort Worth,1/1/2018,198376,135272,126854.5,174997,254159,313919,https://www.zillow.com/research/data/
+201913,13,Texas,TX,Fort Worth,1/1/2019,208476,142962.5,139477,186071.5,260861,319172.5,https://www.zillow.com/research/data/
+202013,13,Texas,TX,Fort Worth,1/1/2020,217147.5,157436.5,148876,195441,267839,328030,https://www.zillow.com/research/data/
+202113,13,Texas,TX,Fort Worth,1/1/2021,258910,187770,178024,233873.5,317881,387202.5,https://www.zillow.com/research/data/
+201114,14,Ohio,OH,Columbus,1/1/2011,113589.5,69790,84797,109099,157415.5,176057,https://www.zillow.com/research/data/
+201214,14,Ohio,OH,Columbus,1/1/2012,106262.5,62799.5,74165.5,101982.5,151474,171082.5,https://www.zillow.com/research/data/
+201314,14,Ohio,OH,Columbus,1/1/2013,108055,66918.5,75382.5,103210.5,157413.5,177723,https://www.zillow.com/research/data/
+201414,14,Ohio,OH,Columbus,1/1/2014,114738,73862.5,81361,109809.5,164630,187913.5,https://www.zillow.com/research/data/
+201514,14,Ohio,OH,Columbus,1/1/2015,122822,78145.5,86071,117578.5,175501.5,201608.5,https://www.zillow.com/research/data/
+201614,14,Ohio,OH,Columbus,1/1/2016,131862,83218,91901,126137,186814.5,216110,https://www.zillow.com/research/data/
+201714,14,Ohio,OH,Columbus,1/1/2017,145376.5,93063,102515,138769.5,203978.5,239172,https://www.zillow.com/research/data/
+201814,14,Ohio,OH,Columbus,1/1/2018,158895.5,100640.5,113590.5,151631,221107,262783,https://www.zillow.com/research/data/
+201914,14,Ohio,OH,Columbus,1/1/2019,173569,109108,125023.5,165560,236508,281847,https://www.zillow.com/research/data/
+202014,14,Ohio,OH,Columbus,1/1/2020,187836,117836,135447.5,179255,251611,297581,https://www.zillow.com/research/data/
+202114,14,Ohio,OH,Columbus,1/1/2021,222232.5,135243.5,157139,212292.5,293580,345018,https://www.zillow.com/research/data/
+201115,15,Indiana,IN,Indianapolis,1/1/2011,98012,56331.5,64646.5,94764.5,141834,229408.5,https://www.zillow.com/research/data/
+201215,15,Indiana,IN,Indianapolis,1/1/2012,98261.5,52534,61785.5,94886.5,142848,235421,https://www.zillow.com/research/data/
+201315,15,Indiana,IN,Indianapolis,1/1/2013,101841.5,52878,62396.5,98373,149370.5,244526,https://www.zillow.com/research/data/
+201415,15,Indiana,IN,Indianapolis,1/1/2014,112446.5,58228,69644,108769.5,161785.5,268645.5,https://www.zillow.com/research/data/
+201515,15,Indiana,IN,Indianapolis,1/1/2015,112882,62284.5,71492,109186.5,160719,267488.5,https://www.zillow.com/research/data/
+201615,15,Indiana,IN,Indianapolis,1/1/2016,117379.5,63188,73043,113877.5,166154,274124,https://www.zillow.com/research/data/
+201715,15,Indiana,IN,Indianapolis,1/1/2017,127929.5,69233.5,80767,124031,178960.5,292002,https://www.zillow.com/research/data/
+201815,15,Indiana,IN,Indianapolis,1/1/2018,140086.5,76859,89553,135932,192914,308501.5,https://www.zillow.com/research/data/
+201915,15,Indiana,IN,Indianapolis,1/1/2019,150651,87264,99951.5,146403.5,203867.5,321908.5,https://www.zillow.com/research/data/
+202015,15,Indiana,IN,Indianapolis,1/1/2020,162216,92484.5,109195.5,158210,216672,335203.5,https://www.zillow.com/research/data/
+202115,15,Indiana,IN,Indianapolis,1/1/2021,190764,110595.5,130187,185834.5,254281.5,384195,https://www.zillow.com/research/data/
+201116,16,North Carolina,NC,Charlotte,1/1/2011,157550.5,116262,109340.5,132403,213114.5,349566.5,https://www.zillow.com/research/data/
+201216,16,North Carolina,NC,Charlotte,1/1/2012,153282.5,112788,104464.5,127857,211897,351042.5,https://www.zillow.com/research/data/
+201316,16,North Carolina,NC,Charlotte,1/1/2013,163528.5,122954,110969.5,137002.5,226419,372872.5,https://www.zillow.com/research/data/
+201416,16,North Carolina,NC,Charlotte,1/1/2014,175227.5,131194.5,118804.5,146717.5,240643,393802,https://www.zillow.com/research/data/
+201516,16,North Carolina,NC,Charlotte,1/1/2015,182745,135144.5,123368.5,153467,250076.5,405790,https://www.zillow.com/research/data/
+201616,16,North Carolina,NC,Charlotte,1/1/2016,197891,144685.5,135097.5,167139,266767,425430.5,https://www.zillow.com/research/data/
+201716,16,North Carolina,NC,Charlotte,1/1/2017,215533,156415.5,149073,183885.5,285667.5,444766,https://www.zillow.com/research/data/
+201816,16,North Carolina,NC,Charlotte,1/1/2018,236953,168998.5,166951,205044,305143,465981.5,https://www.zillow.com/research/data/
+201916,16,North Carolina,NC,Charlotte,1/1/2019,250490,179558,178789,219190,317525,478532,https://www.zillow.com/research/data/
+202016,16,North Carolina,NC,Charlotte,1/1/2020,267463.5,188227,195274,236610.5,335146.5,502538,https://www.zillow.com/research/data/
+202116,16,North Carolina,NC,Charlotte,1/1/2021,319755,212561,230120.5,284407.5,398512,592072.5,https://www.zillow.com/research/data/
+201117,17,California,CA,San Francisco,1/1/2011,711068,497281.5,669323.5,785617.5,969584,1377356,https://www.zillow.com/research/data/
+201217,17,California,CA,San Francisco,1/1/2012,733017.5,522053,695193,813645.5,1006108,1460770,https://www.zillow.com/research/data/
+201317,17,California,CA,San Francisco,1/1/2013,892435,638767.5,845219,988725,1219400,1728004,https://www.zillow.com/research/data/
+201417,17,California,CA,San Francisco,1/1/2014,1010879.5,716696,954029.5,1135704.5,1398884.5,1945256,https://www.zillow.com/research/data/
+201517,17,California,CA,San Francisco,1/1/2015,1122676.5,777337.5,1062146,1264731.5,1561384,2225917,https://www.zillow.com/research/data/
+201617,17,California,CA,San Francisco,1/1/2016,1230189,820051,1138847.5,1369740,1665764.5,2300428,https://www.zillow.com/research/data/
+201717,17,California,CA,San Francisco,1/1/2017,1282075,810963.5,1162809.5,1406662,1737992,2358511.5,https://www.zillow.com/research/data/
+201817,17,California,CA,San Francisco,1/1/2018,1461953,865841.5,1298969,1582453,1948270,2580585.5,https://www.zillow.com/research/data/
+201917,17,California,CA,San Francisco,1/1/2019,1459591,871199.5,1302193.5,1578292.5,1954933.5,2586607,https://www.zillow.com/research/data/
+202017,17,California,CA,San Francisco,1/1/2020,1477349.5,885907,1317934,1598244,1994261.5,2618850,https://www.zillow.com/research/data/
+202117,17,California,CA,San Francisco,1/1/2021,1561610,854926.5,1350482.5,1665413,2059453.5,2652445.5,https://www.zillow.com/research/data/
+201118,18,Washington,WA,Seattle,1/1/2011,391745,227426,318366.5,383792.5,484252,552129.5,https://www.zillow.com/research/data/
+201218,18,Washington,WA,Seattle,1/1/2012,399671,213134.5,317669.5,392048.5,491237,556643.5,https://www.zillow.com/research/data/
+201318,18,Washington,WA,Seattle,1/1/2013,458092,251220.5,364837,450031.5,562597.5,635488.5,https://www.zillow.com/research/data/
+201418,18,Washington,WA,Seattle,1/1/2014,493790.5,271772.5,394607,484512,607578.5,684945,https://www.zillow.com/research/data/
+201518,18,Washington,WA,Seattle,1/1/2015,542547.5,300577,433232.5,532546.5,664544.5,748826,https://www.zillow.com/research/data/
+201618,18,Washington,WA,Seattle,1/1/2016,626880.5,351245,503050.5,616272,761646.5,854720.5,https://www.zillow.com/research/data/
+201718,18,Washington,WA,Seattle,1/1/2017,709651,403134.5,575800.5,698612,852549,954717,https://www.zillow.com/research/data/
+201818,18,Washington,WA,Seattle,1/1/2018,792132,472046.5,654476,780165,943968,1063972.5,https://www.zillow.com/research/data/
+201918,18,Washington,WA,Seattle,1/1/2019,762979,441201.5,624826.5,749436.5,915359.5,1035312.5,https://www.zillow.com/research/data/
+202018,18,Washington,WA,Seattle,1/1/2020,797407,448356.5,647939.5,782498,956464.5,1083450.5,https://www.zillow.com/research/data/
+202118,18,Washington,WA,Seattle,1/1/2021,912606.5,464597.5,720118.5,894329.5,1108445,1252099,https://www.zillow.com/research/data/
+201119,19,Colorado,CO,Denver,1/1/2011,250184.5,142527.5,198631.5,243332,323914.5,446704,https://www.zillow.com/research/data/
+201219,19,Colorado,CO,Denver,1/1/2012,257608.5,147667,202737.5,250598,335331.5,463029.5,https://www.zillow.com/research/data/
+201319,19,Colorado,CO,Denver,1/1/2013,287382.5,161268.5,224318.5,279895.5,372629,512735,https://www.zillow.com/research/data/
+201419,19,Colorado,CO,Denver,1/1/2014,318815.5,178358,249867.5,309829.5,408209.5,557703,https://www.zillow.com/research/data/
+201519,19,Colorado,CO,Denver,1/1/2015,355412.5,203535,281021,345817.5,449545.5,610894,https://www.zillow.com/research/data/
+201619,19,Colorado,CO,Denver,1/1/2016,398738,233623,319595,387823.5,496625.5,673460.5,https://www.zillow.com/research/data/
+201719,19,Colorado,CO,Denver,1/1/2017,436280,262765.5,353877,425002,533355,712037,https://www.zillow.com/research/data/
+201819,19,Colorado,CO,Denver,1/1/2018,475024.5,284718.5,385580,462672,584718.5,787426,https://www.zillow.com/research/data/
+201919,19,Colorado,CO,Denver,1/1/2019,488204,290044.5,395104,474436.5,599705,809883,https://www.zillow.com/research/data/
+202019,19,Colorado,CO,Denver,1/1/2020,501642.5,297467,403703.5,489074.5,616021,830369,https://www.zillow.com/research/data/
+202119,19,Colorado,CO,Denver,1/1/2021,578828,324312,460216.5,564538.5,701331.5,936511,https://www.zillow.com/research/data/
+201120,20,Oklahoma,OK,Oklahoma City,1/1/2011,112144.5,44657,63777.5,114269.5,189452,284071,https://www.zillow.com/research/data/
+201220,20,Oklahoma,OK,Oklahoma City,1/1/2012,112089.5,42804,60982,114603,190418,285412.5,https://www.zillow.com/research/data/
+201320,20,Oklahoma,OK,Oklahoma City,1/1/2013,113710,43739.5,61430,116417.5,194810,291223.5,https://www.zillow.com/research/data/
+201420,20,Oklahoma,OK,Oklahoma City,1/1/2014,118487.5,45253,64466.5,121012,201194,302682,https://www.zillow.com/research/data/
+201520,20,Oklahoma,OK,Oklahoma City,1/1/2015,122418,48371,67316.5,124974,205422.5,313084,https://www.zillow.com/research/data/
+201620,20,Oklahoma,OK,Oklahoma City,1/1/2016,125649.5,52739,70220.5,127931,208866.5,317867.5,https://www.zillow.com/research/data/
+201720,20,Oklahoma,OK,Oklahoma City,1/1/2017,129587,55450,74025,131713.5,212580.5,326377.5,https://www.zillow.com/research/data/
+201820,20,Oklahoma,OK,Oklahoma City,1/1/2018,133338,59594,77543,135182.5,215671,332511.5,https://www.zillow.com/research/data/
+201920,20,Oklahoma,OK,Oklahoma City,1/1/2019,138410,60596.5,80415.5,140278.5,220874.5,339024.5,https://www.zillow.com/research/data/
+202020,20,Oklahoma,OK,Oklahoma City,1/1/2020,148449,66355.5,89302,150079,231480,349954,https://www.zillow.com/research/data/
+202120,20,Oklahoma,OK,Oklahoma City,1/1/2021,168685,76781,106456.5,170110,257716.5,387977,https://www.zillow.com/research/data/
+201122,22,Texas,TX,El Paso,1/1/2011,127252.5,93080.5,90771.5,123935.5,180375,267509,https://www.zillow.com/research/data/
+201222,22,Texas,TX,El Paso,1/1/2012,124843,88871.5,88185,121466.5,177230,260788,https://www.zillow.com/research/data/
+201322,22,Texas,TX,El Paso,1/1/2013,125589.5,87521.5,88387.5,122162,177409,261462,https://www.zillow.com/research/data/
+201422,22,Texas,TX,El Paso,1/1/2014,125633,83207.5,86982.5,122204.5,176247.5,260843,https://www.zillow.com/research/data/
+201522,22,Texas,TX,El Paso,1/1/2015,125087,82729,86917.5,121835,175618.5,259789.5,https://www.zillow.com/research/data/
+201622,22,Texas,TX,El Paso,1/1/2016,126011.5,81804,87430,122729,176625.5,259482,https://www.zillow.com/research/data/
+201722,22,Texas,TX,El Paso,1/1/2017,131395,84604,91844,127725.5,182572,269731.5,https://www.zillow.com/research/data/
+201822,22,Texas,TX,El Paso,1/1/2018,132041,86383.5,93613,128411.5,182195,268896.5,https://www.zillow.com/research/data/
+201922,22,Texas,TX,El Paso,1/1/2019,139505.5,93027.5,98494.5,136158.5,190802,282878.5,https://www.zillow.com/research/data/
+202022,22,Texas,TX,El Paso,1/1/2020,143517.5,94828.5,101265,139905,194652,287215,https://www.zillow.com/research/data/
+202122,22,Texas,TX,El Paso,1/1/2021,168171,108477,120016.5,163865,224434.5,330222.5,https://www.zillow.com/research/data/
+201123,23,District of Columbia,DC,Washington,1/1/2011,441241,321204,404417,402321.5,594370,1052189.5,https://www.zillow.com/research/data/
+201223,23,District of Columbia,DC,Washington,1/1/2012,450616,321878,407294,409407.5,611071.5,1069500,https://www.zillow.com/research/data/
+201323,23,District of Columbia,DC,Washington,1/1/2013,512987,346269.5,453421,470909.5,684294,1182158.5,https://www.zillow.com/research/data/
+201423,23,District of Columbia,DC,Washington,1/1/2014,583238,359390,486810,547096.5,753438,1240266,https://www.zillow.com/research/data/
+201523,23,District of Columbia,DC,Washington,1/1/2015,580347.5,360678.5,497697.5,542896,757445,1267891.5,https://www.zillow.com/research/data/
+201623,23,District of Columbia,DC,Washington,1/1/2016,612070,369051.5,518481,575668.5,802492,1313673.5,https://www.zillow.com/research/data/
+201723,23,District of Columbia,DC,Washington,1/1/2017,640452,380368.5,541620.5,606160.5,831287,1374688.5,https://www.zillow.com/research/data/
+201823,23,District of Columbia,DC,Washington,1/1/2018,670384,387287,558438.5,640272,856536.5,1385527.5,https://www.zillow.com/research/data/
+201923,23,District of Columbia,DC,Washington,1/1/2019,711088.5,393961,577434,680961,910518.5,1448381.5,https://www.zillow.com/research/data/
+202023,23,District of Columbia,DC,Washington,1/1/2020,727580.5,404412,588050.5,698302,929938.5,1474740.5,https://www.zillow.com/research/data/
+202123,23,District of Columbia,DC,Washington,1/1/2021,785795.5,410295.5,615767,763016.5,1011158.5,1584145,https://www.zillow.com/research/data/
+201124,24,Massachusetts,MA,Boston,1/1/2011,363006.5,321367.5,373243,364955.5,400037.5,431926.5,https://www.zillow.com/research/data/
+201224,24,Massachusetts,MA,Boston,1/1/2012,367203.5,327892.5,379420.5,368727,407195,441381.5,https://www.zillow.com/research/data/
+201324,24,Massachusetts,MA,Boston,1/1/2013,402936,365405.5,421195.5,404828.5,445965.5,489099.5,https://www.zillow.com/research/data/
+201424,24,Massachusetts,MA,Boston,1/1/2014,442052,404275,467443,443857,491763.5,548698.5,https://www.zillow.com/research/data/
+201524,24,Massachusetts,MA,Boston,1/1/2015,471728,435956.5,499662.5,473388.5,524424,588738.5,https://www.zillow.com/research/data/
+201624,24,Massachusetts,MA,Boston,1/1/2016,521015.5,475995.5,548959.5,522246.5,579700.5,648196.5,https://www.zillow.com/research/data/
+201724,24,Massachusetts,MA,Boston,1/1/2017,565071.5,515335,596820,565262.5,623676,701131,https://www.zillow.com/research/data/
+201824,24,Massachusetts,MA,Boston,1/1/2018,602747.5,543258,632462.5,601494.5,666976.5,763222,https://www.zillow.com/research/data/
+201924,24,Massachusetts,MA,Boston,1/1/2019,624970.5,548303,644120.5,621514.5,689953,785616.5,https://www.zillow.com/research/data/
+202024,24,Massachusetts,MA,Boston,1/1/2020,636921.5,551631.5,652239.5,631529.5,703587.5,802527,https://www.zillow.com/research/data/
+202124,24,Massachusetts,MA,Boston,1/1/2021,701742,566714.5,683604.5,689777.5,772975,875208,https://www.zillow.com/research/data/
+201125,25,Nevada,NV,Las Vegas,1/1/2011,138601,57363,81483.5,120908,167266,247967.5,https://www.zillow.com/research/data/
+201225,25,Nevada,NV,Las Vegas,1/1/2012,135262.5,59939.5,78999.5,117508.5,164007.5,243453.5,https://www.zillow.com/research/data/
+201325,25,Nevada,NV,Las Vegas,1/1/2013,171396,75183,103162.5,151592,204861,295962,https://www.zillow.com/research/data/
+201425,25,Nevada,NV,Las Vegas,1/1/2014,199594.5,83996.5,120080,177367.5,238757.5,337404.5,https://www.zillow.com/research/data/
+201525,25,Nevada,NV,Las Vegas,1/1/2015,212247,85725,126983.5,189128.5,253095.5,352963,https://www.zillow.com/research/data/
+201625,25,Nevada,NV,Las Vegas,1/1/2016,226930,89244,135329.5,203472.5,268277,367705.5,https://www.zillow.com/research/data/
+201725,25,Nevada,NV,Las Vegas,1/1/2017,242796.5,96414.5,146542.5,218946,284497.5,384869.5,https://www.zillow.com/research/data/
+201825,25,Nevada,NV,Las Vegas,1/1/2018,282068.5,119006,178366,257593,325146.5,429681.5,https://www.zillow.com/research/data/
+201925,25,Nevada,NV,Las Vegas,1/1/2019,298345,128314.5,193778.5,274073,341250.5,448175.5,https://www.zillow.com/research/data/
+202025,25,Nevada,NV,Las Vegas,1/1/2020,306297,130142,199353,281599.5,349689,458764,https://www.zillow.com/research/data/
+202125,25,Nevada,NV,Las Vegas,1/1/2021,363213,147942,233623,333388.5,414984.5,547479.5,https://www.zillow.com/research/data/
+201126,26,Oregon,OR,Portland,1/1/2011,262861.5,192174,215707.5,243907,342913.5,426194,https://www.zillow.com/research/data/
+201226,26,Oregon,OR,Portland,1/1/2012,269522.5,197641,221350.5,249028.5,352463.5,436169.5,https://www.zillow.com/research/data/
+201326,26,Oregon,OR,Portland,1/1/2013,302519,222794.5,249729,280022,393624,483939,https://www.zillow.com/research/data/
+201426,26,Oregon,OR,Portland,1/1/2014,326179.5,241304.5,269688,302780.5,423463.5,519117.5,https://www.zillow.com/research/data/
+201526,26,Oregon,OR,Portland,1/1/2015,363501.5,268951.5,303663,336883.5,465130,565657,https://www.zillow.com/research/data/
+201626,26,Oregon,OR,Portland,1/1/2016,420149,312060,355720.5,391052,525464.5,635785.5,https://www.zillow.com/research/data/
+201726,26,Oregon,OR,Portland,1/1/2017,450167.5,334121.5,382908.5,420929,557486.5,672957.5,https://www.zillow.com/research/data/
+201826,26,Oregon,OR,Portland,1/1/2018,460307.5,338048.5,389946,432475,568413,685835,https://www.zillow.com/research/data/
+201926,26,Oregon,OR,Portland,1/1/2019,462246,332269,391470.5,434760,569796.5,687310,https://www.zillow.com/research/data/
+202026,26,Oregon,OR,Portland,1/1/2020,474131,335827.5,402267.5,446150,581547.5,699357.5,https://www.zillow.com/research/data/
+202126,26,Oregon,OR,Portland,1/1/2021,552571,368329,465731.5,521927,671636,802219.5,https://www.zillow.com/research/data/
+201127,27,Michigan,MI,Detroit,1/1/2011,17125,78940.5,16670.5,18190,20821,30259,https://www.zillow.com/research/data/
+201227,27,Michigan,MI,Detroit,1/1/2012,16502.5,83263,15741.5,18092,21608.5,33887,https://www.zillow.com/research/data/
+201327,27,Michigan,MI,Detroit,1/1/2013,17582.5,90572,17044,19437.5,21783.5,33704,https://www.zillow.com/research/data/
+201427,27,Michigan,MI,Detroit,1/1/2014,20716.5,109579,21487,23557.5,26218,39466.5,https://www.zillow.com/research/data/
+201527,27,Michigan,MI,Detroit,1/1/2015,23832,129265.5,23179,27015,30554,43773.5,https://www.zillow.com/research/data/
+201627,27,Michigan,MI,Detroit,1/1/2016,27219.5,124392,25324,31341.5,35469.5,55344,https://www.zillow.com/research/data/
+201727,27,Michigan,MI,Detroit,1/1/2017,31439,139676,28711,33239.5,40108,67430.5,https://www.zillow.com/research/data/
+201827,27,Michigan,MI,Detroit,1/1/2018,35258,125577,32137.5,37945,45772.5,81913,https://www.zillow.com/research/data/
+201927,27,Michigan,MI,Detroit,1/1/2019,40096,117775.5,35090.5,43281,53199.5,93050.5,https://www.zillow.com/research/data/
+202027,27,Michigan,MI,Detroit,1/1/2020,41632.5,130759,36377.5,44574,56217,99944.5,https://www.zillow.com/research/data/
+202127,27,Michigan,MI,Detroit,1/1/2021,54653,156599,47362,58958,74711.5,130628.5,https://www.zillow.com/research/data/
+201129,29,Tennessee,TN,Memphis,1/1/2011,69824.5,66768,43183.5,67895.5,114752.5,211132,https://www.zillow.com/research/data/
+201229,29,Tennessee,TN,Memphis,1/1/2012,67048,63724,39421,65119,110989,210072.5,https://www.zillow.com/research/data/
+201329,29,Tennessee,TN,Memphis,1/1/2013,66843,64618.5,38712,65004.5,111757,209918,https://www.zillow.com/research/data/
+201429,29,Tennessee,TN,Memphis,1/1/2014,71353,66191,40537,69556.5,117823,220855.5,https://www.zillow.com/research/data/
+201529,29,Tennessee,TN,Memphis,1/1/2015,72332,68763.5,39767,70672.5,121075,224118,https://www.zillow.com/research/data/
+201629,29,Tennessee,TN,Memphis,1/1/2016,74260.5,72198.5,39947,72764.5,125351.5,235016.5,https://www.zillow.com/research/data/
+201729,29,Tennessee,TN,Memphis,1/1/2017,80176,78016.5,45192.5,77956,135223,247710,https://www.zillow.com/research/data/
+201829,29,Tennessee,TN,Memphis,1/1/2018,87922.5,81875.5,48151.5,85818,147255,263160,https://www.zillow.com/research/data/
+201929,29,Tennessee,TN,Memphis,1/1/2019,96674,88453,56143,94126,160775,279661,https://www.zillow.com/research/data/
+202029,29,Tennessee,TN,Memphis,1/1/2020,106181,97049,62087.5,103495,174808,299725.5,https://www.zillow.com/research/data/
+202129,29,Tennessee,TN,Memphis,1/1/2021,126594,111356.5,75560.5,123171.5,207034.5,345741,https://www.zillow.com/research/data/
+201130,30,Maryland,MD,Baltimore,1/1/2011,129614.5,132484,136005,126633,157762.5,230573,https://www.zillow.com/research/data/
+201230,30,Maryland,MD,Baltimore,1/1/2012,121196,123823,128838.5,117088,151581.5,226860.5,https://www.zillow.com/research/data/
+201330,30,Maryland,MD,Baltimore,1/1/2013,124549,133836.5,138165,119319,158404,238105.5,https://www.zillow.com/research/data/
+201430,30,Maryland,MD,Baltimore,1/1/2014,131986,141276.5,147299,125863,168505,248832,https://www.zillow.com/research/data/
+201530,30,Maryland,MD,Baltimore,1/1/2015,133606.5,138988.5,147992,127026,168163.5,245932,https://www.zillow.com/research/data/
+201630,30,Maryland,MD,Baltimore,1/1/2016,137352,139775.5,151069,131349.5,176439.5,253218.5,https://www.zillow.com/research/data/
+201730,30,Maryland,MD,Baltimore,1/1/2017,142805,143431.5,156884,135997,175233,252175,https://www.zillow.com/research/data/
+201830,30,Maryland,MD,Baltimore,1/1/2018,150225,143140.5,160132.5,141911.5,187887.5,266115,https://www.zillow.com/research/data/
+201930,30,Maryland,MD,Baltimore,1/1/2019,154566,141790,160284,147194,198607.5,279113,https://www.zillow.com/research/data/
+202030,30,Maryland,MD,Baltimore,1/1/2020,157069,139639,157923.5,148910,201323.5,279665.5,https://www.zillow.com/research/data/
+202130,30,Maryland,MD,Baltimore,1/1/2021,182879.5,156479.5,180872.5,174990,232127,319817,https://www.zillow.com/research/data/
+201131,31,Wisconsin,WI,Milwaukee,1/1/2011,94258.5,117210.5,83165.5,98712,95168.5,91592.5,https://www.zillow.com/research/data/
+201231,31,Wisconsin,WI,Milwaukee,1/1/2012,86602,109963.5,75301.5,91006,87296,82960.5,https://www.zillow.com/research/data/
+201331,31,Wisconsin,WI,Milwaukee,1/1/2013,86425.5,109009.5,74597.5,91153.5,86536.5,82187.5,https://www.zillow.com/research/data/
+201431,31,Wisconsin,WI,Milwaukee,1/1/2014,91677.5,115003.5,79113.5,96451,91626.5,87618,https://www.zillow.com/research/data/
+201531,31,Wisconsin,WI,Milwaukee,1/1/2015,94235.5,117961,80507,99292,94286.5,89143.5,https://www.zillow.com/research/data/
+201631,31,Wisconsin,WI,Milwaukee,1/1/2016,99340,123828,85030.5,104649.5,99233.5,93803.5,https://www.zillow.com/research/data/
+201731,31,Wisconsin,WI,Milwaukee,1/1/2017,105203.5,130019,90791,110546,104548.5,98285.5,https://www.zillow.com/research/data/
+201831,31,Wisconsin,WI,Milwaukee,1/1/2018,116683.5,138953.5,100282.5,122133,116372.5,109715.5,https://www.zillow.com/research/data/
+201931,31,Wisconsin,WI,Milwaukee,1/1/2019,125907.5,145415.5,109708,131170.5,124736,117755.5,https://www.zillow.com/research/data/
+202031,31,Wisconsin,WI,Milwaukee,1/1/2020,135165,153013,118761,140710,132911,124625,https://www.zillow.com/research/data/
+202131,31,Wisconsin,WI,Milwaukee,1/1/2021,163062,171169.5,142074.5,169943,159782,147736.5,https://www.zillow.com/research/data/
+201132,32,New Mexico,NM,Albuquerque,1/1/2011,177824.5,114714,137432,169741,236264,313733,https://www.zillow.com/research/data/
+201232,32,New Mexico,NM,Albuquerque,1/1/2012,173554,110606,133162,165796,230908.5,311576,https://www.zillow.com/research/data/
+201332,32,New Mexico,NM,Albuquerque,1/1/2013,178615,116864.5,136738.5,170576.5,237657.5,317963.5,https://www.zillow.com/research/data/
+201432,32,New Mexico,NM,Albuquerque,1/1/2014,182963.5,113126,138288.5,173822.5,245388,327535.5,https://www.zillow.com/research/data/
+201532,32,New Mexico,NM,Albuquerque,1/1/2015,184081,116142.5,138944.5,174878,245727,324077,https://www.zillow.com/research/data/
+201632,32,New Mexico,NM,Albuquerque,1/1/2016,189185,116226,141462,179869.5,251439.5,332860,https://www.zillow.com/research/data/
+201732,32,New Mexico,NM,Albuquerque,1/1/2017,194309,120593,145302.5,185106.5,256645.5,337527,https://www.zillow.com/research/data/
+201832,32,New Mexico,NM,Albuquerque,1/1/2018,200410.5,122984.5,150961.5,191345.5,263291,342799.5,https://www.zillow.com/research/data/
+201932,32,New Mexico,NM,Albuquerque,1/1/2019,210580.5,132418,159835.5,201242,275038,353879.5,https://www.zillow.com/research/data/
+202032,32,New Mexico,NM,Albuquerque,1/1/2020,226809.5,141623,171432.5,217153.5,293833.5,379983,https://www.zillow.com/research/data/
+202132,32,New Mexico,NM,Albuquerque,1/1/2021,267317,169306.5,203287.5,256512.5,343715.5,439983.5,https://www.zillow.com/research/data/
+201133,33,California,CA,Fresno,1/1/2011,145525.5,66183,80611,138732.5,207232,267317,https://www.zillow.com/research/data/
+201233,33,California,CA,Fresno,1/1/2012,145894.5,64476.5,78545.5,138352,209868,273715.5,https://www.zillow.com/research/data/
+201333,33,California,CA,Fresno,1/1/2013,169556,78502,94493,161661.5,239813,305894.5,https://www.zillow.com/research/data/
+201433,33,California,CA,Fresno,1/1/2014,191375,87211.5,112310.5,182121.5,263817,336762.5,https://www.zillow.com/research/data/
+201533,33,California,CA,Fresno,1/1/2015,197705.5,85644.5,118343,188201.5,268652.5,339847.5,https://www.zillow.com/research/data/
+201633,33,California,CA,Fresno,1/1/2016,208811,92446.5,128363.5,198564,279423.5,354915,https://www.zillow.com/research/data/
+201733,33,California,CA,Fresno,1/1/2017,225663.5,100337.5,139143.5,215517,298301.5,374256,https://www.zillow.com/research/data/
+201833,33,California,CA,Fresno,1/1/2018,247866.5,117257.5,154847,237497.5,322545,403272.5,https://www.zillow.com/research/data/
+201933,33,California,CA,Fresno,1/1/2019,257142,130118,165991.5,246922,330076,411982,https://www.zillow.com/research/data/
+202033,33,California,CA,Fresno,1/1/2020,269243.5,134457.5,173506,258643,343272,426812,https://www.zillow.com/research/data/
+202133,33,California,CA,Fresno,1/1/2021,325704,163386.5,214682,312936,410963.5,508300.5,https://www.zillow.com/research/data/
+201134,34,Arizona,AZ,Tucson,1/1/2011,140638,82197,110705,134135.5,179326.5,296126.5,https://www.zillow.com/research/data/
+201234,34,Arizona,AZ,Tucson,1/1/2012,135861.5,75996.5,103476.5,129459,175798,292194.5,https://www.zillow.com/research/data/
+201334,34,Arizona,AZ,Tucson,1/1/2013,149922,81955.5,113120.5,143403,193375.5,313518.5,https://www.zillow.com/research/data/
+201434,34,Arizona,AZ,Tucson,1/1/2014,160605,88803.5,121541,154158,205186.5,329955.5,https://www.zillow.com/research/data/
+201534,34,Arizona,AZ,Tucson,1/1/2015,162409.5,90757.5,124138.5,155693.5,205325.5,327831.5,https://www.zillow.com/research/data/
+201634,34,Arizona,AZ,Tucson,1/1/2016,168199,95329,128425,161405,211294,335357.5,https://www.zillow.com/research/data/
+201734,34,Arizona,AZ,Tucson,1/1/2017,179898,101085.5,137359.5,172751.5,224933,349705.5,https://www.zillow.com/research/data/
+201834,34,Arizona,AZ,Tucson,1/1/2018,194067,119320,149673.5,186222,240154,370157.5,https://www.zillow.com/research/data/
+201934,34,Arizona,AZ,Tucson,1/1/2019,205109.5,128470,159950.5,196846,252442,387069,https://www.zillow.com/research/data/
+202034,34,Arizona,AZ,Tucson,1/1/2020,221207.5,135831.5,174090,212165,269322,412999,https://www.zillow.com/research/data/
+202134,34,Arizona,AZ,Tucson,1/1/2021,277344,163565,217433.5,267897,331191,492816.5,https://www.zillow.com/research/data/
+201135,35,California,CA,Sacramento,1/1/2011,162881,114933.5,134070,148853.5,193525.5,271021.5,https://www.zillow.com/research/data/
+201235,35,California,CA,Sacramento,1/1/2012,158016,109865,128082,142971.5,190852,269747,https://www.zillow.com/research/data/
+201335,35,California,CA,Sacramento,1/1/2013,205847,145428.5,168893,188600,243812,338471.5,https://www.zillow.com/research/data/
+201435,35,California,CA,Sacramento,1/1/2014,236712,167827,192797.5,217622.5,279824,386557,https://www.zillow.com/research/data/
+201535,35,California,CA,Sacramento,1/1/2015,249496,175830.5,205362.5,229615.5,292883.5,400838,https://www.zillow.com/research/data/
+201635,35,California,CA,Sacramento,1/1/2016,276816.5,199645.5,230660.5,256112,319899.5,428209.5,https://www.zillow.com/research/data/
+201735,35,California,CA,Sacramento,1/1/2017,305537.5,230871,260296.5,283467.5,349447,460844,https://www.zillow.com/research/data/
+201835,35,California,CA,Sacramento,1/1/2018,331526,257406,286319,308878.5,375535,483133,https://www.zillow.com/research/data/
+201935,35,California,CA,Sacramento,1/1/2019,341906,264905.5,298401.5,319100.5,385735.5,493867.5,https://www.zillow.com/research/data/
+202035,35,California,CA,Sacramento,1/1/2020,362549.5,280230,316043,339325.5,408110,518453,https://www.zillow.com/research/data/
+202135,35,California,CA,Sacramento,1/1/2021,443387,319045.5,382760,415556.5,498514.5,633129,https://www.zillow.com/research/data/
+201136,36,Arizona,AZ,Mesa,1/1/2011,127528,49737.5,87598,109477,158316.5,254931,https://www.zillow.com/research/data/
+201236,36,Arizona,AZ,Mesa,1/1/2012,142387.5,55838.5,98285.5,122930.5,177397,279545,https://www.zillow.com/research/data/
+201336,36,Arizona,AZ,Mesa,1/1/2013,174646.5,71914,122143,155333.5,216910.5,331025,https://www.zillow.com/research/data/
+201436,36,Arizona,AZ,Mesa,1/1/2014,190584,78158.5,132231,171039.5,236760,350084.5,https://www.zillow.com/research/data/
+201536,36,Arizona,AZ,Mesa,1/1/2015,202221,84917,140466.5,181846.5,248653,362667,https://www.zillow.com/research/data/
+201636,36,Arizona,AZ,Mesa,1/1/2016,216157.5,90721.5,150271,195948,264179.5,377119.5,https://www.zillow.com/research/data/
+201736,36,Arizona,AZ,Mesa,1/1/2017,229236.5,98948.5,162429.5,210489,274738,390280.5,https://www.zillow.com/research/data/
+201836,36,Arizona,AZ,Mesa,1/1/2018,247740,113081,178537.5,227343.5,295594,415794.5,https://www.zillow.com/research/data/
+201936,36,Arizona,AZ,Mesa,1/1/2019,262061,123533.5,192160.5,240735,312170,435542.5,https://www.zillow.com/research/data/
+202036,36,Arizona,AZ,Mesa,1/1/2020,288810.5,138956.5,215518.5,267556,341722,469219,https://www.zillow.com/research/data/
+202136,36,Arizona,AZ,Mesa,1/1/2021,370778,180361,275690.5,345127,436341,605320,https://www.zillow.com/research/data/
+201137,37,Missouri,MO,Kansas City,1/1/2011,104059,84844.5,61285.5,102575.5,178648.5,199639.5,https://www.zillow.com/research/data/
+201237,37,Missouri,MO,Kansas City,1/1/2012,99323,80667.5,56678,96777,176340.5,197580.5,https://www.zillow.com/research/data/
+201337,37,Missouri,MO,Kansas City,1/1/2013,102867.5,84804.5,58185,99706.5,182932.5,207810,https://www.zillow.com/research/data/
+201437,37,Missouri,MO,Kansas City,1/1/2014,109449,91233.5,60979.5,105858,194739.5,223894.5,https://www.zillow.com/research/data/
+201537,37,Missouri,MO,Kansas City,1/1/2015,114954.5,94879.5,63727.5,111298,202901.5,234647,https://www.zillow.com/research/data/
+201637,37,Missouri,MO,Kansas City,1/1/2016,122884.5,100695,67419.5,119169.5,214518,247849.5,https://www.zillow.com/research/data/
+201737,37,Missouri,MO,Kansas City,1/1/2017,135164.5,106193,75956,131250.5,233372.5,275176,https://www.zillow.com/research/data/
+201837,37,Missouri,MO,Kansas City,1/1/2018,148542,114826,86956,144889,248973,298957.5,https://www.zillow.com/research/data/
+201937,37,Missouri,MO,Kansas City,1/1/2019,157824.5,117896,94748,153742,259616.5,308287,https://www.zillow.com/research/data/
+202037,37,Missouri,MO,Kansas City,1/1/2020,166051.5,121917.5,99862,161543.5,272286.5,324091,https://www.zillow.com/research/data/
+202137,37,Missouri,MO,Kansas City,1/1/2021,198352,134734.5,122937.5,193287,316474,376953,https://www.zillow.com/research/data/
+201138,38,Georgia,GA,Atlanta,1/1/2011,148844,105213,131583.5,123730,234393,502644,https://www.zillow.com/research/data/
+201238,38,Georgia,GA,Atlanta,1/1/2012,145665.5,101851,124625.5,121272,234214.5,517824.5,https://www.zillow.com/research/data/
+201338,38,Georgia,GA,Atlanta,1/1/2013,162795,119578,141709,134258,256784,559188.5,https://www.zillow.com/research/data/
+201438,38,Georgia,GA,Atlanta,1/1/2014,185707.5,139879.5,163970,153616.5,290076.5,621302,https://www.zillow.com/research/data/
+201538,38,Georgia,GA,Atlanta,1/1/2015,203108,157175.5,180345.5,170662,312492,664011,https://www.zillow.com/research/data/
+201638,38,Georgia,GA,Atlanta,1/1/2016,223509.5,170965,205497,187691,335145.5,697412.5,https://www.zillow.com/research/data/
+201738,38,Georgia,GA,Atlanta,1/1/2017,245937,189154,225987,210490,357628,725516,https://www.zillow.com/research/data/
+201838,38,Georgia,GA,Atlanta,1/1/2018,282226.5,212794,258950,245941,393821,785368.5,https://www.zillow.com/research/data/
+201938,38,Georgia,GA,Atlanta,1/1/2019,307839.5,220638,278267.5,273285,415017.5,817990.5,https://www.zillow.com/research/data/
+202038,38,Georgia,GA,Atlanta,1/1/2020,318639,221347.5,288444,285370,426610.5,834932,https://www.zillow.com/research/data/
+202138,38,Georgia,GA,Atlanta,1/1/2021,368365,241905.5,319592,331724.5,491268,940993.5,https://www.zillow.com/research/data/
+201139,39,Nebraska,NE,Omaha,1/1/2011,138968,83693,94587,129978,209933.5,279126,https://www.zillow.com/research/data/
+201239,39,Nebraska,NE,Omaha,1/1/2012,139628,76922.5,92204.5,130749.5,211993,279091,https://www.zillow.com/research/data/
+201339,39,Nebraska,NE,Omaha,1/1/2013,145123,78641.5,95254.5,135817,221890,289911,https://www.zillow.com/research/data/
+201439,39,Nebraska,NE,Omaha,1/1/2014,150384,82389.5,99731,140493,231821.5,304824.5,https://www.zillow.com/research/data/
+201539,39,Nebraska,NE,Omaha,1/1/2015,155973,85384.5,103284.5,145810.5,240053.5,313232.5,https://www.zillow.com/research/data/
+201639,39,Nebraska,NE,Omaha,1/1/2016,162305.5,87104.5,106741,152252.5,249329,324895.5,https://www.zillow.com/research/data/
+201739,39,Nebraska,NE,Omaha,1/1/2017,174765,95164,116706,164153,265778.5,342053.5,https://www.zillow.com/research/data/
+201839,39,Nebraska,NE,Omaha,1/1/2018,187158.5,103157,128563,176314.5,277149,352252,https://www.zillow.com/research/data/
+201939,39,Nebraska,NE,Omaha,1/1/2019,195225.5,110382.5,136247.5,184449,281578,352073,https://www.zillow.com/research/data/
+202039,39,Nebraska,NE,Omaha,1/1/2020,206738,117307,144429.5,195577.5,299979.5,377373.5,https://www.zillow.com/research/data/
+202139,39,Nebraska,NE,Omaha,1/1/2021,240620,136756.5,168841,228024.5,344537,428459,https://www.zillow.com/research/data/
+201140,40,Colorado,CO,Colorado Springs,1/1/2011,201464.5,117356.5,134431,173504.5,236474.5,313927.5,https://www.zillow.com/research/data/
+201240,40,Colorado,CO,Colorado Springs,1/1/2012,203713.5,118022,133713.5,175252,238649.5,316776.5,https://www.zillow.com/research/data/
+201340,40,Colorado,CO,Colorado Springs,1/1/2013,213863,122628.5,140354,184578,249501,330781.5,https://www.zillow.com/research/data/
+201440,40,Colorado,CO,Colorado Springs,1/1/2014,219395.5,124840.5,143994.5,189636,255716,338200.5,https://www.zillow.com/research/data/
+201540,40,Colorado,CO,Colorado Springs,1/1/2015,229736,133970,153153,199426.5,266085,346857.5,https://www.zillow.com/research/data/
+201640,40,Colorado,CO,Colorado Springs,1/1/2016,245721,147283,166315.5,214650,282390.5,366089,https://www.zillow.com/research/data/
+201740,40,Colorado,CO,Colorado Springs,1/1/2017,267328,163070.5,184592.5,235630,305272,392527.5,https://www.zillow.com/research/data/
+201840,40,Colorado,CO,Colorado Springs,1/1/2018,291448,181988,206573.5,259152.5,329957.5,421581,https://www.zillow.com/research/data/
+201940,40,Colorado,CO,Colorado Springs,1/1/2019,307300.5,197272.5,221827,274356,345350,438703.5,https://www.zillow.com/research/data/
+202040,40,Colorado,CO,Colorado Springs,1/1/2020,336721.5,223235,246993,301756.5,376388,472145,https://www.zillow.com/research/data/
+202140,40,Colorado,CO,Colorado Springs,1/1/2021,423478,280415,310573,384984.5,465376.5,569067,https://www.zillow.com/research/data/
+201141,41,North Carolina,NC,Raleigh,1/1/2011,206785.5,139762,137986,175252,292926.5,453035.5,https://www.zillow.com/research/data/
+201241,41,North Carolina,NC,Raleigh,1/1/2012,203112.5,136392.5,133848.5,171837,290609,446310.5,https://www.zillow.com/research/data/
+201341,41,North Carolina,NC,Raleigh,1/1/2013,210965.5,142396.5,137884.5,178164,301971.5,469299,https://www.zillow.com/research/data/
+201441,41,North Carolina,NC,Raleigh,1/1/2014,220289,148003.5,142876.5,185621,314554.5,487740.5,https://www.zillow.com/research/data/
+201541,41,North Carolina,NC,Raleigh,1/1/2015,229164,156432,148392,192919.5,327192.5,501935.5,https://www.zillow.com/research/data/
+201641,41,North Carolina,NC,Raleigh,1/1/2016,241298,165763.5,157440,204158,341407,513284,https://www.zillow.com/research/data/
+201741,41,North Carolina,NC,Raleigh,1/1/2017,257406.5,178465.5,170711,218861.5,358035.5,528725,https://www.zillow.com/research/data/
+201841,41,North Carolina,NC,Raleigh,1/1/2018,271961.5,193586.5,184676,233027,371555.5,543185.5,https://www.zillow.com/research/data/
+201941,41,North Carolina,NC,Raleigh,1/1/2019,285889,207999.5,198438.5,246882,387057,558670,https://www.zillow.com/research/data/
+202041,41,North Carolina,NC,Raleigh,1/1/2020,297628,214121,208148.5,257883,399812,577609.5,https://www.zillow.com/research/data/
+202141,41,North Carolina,NC,Raleigh,1/1/2021,352628,243934,242969,307083,471200.5,672607,https://www.zillow.com/research/data/
+201142,42,Virginia,VA,Virginia Beach,1/1/2011,254406.5,156441,162062.5,221282.5,296033,457335,https://www.zillow.com/research/data/
+201242,42,Virginia,VA,Virginia Beach,1/1/2012,251110.5,147418,154899,217681.5,293059.5,454923.5,https://www.zillow.com/research/data/
+201342,42,Virginia,VA,Virginia Beach,1/1/2013,256961.5,153401.5,156114,222468.5,303056.5,470267,https://www.zillow.com/research/data/
+201442,42,Virginia,VA,Virginia Beach,1/1/2014,262696.5,151794.5,156584,226192.5,310155,480226.5,https://www.zillow.com/research/data/
+201542,42,Virginia,VA,Virginia Beach,1/1/2015,265973.5,154580.5,157014,228425,314359.5,487273,https://www.zillow.com/research/data/
+201642,42,Virginia,VA,Virginia Beach,1/1/2016,269660.5,155416.5,160085.5,232137,317760,488646,https://www.zillow.com/research/data/
+201742,42,Virginia,VA,Virginia Beach,1/1/2017,276647.5,152140.5,162861,237516.5,325923,497765,https://www.zillow.com/research/data/
+201842,42,Virginia,VA,Virginia Beach,1/1/2018,281045,154852,165776,241530.5,331188.5,505565,https://www.zillow.com/research/data/
+201942,42,Virginia,VA,Virginia Beach,1/1/2019,286459,157422.5,170333.5,246086,336677.5,512638,https://www.zillow.com/research/data/
+202042,42,Virginia,VA,Virginia Beach,1/1/2020,301354.5,165454,180381,259471.5,353975.5,533732,https://www.zillow.com/research/data/
+202142,42,Virginia,VA,Virginia Beach,1/1/2021,340504,190154,202476,290821,400654.5,602742.5,https://www.zillow.com/research/data/
+201143,43,California,CA,Long Beach,1/1/2011,386679.5,184090,294674.5,398393,508766,627621.5,https://www.zillow.com/research/data/
+201243,43,California,CA,Long Beach,1/1/2012,378017.5,175793,281685,391210,500463.5,613750,https://www.zillow.com/research/data/
+201343,43,California,CA,Long Beach,1/1/2013,447885.5,211461.5,336047,462910,578067.5,702420,https://www.zillow.com/research/data/
+201443,43,California,CA,Long Beach,1/1/2014,484056,245347.5,369469,499893.5,615367.5,746326,https://www.zillow.com/research/data/
+201543,43,California,CA,Long Beach,1/1/2015,505479,258106.5,384634,524562.5,645439,781549,https://www.zillow.com/research/data/
+201643,43,California,CA,Long Beach,1/1/2016,541308,276297.5,416573.5,558950.5,679585.5,821154,https://www.zillow.com/research/data/
+201743,43,California,CA,Long Beach,1/1/2017,575548,297881,443409,594221,715148,860218.5,https://www.zillow.com/research/data/
+201843,43,California,CA,Long Beach,1/1/2018,620454.5,327680.5,484348,641000.5,762500.5,913535,https://www.zillow.com/research/data/
+201943,43,California,CA,Long Beach,1/1/2019,624976.5,334625.5,491150.5,645398.5,764764.5,932792,https://www.zillow.com/research/data/
+202043,43,California,CA,Long Beach,1/1/2020,657162.5,354939,516653.5,677973.5,800784.5,979583,https://www.zillow.com/research/data/
+202143,43,California,CA,Long Beach,1/1/2021,779957.5,402029.5,603782,806116.5,950972.5,1133235.5,https://www.zillow.com/research/data/
+201144,44,Florida,FL,Miami,1/1/2011,196413.5,151923,188275,214099,261109.5,491982,https://www.zillow.com/research/data/
+201244,44,Florida,FL,Miami,1/1/2012,199663.5,169599,194313.5,218684,265819,494852,https://www.zillow.com/research/data/
+201344,44,Florida,FL,Miami,1/1/2013,230772,214039.5,234080,254069.5,306397,564774,https://www.zillow.com/research/data/
+201444,44,Florida,FL,Miami,1/1/2014,268479,245118,271966,289231,348788,637106,https://www.zillow.com/research/data/
+201544,44,Florida,FL,Miami,1/1/2015,298539.5,253174,295523.5,317847.5,380003,695856.5,https://www.zillow.com/research/data/
+201644,44,Florida,FL,Miami,1/1/2016,329346,256757.5,314038.5,346334,415156,752181.5,https://www.zillow.com/research/data/
+201744,44,Florida,FL,Miami,1/1/2017,358167.5,253470,324632.5,369313,441632,799911,https://www.zillow.com/research/data/
+201844,44,Florida,FL,Miami,1/1/2018,378630.5,248470,331332.5,387157,466656.5,838782.5,https://www.zillow.com/research/data/
+201944,44,Florida,FL,Miami,1/1/2019,396793.5,246617,335743.5,402857.5,483000.5,853614,https://www.zillow.com/research/data/
+202044,44,Florida,FL,Miami,1/1/2020,412744,249688,339568,415082.5,496566,852419,https://www.zillow.com/research/data/
+202144,44,Florida,FL,Miami,1/1/2021,470847,269016,375024.5,469053.5,564340,971243.5,https://www.zillow.com/research/data/
+201145,45,California,CA,Oakland,1/1/2011,355861.5,212468.5,256807,393621,578404.5,672305,https://www.zillow.com/research/data/
+201245,45,California,CA,Oakland,1/1/2012,349611,205603,251201.5,386763,575994,668439,https://www.zillow.com/research/data/
+201345,45,California,CA,Oakland,1/1/2013,452167,267528.5,327814.5,494179.5,717656,831127,https://www.zillow.com/research/data/
+201445,45,California,CA,Oakland,1/1/2014,505486,318502,376667.5,552047.5,785945.5,917651,https://www.zillow.com/research/data/
+201545,45,California,CA,Oakland,1/1/2015,569729.5,365568,428916.5,615389,858828,1004150,https://www.zillow.com/research/data/
+201645,45,California,CA,Oakland,1/1/2016,651996,430060.5,506645,700252.5,960712.5,1121194,https://www.zillow.com/research/data/
+201745,45,California,CA,Oakland,1/1/2017,697364.5,457097.5,546669.5,747665.5,1027300.5,1196864,https://www.zillow.com/research/data/
+201845,45,California,CA,Oakland,1/1/2018,785944,515186.5,620983.5,838758.5,1147136,1327759.5,https://www.zillow.com/research/data/
+201945,45,California,CA,Oakland,1/1/2019,785879,506216.5,620664.5,836416,1146289.5,1337651.5,https://www.zillow.com/research/data/
+202045,45,California,CA,Oakland,1/1/2020,819767,516246.5,645044.5,873041,1211583.5,1406466.5,https://www.zillow.com/research/data/
+202145,45,California,CA,Oakland,1/1/2021,993567.5,560100.5,761228,1062397.5,1474912.5,1674091,https://www.zillow.com/research/data/
+201146,46,Minnesota,MN,Minneapolis,1/1/2011,178491.5,121715,159726,183183.5,221185.5,279328.5,https://www.zillow.com/research/data/
+201246,46,Minnesota,MN,Minneapolis,1/1/2012,169493,110556.5,149042.5,174071.5,213880.5,269431,https://www.zillow.com/research/data/
+201346,46,Minnesota,MN,Minneapolis,1/1/2013,194106.5,125640,170012.5,198972,243358,302234,https://www.zillow.com/research/data/
+201446,46,Minnesota,MN,Minneapolis,1/1/2014,210952,141248.5,185303,215363.5,261726,323473,https://www.zillow.com/research/data/
+201546,46,Minnesota,MN,Minneapolis,1/1/2015,222421,148232.5,193812,226973.5,276129.5,339864.5,https://www.zillow.com/research/data/
+201646,46,Minnesota,MN,Minneapolis,1/1/2016,237824,157582.5,208270.5,242604.5,291724.5,355474.5,https://www.zillow.com/research/data/
+201746,46,Minnesota,MN,Minneapolis,1/1/2017,256038.5,169448.5,224152,260618,312771,379668,https://www.zillow.com/research/data/
+201846,46,Minnesota,MN,Minneapolis,1/1/2018,277691,181117,243132.5,282501.5,337995.5,408158.5,https://www.zillow.com/research/data/
+201946,46,Minnesota,MN,Minneapolis,1/1/2019,287626,186551,252301.5,292473.5,348325,418946,https://www.zillow.com/research/data/
+202046,46,Minnesota,MN,Minneapolis,1/1/2020,301249.5,195162.5,263055,305976.5,363331.5,435075,https://www.zillow.com/research/data/
+202146,46,Minnesota,MN,Minneapolis,1/1/2021,331018.5,202033.5,286659.5,336431.5,397649,474347,https://www.zillow.com/research/data/
+201147,47,Oklahoma,OK,Tulsa,1/1/2011,112290.5,52958,74021.5,109592,216265.5,375539.5,https://www.zillow.com/research/data/
+201247,47,Oklahoma,OK,Tulsa,1/1/2012,111063,52850,72425,108476.5,218040,380678,https://www.zillow.com/research/data/
+201347,47,Oklahoma,OK,Tulsa,1/1/2013,112983.5,52480,73438.5,110389.5,223632,392625.5,https://www.zillow.com/research/data/
+201447,47,Oklahoma,OK,Tulsa,1/1/2014,115052,54214.5,74463,112222.5,229889,398581,https://www.zillow.com/research/data/
+201547,47,Oklahoma,OK,Tulsa,1/1/2015,116698,54534.5,75143,113887.5,233547,407442.5,https://www.zillow.com/research/data/
+201647,47,Oklahoma,OK,Tulsa,1/1/2016,120742.5,53327.5,77126.5,117845,236093.5,402751,https://www.zillow.com/research/data/
+201747,47,Oklahoma,OK,Tulsa,1/1/2017,126488.5,58720.5,81948.5,123133,241915.5,407872.5,https://www.zillow.com/research/data/
+201847,47,Oklahoma,OK,Tulsa,1/1/2018,130491,60625,85604.5,127332.5,245631,412894,https://www.zillow.com/research/data/
+201947,47,Oklahoma,OK,Tulsa,1/1/2019,133608.5,61235,89700,130666.5,248622,414307.5,https://www.zillow.com/research/data/
+202047,47,Oklahoma,OK,Tulsa,1/1/2020,141104.5,65582,94366,138402,258890,424196,https://www.zillow.com/research/data/
+202147,47,Oklahoma,OK,Tulsa,1/1/2021,160370,70953,108043,157701,290812,471069.5,https://www.zillow.com/research/data/
+201148,48,California,CA,Bakersfield,1/1/2011,149850,50265.5,77398,128462.5,188640.5,260594,https://www.zillow.com/research/data/
+201248,48,California,CA,Bakersfield,1/1/2012,156543,52054.5,77814.5,134173.5,197808,268169,https://www.zillow.com/research/data/
+201348,48,California,CA,Bakersfield,1/1/2013,190768.5,68274.5,99286.5,163867,239217.5,320393,https://www.zillow.com/research/data/
+201448,48,California,CA,Bakersfield,1/1/2014,220257,77885.5,120272.5,190484,271214,353067,https://www.zillow.com/research/data/
+201548,48,California,CA,Bakersfield,1/1/2015,225902,84141.5,127522.5,197495.5,273566.5,353082.5,https://www.zillow.com/research/data/
+201648,48,California,CA,Bakersfield,1/1/2016,228398.5,87702.5,132946.5,200974.5,273913.5,349094,https://www.zillow.com/research/data/
+201748,48,California,CA,Bakersfield,1/1/2017,232868.5,92696.5,135950,205793,278315,350447,https://www.zillow.com/research/data/
+201848,48,California,CA,Bakersfield,1/1/2018,245757,105071.5,144983,218154.5,290423,362550,https://www.zillow.com/research/data/
+201948,48,California,CA,Bakersfield,1/1/2019,255974.5,110490,153794,228479.5,301413,375690.5,https://www.zillow.com/research/data/
+202048,48,California,CA,Bakersfield,1/1/2020,268935,118983,165119,240651,315203,390365.5,https://www.zillow.com/research/data/
+202148,48,California,CA,Bakersfield,1/1/2021,319239,139718,193505,286236.5,373101.5,458637.5,https://www.zillow.com/research/data/
+201149,49,Kansas,KS,Wichita,1/1/2011,112918.5,60507.5,73223,112445.5,169127,248730.5,https://www.zillow.com/research/data/
+201249,49,Kansas,KS,Wichita,1/1/2012,109817,53146.5,68653.5,109744,167546,247031.5,https://www.zillow.com/research/data/
+201349,49,Kansas,KS,Wichita,1/1/2013,109374,52492,66440.5,109364,166736.5,246458.5,https://www.zillow.com/research/data/
+201449,49,Kansas,KS,Wichita,1/1/2014,109945,50028,65837.5,110121,168272.5,248867.5,https://www.zillow.com/research/data/
+201549,49,Kansas,KS,Wichita,1/1/2015,114116.5,50703,67311,114472.5,175659.5,259055.5,https://www.zillow.com/research/data/
+201649,49,Kansas,KS,Wichita,1/1/2016,116398,50288.5,68410,117116.5,178910,262834.5,https://www.zillow.com/research/data/
+201749,49,Kansas,KS,Wichita,1/1/2017,121318.5,52603.5,70899,122304.5,184630,270022,https://www.zillow.com/research/data/
+201849,49,Kansas,KS,Wichita,1/1/2018,125991.5,55745.5,73864.5,127209.5,189782.5,273525,https://www.zillow.com/research/data/
+201949,49,Kansas,KS,Wichita,1/1/2019,133064,57899,77820.5,134387.5,199500.5,286898,https://www.zillow.com/research/data/
+202049,49,Kansas,KS,Wichita,1/1/2020,140752,63195,82998,142120.5,209284,296320,https://www.zillow.com/research/data/
+202149,49,Kansas,KS,Wichita,1/1/2021,160727.5,71738.5,98314.5,162012,235702,331233,https://www.zillow.com/research/data/
+201150,50,Texas,TX,Arlington,1/1/2011,123974.5,48869.5,73608,112686,160550.5,209285,https://www.zillow.com/research/data/
+201250,50,Texas,TX,Arlington,1/1/2012,125185.5,48641.5,73293,113229.5,163305,212532,https://www.zillow.com/research/data/
+201350,50,Texas,TX,Arlington,1/1/2013,131544.5,49191,75651,118957,171960.5,224627.5,https://www.zillow.com/research/data/
+201450,50,Texas,TX,Arlington,1/1/2014,140957.5,54080.5,81874.5,128012.5,182498.5,236201,https://www.zillow.com/research/data/
+201550,50,Texas,TX,Arlington,1/1/2015,153004,56553.5,89222.5,139202,196030,255318,https://www.zillow.com/research/data/
+201650,50,Texas,TX,Arlington,1/1/2016,168721,63301,99146,154319.5,214692.5,274850,https://www.zillow.com/research/data/
+201750,50,Texas,TX,Arlington,1/1/2017,185705.5,68096.5,112932.5,170599.5,233580,292969.5,https://www.zillow.com/research/data/
+201850,50,Texas,TX,Arlington,1/1/2018,205166.5,81837.5,127851,189287.5,253360,309457,https://www.zillow.com/research/data/
+201950,50,Texas,TX,Arlington,1/1/2019,215431.5,94086,142483,199896.5,261931,317169.5,https://www.zillow.com/research/data/
+202050,50,Texas,TX,Arlington,1/1/2020,225764,104259.5,152367.5,210619,270330.5,326502.5,https://www.zillow.com/research/data/
+202150,50,Texas,TX,Arlington,1/1/2021,268774.5,122595.5,177789.5,251100.5,322126.5,388140.5,https://www.zillow.com/research/data/
+201151,51,Colorado,CO,Aurora,1/1/2011,184350,80385.5,120215,171865.5,220254,276612,https://www.zillow.com/research/data/
+201251,51,Colorado,CO,Aurora,1/1/2012,190257,73479.5,122341,177215.5,228997.5,288038,https://www.zillow.com/research/data/
+201351,51,Colorado,CO,Aurora,1/1/2013,215664,75139.5,141685,201460.5,256546.5,318423,https://www.zillow.com/research/data/
+201451,51,Colorado,CO,Aurora,1/1/2014,233972,84148.5,156666,219979.5,274169,338860,https://www.zillow.com/research/data/
+201551,51,Colorado,CO,Aurora,1/1/2015,267907.5,99540,183162,253694.5,307911.5,373902,https://www.zillow.com/research/data/
+201651,51,Colorado,CO,Aurora,1/1/2016,302918.5,118479,212934,287408.5,343114.5,412141,https://www.zillow.com/research/data/
+201751,51,Colorado,CO,Aurora,1/1/2017,330428.5,136060,237452.5,314595,371042,439719,https://www.zillow.com/research/data/
+201851,51,Colorado,CO,Aurora,1/1/2018,356957.5,155291,261166.5,340439,398390,472104,https://www.zillow.com/research/data/
+201951,51,Colorado,CO,Aurora,1/1/2019,370415,163904,272485,353844,411062.5,484368.5,https://www.zillow.com/research/data/
+202051,51,Colorado,CO,Aurora,1/1/2020,385148.5,169421.5,281252.5,368692.5,426037,498653,https://www.zillow.com/research/data/
+202151,51,Colorado,CO,Aurora,1/1/2021,454110,192529.5,326961.5,435431.5,500541,584217,https://www.zillow.com/research/data/
+201152,52,Florida,FL,Tampa,1/1/2011,123153,60094.5,76322,116623.5,238815,418887.5,https://www.zillow.com/research/data/
+201252,52,Florida,FL,Tampa,1/1/2012,123196.5,61783.5,76310.5,116677.5,244435,431322.5,https://www.zillow.com/research/data/
+201352,52,Florida,FL,Tampa,1/1/2013,142083,72404.5,89583,134561,271547.5,475710,https://www.zillow.com/research/data/
+201452,52,Florida,FL,Tampa,1/1/2014,160575.5,80442,104142,152189,294475,507643.5,https://www.zillow.com/research/data/
+201552,52,Florida,FL,Tampa,1/1/2015,172335,88206.5,112213,163406.5,303085,525348,https://www.zillow.com/research/data/
+201652,52,Florida,FL,Tampa,1/1/2016,193554,100297.5,128100,183775.5,321598,555394,https://www.zillow.com/research/data/
+201752,52,Florida,FL,Tampa,1/1/2017,218514,113133.5,149946.5,207805.5,342130,585123.5,https://www.zillow.com/research/data/
+201852,52,Florida,FL,Tampa,1/1/2018,236383,127737,167615.5,224679,357225,606594.5,https://www.zillow.com/research/data/
+201952,52,Florida,FL,Tampa,1/1/2019,250671,135940,177582.5,239906,372433,628177,https://www.zillow.com/research/data/
+202052,52,Florida,FL,Tampa,1/1/2020,268324.5,143505.5,194507,256601.5,386630,643012.5,https://www.zillow.com/research/data/
+202152,52,Florida,FL,Tampa,1/1/2021,326315.5,172584.5,240256,311563.5,462465.5,763210,https://www.zillow.com/research/data/
+201153,53,Louisiana,LA,New Orleans,1/1/2011,167864.5,179555,154691,140115,208012.5,369233.5,https://www.zillow.com/research/data/
+201253,53,Louisiana,LA,New Orleans,1/1/2012,169251,180930.5,159889.5,140663.5,207116.5,366177,https://www.zillow.com/research/data/
+201353,53,Louisiana,LA,New Orleans,1/1/2013,181030,198576.5,175307.5,147332.5,222503,402250,https://www.zillow.com/research/data/
+201453,53,Louisiana,LA,New Orleans,1/1/2014,193965.5,214013.5,195487,155857.5,233367.5,428223,https://www.zillow.com/research/data/
+201553,53,Louisiana,LA,New Orleans,1/1/2015,208368.5,243556.5,217426,164115,243609,454959.5,https://www.zillow.com/research/data/
+201653,53,Louisiana,LA,New Orleans,1/1/2016,223887.5,255564.5,237822,177497.5,256957,465466,https://www.zillow.com/research/data/
+201753,53,Louisiana,LA,New Orleans,1/1/2017,226089.5,247876.5,234073.5,178281,261779.5,468680,https://www.zillow.com/research/data/
+201853,53,Louisiana,LA,New Orleans,1/1/2018,229356,245187,237749,182602.5,265845.5,482445.5,https://www.zillow.com/research/data/
+201953,53,Louisiana,LA,New Orleans,1/1/2019,226012.5,243235,238528.5,181280.5,264067,479597.5,https://www.zillow.com/research/data/
+202053,53,Louisiana,LA,New Orleans,1/1/2020,229674,248967.5,251569.5,200428.5,286875.5,501938.5,https://www.zillow.com/research/data/
+202153,53,Louisiana,LA,New Orleans,1/1/2021,251447,256444.5,270735.5,221597.5,313750,543213,https://www.zillow.com/research/data/
+201154,54,Ohio,OH,Cleveland,1/1/2011,52735.5,58913,52225.5,54642,56640.5,59338,https://www.zillow.com/research/data/
+201254,54,Ohio,OH,Cleveland,1/1/2012,43716,52216.5,43758,46411.5,45119.5,45238,https://www.zillow.com/research/data/
+201354,54,Ohio,OH,Cleveland,1/1/2013,45300,53824,45958.5,48150,44746.5,43767,https://www.zillow.com/research/data/
+201454,54,Ohio,OH,Cleveland,1/1/2014,44728,55311.5,45130,47665,43701.5,42481,https://www.zillow.com/research/data/
+201554,54,Ohio,OH,Cleveland,1/1/2015,45532.5,61811,47296.5,48188.5,43377.5,41861,https://www.zillow.com/research/data/
+201654,54,Ohio,OH,Cleveland,1/1/2016,47911,63426,48746.5,51157.5,45732.5,41988,https://www.zillow.com/research/data/
+201754,54,Ohio,OH,Cleveland,1/1/2017,52363.5,70712.5,52981,56509,48485.5,44255,https://www.zillow.com/research/data/
+201854,54,Ohio,OH,Cleveland,1/1/2018,59987,84309.5,60741,64290,55814.5,50575.5,https://www.zillow.com/research/data/
+201954,54,Ohio,OH,Cleveland,1/1/2019,65759,88117,65768.5,70700.5,61006,54947,https://www.zillow.com/research/data/
+202054,54,Ohio,OH,Cleveland,1/1/2020,72193.5,93667,72199,77434.5,66242,59444.5,https://www.zillow.com/research/data/
+202154,54,Ohio,OH,Cleveland,1/1/2021,92699.5,108732,89305.5,99517.5,85926,79093.5,https://www.zillow.com/research/data/
+201155,55,California,CA,Anaheim,1/1/2011,391295.5,200733,263349.5,364201.5,426579,591094.5,https://www.zillow.com/research/data/
+201255,55,California,CA,Anaheim,1/1/2012,386126.5,197629,258603,359830,420923,588349.5,https://www.zillow.com/research/data/
+201355,55,California,CA,Anaheim,1/1/2013,464487.5,240571.5,319747.5,435990.5,500956,695338,https://www.zillow.com/research/data/
+201455,55,California,CA,Anaheim,1/1/2014,496168,272425,351495,467218,534969.5,729760,https://www.zillow.com/research/data/
+201555,55,California,CA,Anaheim,1/1/2015,514974.5,290594.5,369271,485021.5,555466,753255,https://www.zillow.com/research/data/
+201655,55,California,CA,Anaheim,1/1/2016,549877.5,308368,395579,519250.5,590790.5,789252.5,https://www.zillow.com/research/data/
+201755,55,California,CA,Anaheim,1/1/2017,580539,324510,416498.5,549304.5,622831,824376,https://www.zillow.com/research/data/
+201855,55,California,CA,Anaheim,1/1/2018,616232,349797.5,445343.5,585976,658186.5,862063,https://www.zillow.com/research/data/
+201955,55,California,CA,Anaheim,1/1/2019,619642.5,351591.5,449705,588760,662043.5,865160,https://www.zillow.com/research/data/
+202055,55,California,CA,Anaheim,1/1/2020,650024,368101,466875,618941.5,693499.5,890142.5,https://www.zillow.com/research/data/
+202155,55,California,CA,Anaheim,1/1/2021,769946,413882.5,543086.5,735464.5,818735.5,1053712,https://www.zillow.com/research/data/
+201157,57,Nevada,NV,Henderson,1/1/2011,175657,54173,124506,151218,203747,278479,https://www.zillow.com/research/data/
+201257,57,Nevada,NV,Henderson,1/1/2012,170364,53307,119808,146254,198451,270560.5,https://www.zillow.com/research/data/
+201357,57,Nevada,NV,Henderson,1/1/2013,210579.5,68741.5,151183.5,181306.5,242596,329694,https://www.zillow.com/research/data/
+201457,57,Nevada,NV,Henderson,1/1/2014,244122.5,76815,173047.5,212019.5,281395,372859.5,https://www.zillow.com/research/data/
+201557,57,Nevada,NV,Henderson,1/1/2015,259386,79761.5,183786.5,227388.5,298825,388731.5,https://www.zillow.com/research/data/
+201657,57,Nevada,NV,Henderson,1/1/2016,274015,86293.5,194988,242167.5,314275.5,402069.5,https://www.zillow.com/research/data/
+201757,57,Nevada,NV,Henderson,1/1/2017,290866.5,94530.5,209522,258730,331394,419135,https://www.zillow.com/research/data/
+201857,57,Nevada,NV,Henderson,1/1/2018,329735.5,124620,245309.5,296729,371567,460169.5,https://www.zillow.com/research/data/
+201957,57,Nevada,NV,Henderson,1/1/2019,345381.5,136210.5,260257.5,312110.5,387771.5,476895.5,https://www.zillow.com/research/data/
+202057,57,Nevada,NV,Henderson,1/1/2020,355309.5,138150,268276.5,321618,398975.5,490568,https://www.zillow.com/research/data/
+202157,57,Nevada,NV,Henderson,1/1/2021,421088,164629.5,314696,380917.5,475272,588211,https://www.zillow.com/research/data/
+201158,58,California,CA,Stockton,1/1/2011,133213,53985.5,78375,123675,165037.5,212502.5,https://www.zillow.com/research/data/
+201258,58,California,CA,Stockton,1/1/2012,129688.5,51070,73885.5,120327.5,161991,209670,https://www.zillow.com/research/data/
+201358,58,California,CA,Stockton,1/1/2013,155853.5,65119.5,91244,145005.5,194876,248437.5,https://www.zillow.com/research/data/
+201458,58,California,CA,Stockton,1/1/2014,197140,82792.5,117113,182546,246203,303826.5,https://www.zillow.com/research/data/
+201558,58,California,CA,Stockton,1/1/2015,208749.5,84735,127855.5,193902,256381.5,315153.5,https://www.zillow.com/research/data/
+201658,58,California,CA,Stockton,1/1/2016,232154.5,97559,145877.5,217495,282378,338718,https://www.zillow.com/research/data/
+201758,58,California,CA,Stockton,1/1/2017,258159,112123,170440.5,242625.5,311458.5,366390.5,https://www.zillow.com/research/data/
+201858,58,California,CA,Stockton,1/1/2018,291519,146533,202257,275167.5,346159,404768.5,https://www.zillow.com/research/data/
+201958,58,California,CA,Stockton,1/1/2019,302872,161246.5,217356.5,286854,355440,412483,https://www.zillow.com/research/data/
+202058,58,California,CA,Stockton,1/1/2020,316692,169637,228779.5,300490,369081,429919,https://www.zillow.com/research/data/
+202158,58,California,CA,Stockton,1/1/2021,399067.5,211833.5,290736.5,378809,462582,532217.5,https://www.zillow.com/research/data/
+201160,60,Texas,TX,Corpus Christi,1/1/2011,125382,72074.5,88137,131952,197565.5,284011.5,https://www.zillow.com/research/data/
+201260,60,Texas,TX,Corpus Christi,1/1/2012,126466,75487,88828.5,132435.5,200490.5,285954,https://www.zillow.com/research/data/
+201360,60,Texas,TX,Corpus Christi,1/1/2013,129422.5,77752,89870,134965,204671.5,289741.5,https://www.zillow.com/research/data/
+201460,60,Texas,TX,Corpus Christi,1/1/2014,136010.5,79874.5,95569.5,143100.5,220414,311617.5,https://www.zillow.com/research/data/
+201560,60,Texas,TX,Corpus Christi,1/1/2015,147219,93007.5,104011.5,155259.5,235221.5,335593.5,https://www.zillow.com/research/data/
+201660,60,Texas,TX,Corpus Christi,1/1/2016,152141.5,97108.5,107629,160057,241513.5,344220,https://www.zillow.com/research/data/
+201760,60,Texas,TX,Corpus Christi,1/1/2017,157870,98193,110029,164659.5,245688.5,349015.5,https://www.zillow.com/research/data/
+201860,60,Texas,TX,Corpus Christi,1/1/2018,159217.5,96946,111366,166727.5,246948,349858.5,https://www.zillow.com/research/data/
+201960,60,Texas,TX,Corpus Christi,1/1/2019,159760,99696,112279,168889.5,249661.5,355419,https://www.zillow.com/research/data/
+202060,60,Texas,TX,Corpus Christi,1/1/2020,171509,112714,121965,179956.5,259977.5,376309.5,https://www.zillow.com/research/data/
+202160,60,Texas,TX,Corpus Christi,1/1/2021,190229.5,131930,138395.5,202956.5,289376,401970,https://www.zillow.com/research/data/
+201161,61,California,CA,Riverside,1/1/2011,222791,105843,151920,194965,254406,354558.5,https://www.zillow.com/research/data/
+201261,61,California,CA,Riverside,1/1/2012,222096,104231.5,151159.5,195668,253122.5,345740.5,https://www.zillow.com/research/data/
+201361,61,California,CA,Riverside,1/1/2013,269656.5,135332.5,184612,239592,308052.5,413118,https://www.zillow.com/research/data/
+201461,61,California,CA,Riverside,1/1/2014,319377,167530,227691,285187,363775.5,479574.5,https://www.zillow.com/research/data/
+201561,61,California,CA,Riverside,1/1/2015,333516,181287,245010,298969,377783,490961,https://www.zillow.com/research/data/
+201661,61,California,CA,Riverside,1/1/2016,353560,191800,261265,321078,395242,504579.5,https://www.zillow.com/research/data/
+201761,61,California,CA,Riverside,1/1/2017,375222,208474.5,281806.5,342899,417769,529992,https://www.zillow.com/research/data/
+201861,61,California,CA,Riverside,1/1/2018,406721,234244.5,313136.5,372427,452148,565459,https://www.zillow.com/research/data/
+201961,61,California,CA,Riverside,1/1/2019,417773,250061,326216.5,385393.5,461422.5,569986.5,https://www.zillow.com/research/data/
+202061,61,California,CA,Riverside,1/1/2020,434391.5,261700,340493,402038.5,479453,585441.5,https://www.zillow.com/research/data/
+202161,61,California,CA,Riverside,1/1/2021,533322,307967.5,414127.5,496874.5,589724,713664,https://www.zillow.com/research/data/
+201162,62,California,CA,Santa Ana,1/1/2011,344390,139020.7,212102.5,327106.5,384704.5,451539.5,https://www.zillow.com/research/data/
+201262,62,California,CA,Santa Ana,1/1/2012,345064,152770,214022,327752,383653,452857.5,https://www.zillow.com/research/data/
+201362,62,California,CA,Santa Ana,1/1/2013,417040.5,181858.5,272421.5,397522.5,457876,534799.5,https://www.zillow.com/research/data/
+201462,62,California,CA,Santa Ana,1/1/2014,444438,203275,305746,424245,493266.5,570241,https://www.zillow.com/research/data/
+201562,62,California,CA,Santa Ana,1/1/2015,466028.5,218078.5,326286,445701.5,514545,590642.5,https://www.zillow.com/research/data/
+201662,62,California,CA,Santa Ana,1/1/2016,498901,232994,349202,477752,549564.5,631278,https://www.zillow.com/research/data/
+201762,62,California,CA,Santa Ana,1/1/2017,532961,252774.5,372421,511981.5,582591,664862,https://www.zillow.com/research/data/
+201862,62,California,CA,Santa Ana,1/1/2018,572469,278736.5,403976,551346,625090.5,711115,https://www.zillow.com/research/data/
+201962,62,California,CA,Santa Ana,1/1/2019,581344.5,284277,415171,561061,631949.5,717084.5,https://www.zillow.com/research/data/
+202062,62,California,CA,Santa Ana,1/1/2020,608552.5,296292,434418,589315,656354,741568,https://www.zillow.com/research/data/
+202162,62,California,CA,Santa Ana,1/1/2021,712877.5,335764,508147.5,689446,776403,876335,https://www.zillow.com/research/data/
+201163,63,Florida,FL,Orlando,1/1/2011,131868,50813.5,66635,111557,171321,253843,https://www.zillow.com/research/data/
+201263,63,Florida,FL,Orlando,1/1/2012,135336.5,55244,70483,114563.5,176000,260192,https://www.zillow.com/research/data/
+201363,63,Florida,FL,Orlando,1/1/2013,160676.5,66386.5,84726.5,137301,208614.5,302339,https://www.zillow.com/research/data/
+201463,63,Florida,FL,Orlando,1/1/2014,184736,73772.5,97093,159031,235078.5,332218.5,https://www.zillow.com/research/data/
+201563,63,Florida,FL,Orlando,1/1/2015,192253,76278.5,100961,166131,241882.5,338149.5,https://www.zillow.com/research/data/
+201663,63,Florida,FL,Orlando,1/1/2016,210762.5,80612,109827.5,183016.5,259843.5,356819.5,https://www.zillow.com/research/data/
+201763,63,Florida,FL,Orlando,1/1/2017,228492.5,87236,122384.5,200931,276422,374457,https://www.zillow.com/research/data/
+201863,63,Florida,FL,Orlando,1/1/2018,248352,95966.5,137452,221214,295185.5,392941,https://www.zillow.com/research/data/
+201963,63,Florida,FL,Orlando,1/1/2019,260555.5,106780,149532,233915.5,307134.5,405933,https://www.zillow.com/research/data/
+202063,63,Florida,FL,Orlando,1/1/2020,273860,114353.5,159339.5,247352.5,319922.5,417766,https://www.zillow.com/research/data/
+202163,63,Florida,FL,Orlando,1/1/2021,309523,121802.5,176827.5,279458.5,362824.5,470097.5,https://www.zillow.com/research/data/
+201164,64,California,CA,Irvine,1/1/2011,709454.5,244968,418282,578521.5,785354.5,1207561.5,https://www.zillow.com/research/data/
+201264,64,California,CA,Irvine,1/1/2012,705382.5,237025,406494.5,570626,781117,1195947.5,https://www.zillow.com/research/data/
+201364,64,California,CA,Irvine,1/1/2013,846788,318868,492442.5,686851,928307.5,1426892.5,https://www.zillow.com/research/data/
+201464,64,California,CA,Irvine,1/1/2014,887786,339333.5,514954.5,717971.5,967204,1500070.5,https://www.zillow.com/research/data/
+201564,64,California,CA,Irvine,1/1/2015,910962.5,349147,523538.5,734461.5,997529.5,1549914.5,https://www.zillow.com/research/data/
+201664,64,California,CA,Irvine,1/1/2016,947107.5,364230,545911.5,761818.5,1037004.5,1593618.5,https://www.zillow.com/research/data/
+201764,64,California,CA,Irvine,1/1/2017,986444.5,384752,568896.5,792420,1077281.5,1627035.5,https://www.zillow.com/research/data/
+201864,64,California,CA,Irvine,1/1/2018,1039436,420213.5,612937,839742,1134421,1681892,https://www.zillow.com/research/data/
+201964,64,California,CA,Irvine,1/1/2019,1033155.5,417703,616034,838022.5,1127307.5,1650486.5,https://www.zillow.com/research/data/
+202064,64,California,CA,Irvine,1/1/2020,1042498,422298,618847.5,850484.5,1133914.5,1646768.5,https://www.zillow.com/research/data/
+202164,64,California,CA,Irvine,1/1/2021,1189227.5,480649,688402.5,955101,1297249,1864203,https://www.zillow.com/research/data/
+201165,65,Ohio,OH,Cincinnati,1/1/2011,122862,86777.5,94274.5,119712.5,174722.5,220452.5,https://www.zillow.com/research/data/
+201265,65,Ohio,OH,Cincinnati,1/1/2012,116978,79861,88635,113962.5,167440.5,214101,https://www.zillow.com/research/data/
+201365,65,Ohio,OH,Cincinnati,1/1/2013,117550.5,81478.5,88311.5,114326.5,170953.5,221346.5,https://www.zillow.com/research/data/
+201465,65,Ohio,OH,Cincinnati,1/1/2014,118274,81145.5,87329.5,114742.5,173747,230416,https://www.zillow.com/research/data/
+201565,65,Ohio,OH,Cincinnati,1/1/2015,124065,90752,92805.5,120585,180806,239287.5,https://www.zillow.com/research/data/
+201665,65,Ohio,OH,Cincinnati,1/1/2016,128959.5,94459.5,96659.5,125177,187326,247001,https://www.zillow.com/research/data/
+201765,65,Ohio,OH,Cincinnati,1/1/2017,142937,107638.5,108706.5,138404,205306.5,270534,https://www.zillow.com/research/data/
+201865,65,Ohio,OH,Cincinnati,1/1/2018,152737,114898.5,117750,148292.5,216692.5,283905,https://www.zillow.com/research/data/
+201965,65,Ohio,OH,Cincinnati,1/1/2019,162385.5,125589,126994.5,157034.5,227201.5,298937,https://www.zillow.com/research/data/
+202065,65,Ohio,OH,Cincinnati,1/1/2020,174786,133448,137847.5,168386,239554,312441,https://www.zillow.com/research/data/
+202165,65,Ohio,OH,Cincinnati,1/1/2021,209273.5,156040,164074,201153.5,280312.5,368561.5,https://www.zillow.com/research/data/
+201166,66,New Jersey,NJ,Newark,1/1/2011,222492.5,161820.5,185158,184306,197027,248158,https://www.zillow.com/research/data/
+201266,66,New Jersey,NJ,Newark,1/1/2012,203184,152728,171231.5,162103.5,176882.5,223549,https://www.zillow.com/research/data/
+201366,66,New Jersey,NJ,Newark,1/1/2013,192766,141342,159810.5,157175.5,167641.5,209564,https://www.zillow.com/research/data/
+201466,66,New Jersey,NJ,Newark,1/1/2014,188359.5,150852,158854.5,153203.5,162531,210877.5,https://www.zillow.com/research/data/
+201566,66,New Jersey,NJ,Newark,1/1/2015,196290.5,157162,158982,159194.5,165665.5,215164,https://www.zillow.com/research/data/
+201666,66,New Jersey,NJ,Newark,1/1/2016,213306.5,164864,168852,173002.5,181245.5,229176.5,https://www.zillow.com/research/data/
+201766,66,New Jersey,NJ,Newark,1/1/2017,235595,177084.5,181737,187419,198842.5,253065.5,https://www.zillow.com/research/data/
+201866,66,New Jersey,NJ,Newark,1/1/2018,259271,199424,203568.5,210399,220435.5,283732,https://www.zillow.com/research/data/
+201966,66,New Jersey,NJ,Newark,1/1/2019,291674,236426.5,240359,244578,254450.5,317369.5,https://www.zillow.com/research/data/
+202066,66,New Jersey,NJ,Newark,1/1/2020,327033.5,242153,258312,273848.5,289652,359939,https://www.zillow.com/research/data/
+202166,66,New Jersey,NJ,Newark,1/1/2021,383058.5,265725.5,286507,316510,339867,423252.5,https://www.zillow.com/research/data/
+201167,67,Minnesota,MN,Saint Paul,1/1/2011,150690,97974.5,132697,149365,177796.5,257767.5,https://www.zillow.com/research/data/
+201267,67,Minnesota,MN,Saint Paul,1/1/2012,145291.5,86547.5,124857.5,143871.5,175934,261130,https://www.zillow.com/research/data/
+201367,67,Minnesota,MN,Saint Paul,1/1/2013,160690.5,97801,138233.5,159097.5,193079,283342,https://www.zillow.com/research/data/
+201467,67,Minnesota,MN,Saint Paul,1/1/2014,178532,112312,154813,176579,213433,307506,https://www.zillow.com/research/data/
+201567,67,Minnesota,MN,Saint Paul,1/1/2015,184113.5,117940,157999,182406.5,221083.5,319648,https://www.zillow.com/research/data/
+201667,67,Minnesota,MN,Saint Paul,1/1/2016,189579,124768.5,165443,187322,226072.5,323172,https://www.zillow.com/research/data/
+201767,67,Minnesota,MN,Saint Paul,1/1/2017,210114.5,138311,181465.5,207745.5,251268.5,356447,https://www.zillow.com/research/data/
+201867,67,Minnesota,MN,Saint Paul,1/1/2018,226137.5,151366,195761.5,223669,267505.5,373312.5,https://www.zillow.com/research/data/
+201967,67,Minnesota,MN,Saint Paul,1/1/2019,235418.5,156862,204767.5,232733,276206,380180.5,https://www.zillow.com/research/data/
+202067,67,Minnesota,MN,Saint Paul,1/1/2020,245539,164392,215521,242387.5,287396,393986.5,https://www.zillow.com/research/data/
+202167,67,Minnesota,MN,Saint Paul,1/1/2021,273061.5,177734,238549.5,270123,318460,431134.5,https://www.zillow.com/research/data/
+201168,68,Pennsylvania,PA,Pittsburgh,1/1/2011,110758.5,82621,80446,108399,176693,236187,https://www.zillow.com/research/data/
+201268,68,Pennsylvania,PA,Pittsburgh,1/1/2012,113371,83308.5,83091,110782,182075,245778,https://www.zillow.com/research/data/
+201368,68,Pennsylvania,PA,Pittsburgh,1/1/2013,117759,86506.5,85934.5,115851,193037,262975.5,https://www.zillow.com/research/data/
+201468,68,Pennsylvania,PA,Pittsburgh,1/1/2014,124734.5,91355,90638,121838,204475,281563.5,https://www.zillow.com/research/data/
+201568,68,Pennsylvania,PA,Pittsburgh,1/1/2015,131826.5,99332.5,96980.5,128013,216392.5,299167,https://www.zillow.com/research/data/
+201668,68,Pennsylvania,PA,Pittsburgh,1/1/2016,140905.5,105654.5,103864.5,136565.5,228824,314081,https://www.zillow.com/research/data/
+201768,68,Pennsylvania,PA,Pittsburgh,1/1/2017,149571.5,109794,110387,145051.5,240353.5,330323,https://www.zillow.com/research/data/
+201868,68,Pennsylvania,PA,Pittsburgh,1/1/2018,163589.5,120080,122566,158024.5,259874,352999,https://www.zillow.com/research/data/
+201968,68,Pennsylvania,PA,Pittsburgh,1/1/2019,173672.5,126872,131459,168156.5,270711,368068.5,https://www.zillow.com/research/data/
+202068,68,Pennsylvania,PA,Pittsburgh,1/1/2020,181704.5,131994,137662.5,175606,283139.5,383840.5,https://www.zillow.com/research/data/
+202168,68,Pennsylvania,PA,Pittsburgh,1/1/2021,218523,149991.5,166637,211782,333129,447217.5,https://www.zillow.com/research/data/
+201169,69,North Carolina,NC,Greensboro,1/1/2011,133343,69698,80922.5,121363,220429,337829.5,https://www.zillow.com/research/data/
+201269,69,North Carolina,NC,Greensboro,1/1/2012,127841.5,65079.5,75737.5,116128,212771.5,326598.5,https://www.zillow.com/research/data/
+201369,69,North Carolina,NC,Greensboro,1/1/2013,130235,64140,75001.5,117825.5,219968,338292,https://www.zillow.com/research/data/
+201469,69,North Carolina,NC,Greensboro,1/1/2014,132570,64450,74477.5,119979,224732.5,345261.5,https://www.zillow.com/research/data/
+201569,69,North Carolina,NC,Greensboro,1/1/2015,134464.5,65163.5,75023,121727,227917.5,350052,https://www.zillow.com/research/data/
+201669,69,North Carolina,NC,Greensboro,1/1/2016,136425,66765,75433.5,123425.5,231583.5,354878,https://www.zillow.com/research/data/
+201769,69,North Carolina,NC,Greensboro,1/1/2017,144680.5,68810,80564.5,131313.5,242778.5,366898.5,https://www.zillow.com/research/data/
+201869,69,North Carolina,NC,Greensboro,1/1/2018,152530.5,74423.5,86759,138804.5,253225.5,378510.5,https://www.zillow.com/research/data/
+201969,69,North Carolina,NC,Greensboro,1/1/2019,162028.5,78985,93831.5,147968,263206,386854.5,https://www.zillow.com/research/data/
+202069,69,North Carolina,NC,Greensboro,1/1/2020,175142.5,86926,102840,160631.5,278589,400283.5,https://www.zillow.com/research/data/
+202169,69,North Carolina,NC,Greensboro,1/1/2021,203397,102327.5,121319.5,186699,317728,450470,https://www.zillow.com/research/data/
+201170,70,Missouri,MO,Saint Louis,1/1/2011,107783,95958,110276.5,128025,149745.5,212962.5,https://www.zillow.com/research/data/
+201270,70,Missouri,MO,Saint Louis,1/1/2012,101257,85154.5,103362,123897.5,148002.5,210341,https://www.zillow.com/research/data/
+201370,70,Missouri,MO,Saint Louis,1/1/2013,98311.5,81928.5,101905.5,124056,149196.5,203910.5,https://www.zillow.com/research/data/
+201470,70,Missouri,MO,Saint Louis,1/1/2014,93462.5,76945,98160.5,122624,151213.5,208609.5,https://www.zillow.com/research/data/
+201570,70,Missouri,MO,Saint Louis,1/1/2015,99473,82352.5,104983,132074.5,166565.5,228471,https://www.zillow.com/research/data/
+201670,70,Missouri,MO,Saint Louis,1/1/2016,102480.5,86349.5,109034,135581.5,169439.5,231598,https://www.zillow.com/research/data/
+201770,70,Missouri,MO,Saint Louis,1/1/2017,107003.5,89010.5,114176,143099,179947,241638,https://www.zillow.com/research/data/
+201870,70,Missouri,MO,Saint Louis,1/1/2018,118023.5,97504,123868,156244,198740.5,267545,https://www.zillow.com/research/data/
+201970,70,Missouri,MO,Saint Louis,1/1/2019,121908,101921,127216.5,161664,205796.5,280035.5,https://www.zillow.com/research/data/
+202070,70,Missouri,MO,Saint Louis,1/1/2020,131926.5,106984,137579,173350,219791.5,288890.5,https://www.zillow.com/research/data/
+202170,70,Missouri,MO,Saint Louis,1/1/2021,153783.5,126116.5,157626,199568,253031.5,327573,https://www.zillow.com/research/data/
+201171,71,Nebraska,NE,Lincoln,1/1/2011,143373.5,121445.5,113848,143538,204246.5,250233.5,https://www.zillow.com/research/data/
+201271,71,Nebraska,NE,Lincoln,1/1/2012,141606,118088,112124,141715,201992,247062,https://www.zillow.com/research/data/
+201371,71,Nebraska,NE,Lincoln,1/1/2013,153241.5,129422,120614,153376.5,220617,270988,https://www.zillow.com/research/data/
+201471,71,Nebraska,NE,Lincoln,1/1/2014,152768.5,128746,120342.5,153130.5,220609.5,272691.5,https://www.zillow.com/research/data/
+201571,71,Nebraska,NE,Lincoln,1/1/2015,161227,136473,127091,161640,232427.5,287110,https://www.zillow.com/research/data/
+201671,71,Nebraska,NE,Lincoln,1/1/2016,167435.5,142092.5,132215,167820,240131.5,294524.5,https://www.zillow.com/research/data/
+201771,71,Nebraska,NE,Lincoln,1/1/2017,179368,151501.5,142166,179566,255716,314395,https://www.zillow.com/research/data/
+201871,71,Nebraska,NE,Lincoln,1/1/2018,190735.5,161202,151439.5,190635,270475,333154.5,https://www.zillow.com/research/data/
+201971,71,Nebraska,NE,Lincoln,1/1/2019,199829.5,166573.5,159333.5,200194,277319,337747.5,https://www.zillow.com/research/data/
+202071,71,Nebraska,NE,Lincoln,1/1/2020,206405,175433,164951.5,206821.5,285473,346885,https://www.zillow.com/research/data/
+202171,71,Nebraska,NE,Lincoln,1/1/2021,239984,202191,192750,240544.5,326178.5,396055.5,https://www.zillow.com/research/data/
+201172,72,Texas,TX,Plano,1/1/2011,214394,100016.5,141277.5,164561,244630,343567.5,https://www.zillow.com/research/data/
+201272,72,Texas,TX,Plano,1/1/2012,221487.5,97844.5,145178,170088,252576.5,354701.5,https://www.zillow.com/research/data/
+201372,72,Texas,TX,Plano,1/1/2013,236001.5,104442.5,153179.5,180646.5,268649.5,374282,https://www.zillow.com/research/data/
+201472,72,Texas,TX,Plano,1/1/2014,257953.5,112683,167521,198544,292901,402705,https://www.zillow.com/research/data/
+201572,72,Texas,TX,Plano,1/1/2015,287377,129975,189769.5,223094.5,324682,439890,https://www.zillow.com/research/data/
+201672,72,Texas,TX,Plano,1/1/2016,311768,142929,211940.5,245917.5,349047.5,465433.5,https://www.zillow.com/research/data/
+201772,72,Texas,TX,Plano,1/1/2017,336346.5,157896,231663,268979.5,372350,488487.5,https://www.zillow.com/research/data/
+201872,72,Texas,TX,Plano,1/1/2018,346470.5,169101,244183,281272.5,380378.5,494717,https://www.zillow.com/research/data/
+201972,72,Texas,TX,Plano,1/1/2019,345363.5,169518.5,244247,282372.5,379122,488555,https://www.zillow.com/research/data/
+202072,72,Texas,TX,Plano,1/1/2020,346070.5,175108,246768.5,285130,379772.5,487476.5,https://www.zillow.com/research/data/
+202172,72,Texas,TX,Plano,1/1/2021,418720,201140.5,291360,343630,460291,587071,https://www.zillow.com/research/data/
+201173,73,Alaska,AK,Anchorage,1/1/2011,311298,169022,185462,277219,361443,442855,https://www.zillow.com/research/data/
+201273,73,Alaska,AK,Anchorage,1/1/2012,320151,170352.5,188610.5,285109,372592,455300.5,https://www.zillow.com/research/data/
+201373,73,Alaska,AK,Anchorage,1/1/2013,329224,165984,194450,292771.5,384083,467488.5,https://www.zillow.com/research/data/
+201473,73,Alaska,AK,Anchorage,1/1/2014,337848,173960.5,200033,300443,393736,475222.5,https://www.zillow.com/research/data/
+201573,73,Alaska,AK,Anchorage,1/1/2015,347864.5,174756.5,204008.5,309136.5,405519.5,492796.5,https://www.zillow.com/research/data/
+201673,73,Alaska,AK,Anchorage,1/1/2016,349531.5,172933,204776,311551,406070,494621,https://www.zillow.com/research/data/
+201773,73,Alaska,AK,Anchorage,1/1/2017,345169.5,170416,201414,307791.5,400519,488539.5,https://www.zillow.com/research/data/
+201873,73,Alaska,AK,Anchorage,1/1/2018,348934,168301,202581.5,310726,405180.5,490931,https://www.zillow.com/research/data/
+201973,73,Alaska,AK,Anchorage,1/1/2019,376230.5,174745,213092,335240.5,434512,519519.5,https://www.zillow.com/research/data/
+202073,73,Alaska,AK,Anchorage,1/1/2020,363828,175803,215585.5,325580.5,417118.5,505119.5,https://www.zillow.com/research/data/
+202173,73,Alaska,AK,Anchorage,1/1/2021,386293.5,182718.5,233835.5,348141.5,439046,523015,https://www.zillow.com/research/data/
+201174,74,North Carolina,NC,Durham,1/1/2011,173763.5,114658.5,119833,158634.5,239943.5,327673,https://www.zillow.com/research/data/
+201274,74,North Carolina,NC,Durham,1/1/2012,165082.5,114476,112377,150418.5,230384,314748,https://www.zillow.com/research/data/
+201374,74,North Carolina,NC,Durham,1/1/2013,173155.5,111900.5,118900.5,157406.5,241050,331657.5,https://www.zillow.com/research/data/
+201474,74,North Carolina,NC,Durham,1/1/2014,181836.5,99312,123106,165382,254233,349121.5,https://www.zillow.com/research/data/
+201574,74,North Carolina,NC,Durham,1/1/2015,187012.5,111281,127397.5,170565,258945,355666.5,https://www.zillow.com/research/data/
+201674,74,North Carolina,NC,Durham,1/1/2016,199077,113195,135026.5,181524,274296.5,370972.5,https://www.zillow.com/research/data/
+201774,74,North Carolina,NC,Durham,1/1/2017,214394.5,128355,147590,196134,289979,386523.5,https://www.zillow.com/research/data/
+201874,74,North Carolina,NC,Durham,1/1/2018,234040,148092,165426,215561.5,310458.5,406205,https://www.zillow.com/research/data/
+201974,74,North Carolina,NC,Durham,1/1/2019,252311.5,169797,181573.5,233427,329617.5,428602,https://www.zillow.com/research/data/
+202074,74,North Carolina,NC,Durham,1/1/2020,264304.5,183650.5,194246,245325,341077,442067,https://www.zillow.com/research/data/
+202174,74,North Carolina,NC,Durham,1/1/2021,314496.5,211638,229229.5,292391.5,406237,520258,https://www.zillow.com/research/data/
+201175,75,New Jersey,NJ,Jersey City,1/1/2011,282310,306726.5,397301.5,300482.5,283982.5,299933,https://www.zillow.com/research/data/
+201275,75,New Jersey,NJ,Jersey City,1/1/2012,272130,304456,364742,303058,285664.5,297587.5,https://www.zillow.com/research/data/
+201375,75,New Jersey,NJ,Jersey City,1/1/2013,286890,328660.5,386024,315621,299661.5,314675,https://www.zillow.com/research/data/
+201475,75,New Jersey,NJ,Jersey City,1/1/2014,314745,367817,426867,347701.5,332334,345716,https://www.zillow.com/research/data/
+201575,75,New Jersey,NJ,Jersey City,1/1/2015,330900,390149.5,453688,370242.5,357180,373238,https://www.zillow.com/research/data/
+201675,75,New Jersey,NJ,Jersey City,1/1/2016,365580.5,433664,495381.5,410903,403386.5,424509.5,https://www.zillow.com/research/data/
+201775,75,New Jersey,NJ,Jersey City,1/1/2017,408525,471067.5,537922.5,458794.5,445592,478914,https://www.zillow.com/research/data/
+201875,75,New Jersey,NJ,Jersey City,1/1/2018,459463,503269.5,568473,501645,497800.5,540612.5,https://www.zillow.com/research/data/
+201975,75,New Jersey,NJ,Jersey City,1/1/2019,489001,490562.5,566059,523939.5,529699.5,576188.5,https://www.zillow.com/research/data/
+202075,75,New Jersey,NJ,Jersey City,1/1/2020,514131.5,487710.5,570039.5,541306,548908,603894,https://www.zillow.com/research/data/
+202175,75,New Jersey,NJ,Jersey City,1/1/2021,569324,502310,594366.5,585132.5,602130.5,656787,https://www.zillow.com/research/data/
