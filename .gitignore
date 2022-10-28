@@ -132,3 +132,6 @@ dmypy.json
 .pyre/
 *.xml
 .idea/project-one.iml
+*.ini
+*.ini
+desktop.ini
