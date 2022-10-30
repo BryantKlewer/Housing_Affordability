@@ -43,7 +43,7 @@ Calculations were made by combining home value, property tax and income data to 
 ### Machine Learning
 * Targets: 30 year mortgage with a 20% down payment, 30 year mortgage with 10% down payment, 15 year mortgage with 20% down payment, 15 year mortgage with 10% down payment, and rent. 
 * Method: Keras/TensorFlow machine learning, 1 hidden layer, ReLu activation, 16 inputs, 100 epochs
-* Outcome: Accuracy = 80-94% accuracy across all models, Loss = 39.7%
+* Outcome: Accuracy ranged from 80-94% across all models
 
 ## Summary
 Housing costs over the last decade have risen, as have incomes. However, incomes have not risen at the same rate as home values. In 69 of 71 cities that were analyzed, home values increased at a higher rate than that of incomes, St. Louis MO. and Chicago IL. are the exceptions to this rule. The rate of increase in home values has created an even larger barier to entry for many Americans who wish to one day become homeowners.
