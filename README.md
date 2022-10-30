@@ -5,7 +5,7 @@ Contributors: Laura Ross, Bryant Klewer, Matt Watts, Veena Puvvada, and Annika A
 * [Tableau Workbook](https://public.tableau.com/app/profile/laura.ross4379/viz/HousingAffordability2011-2021Draft/AffordabilityHeatMap)
 
 ## Purpose
-This project will be assessing US housing costs trends between 2011 and 2021 for single family homes and apartments in 71 of the most populated cities compared to median incomes. Additionally, we will be using machine learning in an attempt to determine when housing in these cities became unaffordable, [more than 1/3 of median monthly income](https://www.huduser.gov/portal/pdredge/pdr-edge-featd-article-081417.html), as well as give these locations an afordability score. A machine learning neural network will be the best method to determine the affordability score trends as there are a high number of variables. This method can rank each variables contribution to the affordability, and it can work well over a large data set. Housing affordability has become a hot button topic over the last few years across America and determining housing affordability can be utilized to help individuals make a determination on where to live and still be able to afford a higher quality of life.
+This project will be assessing U.S. housing costs trends between 2011 and 2021 for single family homes and apartments in 71 of the most populated cities compared to median incomes. Additionally, we will be using machine learning in an attempt to determine when housing in these cities became unaffordable, [more than 1/3 of median monthly income](https://www.huduser.gov/portal/pdredge/pdr-edge-featd-article-081417.html), as well as give these locations an afordability score. A machine learning neural network will be the best method to determine the affordability score trends as there are a high number of variables. This method can rank each variables contribution to the affordability, and it can work well over a large data set. Housing affordability has become a hot button topic over the last few years across America and determining housing affordability can be utilized to help individuals make a determination on where to live and still be able to afford a higher quality of life.
 
 ## Resources
 
@@ -37,8 +37,12 @@ We obtained 15 and 30-year fixed interest rate data from Freddie Mac. Freddie Ma
 
 ## Analysis
 
-### Machine Learning
+### Calculation
+Calculations were made by combining home value, property tax and income data to determine monthly housing cost. This was completed using the Numpy-Financial Python package. Calculations were made based on 15 and 30 year loan durations for both 10% and 20% downpayments. Initial calculations were made for single family homes. Additional calulations utilizing these same parameters were created for 1, 2, 3, 4, and 5+ bedroom home sizes. Additionally, a housing affordability score was calculated by taking 30% of the median income and dividing it by the calculated monthly housing cost. Each city was assigned a given score. 
 
+### Machine Learning
 Targets: 30 year mortgage with a 20% down payment, 30 year mortgage with 10% down payment, 15 year mortgage with 20% down payment, 15 year mortgage with 10% down payment. 
+Method:
 
 ## Summary
+Housing costs over the last decade have risen, as have incomes. However, incomes have not risen at the same rate as home values. In 69 of 71 cities that were analyzed, home values increased at a higher rate than that of incomes, St. Louis MO. and Chicago IL. are the exceptions to this rule. The rate of increase in home values has created an even larger barier to entry for many Americans who wish to one day become homeowners.
