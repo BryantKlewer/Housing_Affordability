@@ -11,7 +11,7 @@ This project will be assessing U.S. housing costs trends between 2011 and 2021 f
 
 ### Software
 Various software was utilized during the collection, cleaning, analysis, and presentation stages of this project which include:
-Tableau Prep 2022.2, Jupyter Notebook 3.1, Python 3.9.12, PostgreSQL 11.16, Microsoft Excel, Amazon AWS/S3
+Tableau Prep 2022.2, Jupyter Notebook 3.1, Python 3.9.12, PostgreSQL 11.16, Microsoft Excel, Amazon AWS/S3, Visual Studio Code 1.67.2
 
 ### About our Data
 For this project, we compiled data from various sources to generate our final database. These sources include the following:
