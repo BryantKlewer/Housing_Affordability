@@ -46,7 +46,13 @@ Calculations were made by combining home value, property tax, interest rate and 
 * Targets: affordability score for each property type
 * Method: Keras/TensorFlow machine learning, 75% training and 25% testing data split, 2 hidden layers, ReLu activation, 84 inputs, 100 perceptrons, 25 epochs
 * Outcome: Accuracy ~98% 
-* ![y_eval](https://user-images.githubusercontent.com/106269389/198908796-358c5e37-7c79-47e6-862c-d1a4a41b2035.png)
+* ![y_eval](https://github.com/BryantKlewer/project-one/blob/main/Pictures/y_eval.png)
+
+## Visualizations
+Tableau was used to create many visual representations of the data outputs. It was used to interpret and analyze the data. Nine dashboards were created to display various aspects of the analysis and interact with the data dynamically. All visuals have filters that allow a user to select metrics such as cities, years, sort orders and other parameters. Visualization examples include:
+*![Affordability_by_Year_Boxplots](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_by_Year_Boxplots.png)
+*![Affordability_Gap](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_Gap.png)
+*![Affordability_Density_Map](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_Density_Map.png)
 
 ## Summary
 * The rate at which home values have increased has outpaced incomes in all cities with the exception of St. Louis, MO and Chicago, IL. 
