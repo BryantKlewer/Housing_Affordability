@@ -50,9 +50,9 @@ Calculations were made by combining home value, property tax, interest rate and 
 
 ## Visualizations
 Tableau was used to create many visual representations of the data outputs. It was used to interpret and analyze the data. Nine dashboards were created to display various aspects of the analysis and interact with the data dynamically. All visuals have filters that allow a user to select metrics such as cities, years, sort orders and other parameters. Visualization examples include:
-*![Affordability_by_Year_Boxplots](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_by_Year_Boxplots.png)
-*![Affordability_Gap](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_Gap.png)
-*![Affordability_Density_Map](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_Density_Map.png)
+![Affordability_by_Year_Boxplots](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_by_Year_Boxplots.png)
+![Affordability_Gap](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_Gap.png)
+![Affordability_Density_Map](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_Density_Map.png)
 
 ## Summary
 * The rate at which home values have increased has outpaced incomes in all cities with the exception of St. Louis, MO and Chicago, IL. 
