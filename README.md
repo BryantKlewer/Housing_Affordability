@@ -38,6 +38,64 @@ We obtained 15 and 30-year fixed interest rate data from Freddie Mac. Freddie Ma
 
 ### Machine Learning
 
-Targets: 30 year mortgage with a 20% down payment, 30 year mortgage with 10% down payment, 15 year mortgage with 20% down payment, 15 year mortgage with 10% down payment. 
+A neural network was created to determine the affordability of housing in each city. A neural network was chosen due to a high number of features and the ability to add dense layers to improve accuracy scores. Initially a linear regression model was going to be pursued but affordability was better expressed through classification, so logistic testing was used.
+
+Data Preprocessing:
+
+* A list of target values was created from the affordability metrics
+* Each value in the target columns was converted to a 0 or 1
+* Each city was encoded using OneHotEncoder
+* The year was pulled from the observation date
+* The data was split into two datasets: 
+* 2011 through 2020 for creating the model  
+* 2021 for testing the model
+* The data was scaled using StandardScaler
+
+Feature Selection:
+
+Features were chosen by plotting a correlation matrix and determining which features had the most significant effect on the chosen target of affordability score. The data was split into a training set of 2011 to 2020 data. An evaluation dataset was created from the 2021 data. The training set was initially split 75/25 in a test/train split to analyze feature selection and dense layer design. After completing this step, the entire training set was used to build a model for each target in the list below:
+
+* 'affordability_rent'
+* 'affordability_home_15yr_Payment_10_Perc_Down'
+* 'affordability_home_15yr_Payment_20_Perc_Down'
+* 'affordability_home_30yr_Payment_10_Perc_Down'
+* 'affordability_home_30yr_Payment_20_Perc_Down'
+* 'affordability_1br_15yr_Payment_10_Perc_Down'
+* 'affordability_1br_15yr_Payment_20_Perc_Down'
+* 'affordability_1br_30yr_Payment_10_Perc_Down'
+* 'affordability_1br_30yr_Payment_20_Perc_Down'
+* 'affordability_2br_15yr_Payment_10_Perc_Down'
+* 'affordability_2br_15yr_Payment_20_Perc_Down'
+* 'affordability_2br_30yr_Payment_10_Perc_Down'
+* 'affordability_2br_30yr_Payment_20_Perc_Down'
+* 'affordability_3br_15yr_Payment_10_Perc_Down'
+* 'affordability_3br_15yr_Payment_20_Perc_Down'
+* 'affordability_3br_30yr_Payment_10_Perc_Down'
+* 'affordability_3br_30yr_Payment_20_Perc_Down'
+* 'affordability_4br_15yr_Payment_10_Perc_Down'
+* 'affordability_4br_15yr_Payment_20_Perc_Down'
+* 'affordability_4br_30yr_Payment_10_Perc_Down'
+* 'affordability_4br_30yr_Payment_20_Perc_Down'
+* 'affordability_5_plus_br_15yr_Payment_10_Perc_Down'
+* 'affordability_5_plus_br_15yr_Payment_20_Perc_Down'
+* 'affordability_5_plus_br_30yr_Payment_10_Perc_Down'
+* 'affordability_5_plus_br_30yr_Payment_20_Perc_Down'
+
+Neural Network Design:
+
+* Input layer with 84 dimensions, 100 perceptrons, and using ReLu activation
+* 2 hidden layers using ReLu activation and decreasing the perceptrons by half with each layer
+* 1 sigmoid layer to give a binary output
+* Each model was created using 25 epochs
+
+Neural Network Results:
+
+The scatter plot of affordability predictions by city
+
+
+
+The confusion matrix for 'affordability_home_30yr_Payment_20_Perc_Down' and the predicted corresponding affordability
+
+
 
 ## Summary
