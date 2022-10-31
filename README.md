@@ -46,7 +46,7 @@ Calculations were made by combining home value, property tax, interest rate and 
 * Targets: affordability score for each property type
 * Method: Keras/TensorFlow machine learning, 75% training and 25% testing data split, 2 hidden layers, ReLu activation, 84 inputs, 100 perceptrons, 25 epochs
 * Outcome: Accuracy ~98% 
-![y_eval](https://user-images.githubusercontent.com/106269389/198908796-358c5e37-7c79-47e6-862c-d1a4a41b2035.png)
+* ![y_eval](https://user-images.githubusercontent.com/106269389/198908796-358c5e37-7c79-47e6-862c-d1a4a41b2035.png)
 
 ## Summary
 * The rate at which home values have increased has outpaced incomes in all cities with the exception of St. Louis, MO and Chicago, IL. 
