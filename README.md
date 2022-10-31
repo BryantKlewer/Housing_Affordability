@@ -39,6 +39,10 @@ We obtained 15 and 30-year fixed interest rate data from Freddie Mac. Freddie Ma
 
 ## Analysis
 
+### Database
+All of our data needed to be centrally stored for analysis. An Amazon S3 bucket was created to store the datasets and an AWS database was created and linked to pgAdmin. Additionally, an ERD was created to structure the database in PostgreSQL. The Identifier was used as the primary key to link all of the tables with the exception of the interest_rate table (which only had the Observation_Date) as a unique value. This table was linked to the zillow_home_index table on Observation_Date.
+
+
 ### Calculation
 Calculations were made by combining home value, property tax, interest rate and income data to determine monthly housing cost. This was completed using the Numpy-Financial Python package. Calculations were made based on 15 and 30 year loan durations for both 10% and 20% downpayments. Initial calculations were made for single family homes. Additional calulations utilizing these same parameters were created for 1, 2, 3, 4, and 5+ bedroom home sizes. Additionally, a housing affordability score was calculated by taking 30% of the median income and dividing it by the calculated monthly housing cost. Each city was assigned a given score. 
 
