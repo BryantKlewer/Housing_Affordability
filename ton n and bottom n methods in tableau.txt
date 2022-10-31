@@ -1,0 +1,24 @@
+top n bottom
+
+1. using sets and parameters
+	top n parameter
+	bottom n parameter
+	top n by parameter set
+	bottom n by parameter set
+	combined set
+2. using rank unique function - fixed
+	RANK UNIQUE <=10
+	or
+	RANK UNIQUE >10
+
+3. using index function - fixed -- calculated field
+	INDEX() <=10
+	or
+	INDEX() > SIZE()-10
+
+4. Using first and last functions -- calculated field
+	FIRST()>-10
+	or
+	LAST()<10
+
+	
