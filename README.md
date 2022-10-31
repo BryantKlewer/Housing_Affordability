@@ -41,6 +41,9 @@ We obtained 15 and 30-year fixed interest rate data from Freddie Mac. Freddie Ma
 
 ### Database
 All of our data needed to be centrally stored for analysis. An Amazon S3 bucket was created to store the datasets and an AWS database was created and linked to pgAdmin. Additionally, an ERD was created to structure the database in PostgreSQL. The Identifier was used as the primary key to link all of the tables with the exception of the interest_rate table (which only had the Observation_Date) as a unique value. This table was linked to the zillow_home_index table on Observation_Date.
+![S3_Bucket](https://github.com/BryantKlewer/project-one/blob/main/Pictures/S3_Bucket.png)
+![AWS_DB](https://github.com/BryantKlewer/project-one/blob/main/Pictures/AWS_DB.png)
+![QuickDBD-Project_Schema](https://github.com/BryantKlewer/project-one/blob/main/Pictures/QuickDBD-Project_Schema.png)
 
 
 ### Calculation
@@ -66,4 +69,3 @@ Tableau was used to create many visual representations of the data outputs. It w
 * Arlington and Plano, TX had the lowest increases in median home income between 2011 and 2021, both at 18%.
 * Phoenix, AZ  had the highest increase in home value between 2011 and 2021 with 220% and a 56% increase in median household income creating the largest affordability gap.
 * Anchorage, AK had the lowest increase in home value over the decade with only a 24% increase and a 19% increase in median home income.
-
