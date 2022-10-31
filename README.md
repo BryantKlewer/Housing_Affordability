@@ -92,10 +92,10 @@ Neural Network Results:
 
 The scatter plot of affordability predictions by city
 
-
+![y_eval](https://user-images.githubusercontent.com/106288785/199114379-c2d89cfe-ac58-4977-9b56-c0093b9b3500.png)
 
 The confusion matrix for 'affordability_home_30yr_Payment_20_Perc_Down' and the predicted corresponding affordability
 
-
+![confusion_matrix](https://user-images.githubusercontent.com/106288785/199114394-044766a7-0da9-489c-bfd0-dae55a4c6f5c.png)
 
 ## Summary
