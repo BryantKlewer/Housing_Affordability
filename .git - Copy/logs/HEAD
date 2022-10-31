@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 2dbebeb40a73527a4afb7b4cd0ab64e6b6b2545c veena puvvada <veenapuvvada@yahoo.com> 1665361190 -0400	clone: from https://github.com/BryantKlewer/project-one.git
+2dbebeb40a73527a4afb7b4cd0ab64e6b6b2545c 53b5bb096586f8e62d9517a348640f2a317482fa veena puvvada <veenapuvvada@yahoo.com> 1665368833 -0400	commit: initial push
+53b5bb096586f8e62d9517a348640f2a317482fa f94e07b73c9b189a6bce91d131c00b3478cd7ad9 veena puvvada <veenapuvvada@yahoo.com> 1665442348 -0400	checkout: moving from main to Veena
+f94e07b73c9b189a6bce91d131c00b3478cd7ad9 6a102928768a9473d84d7c81f1341aa1d5c76eb4 veena puvvada <veenapuvvada@yahoo.com> 1665442425 -0400	commit: first commit
+6a102928768a9473d84d7c81f1341aa1d5c76eb4 daae12c9cc84f81d7f3e3612f55aab13e2e76607 veena puvvada <veenapuvvada@yahoo.com> 1665612059 -0400	commit: adding value data 2nd commit
+daae12c9cc84f81d7f3e3612f55aab13e2e76607 8672df6d81b95992fdf3dda701c7e203e196bf11 veena puvvada <veenapuvvada@yahoo.com> 1665630939 -0400	commit: 3rd commit with 3rd metric update
+8672df6d81b95992fdf3dda701c7e203e196bf11 568ec5d0f09e93ad3b65914e84b37874721e69d0 veena puvvada <veenapuvvada@yahoo.com> 1665710129 -0400	commit: adding raw data sets for cleaning
+568ec5d0f09e93ad3b65914e84b37874721e69d0 4c5a3c568092e7c0d9857fb14649581917c03cea veena puvvada <veenapuvvada@yahoo.com> 1665715260 -0400	commit: adding PDFs and housingcosts data
+4c5a3c568092e7c0d9857fb14649581917c03cea 53b5bb096586f8e62d9517a348640f2a317482fa veena puvvada <veenapuvvada@yahoo.com> 1665793914 -0400	checkout: moving from Veena to main
+53b5bb096586f8e62d9517a348640f2a317482fa 4c5a3c568092e7c0d9857fb14649581917c03cea veena puvvada <veenapuvvada@yahoo.com> 1665793975 -0400	checkout: moving from main to Veena
+4c5a3c568092e7c0d9857fb14649581917c03cea 9d8062210bc72d180fd1a595d385162a37b98dd4 veena puvvada <veenapuvvada@yahoo.com> 1665864505 -0400	commit: update with unstacking
+9d8062210bc72d180fd1a595d385162a37b98dd4 180eea036ceba52037d08443f21b8763cf9558c3 veena puvvada <veenapuvvada@yahoo.com> 1665881110 -0400	commit: add housing characteristics deatasets
+180eea036ceba52037d08443f21b8763cf9558c3 2500c69b3b378e2776b94c8e51962f3a2edd5b8b veena puvvada <veenapuvvada@yahoo.com> 1665884514 -0400	commit: adding housing characteristics for data visualizations
+2500c69b3b378e2776b94c8e51962f3a2edd5b8b a79e0efa790f33b0e42710a0a765433ad3d63ce5 veena puvvada <veenapuvvada@yahoo.com> 1666319588 -0400	commit: subsequent commit with dataviz and datasets
+a79e0efa790f33b0e42710a0a765433ad3d63ce5 b663104014dd5c8865377e8955a3c1d2ceacf013 veena puvvada <veenapuvvada@yahoo.com> 1666919249 -0400	commit: add tableau data viz
+b663104014dd5c8865377e8955a3c1d2ceacf013 2b6fddb377fe2cde551103b25d57de2225617048 veena puvvada <veenapuvvada@yahoo.com> 1667177298 -0400	commit: visualtions update
+2b6fddb377fe2cde551103b25d57de2225617048 eb36d17c2a88d9ab0e5026483189779f5ccb1a82 veena puvvada <veenapuvvada@yahoo.com> 1667177412 -0400	commit: top n and bottom n
