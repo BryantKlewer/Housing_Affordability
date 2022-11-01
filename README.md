@@ -50,10 +50,65 @@ All of our data needed to be centrally stored for analysis. An Amazon S3 bucket 
 Calculations were made by combining home value, property tax, interest rate and income data to determine monthly housing cost. This was completed using the Numpy-Financial Python package. Calculations were made based on 15 and 30 year loan durations for both 10% and 20% downpayments. Initial calculations were made for single family homes. Additional calulations utilizing these same parameters were created for 1, 2, 3, 4, and 5+ bedroom home sizes. Additionally, a housing affordability score was calculated by taking 30% of the median income and dividing it by the calculated monthly housing cost. Each city was assigned a given score. 
 
 ### Machine Learning
-* Targets: affordability score for each property type
-* Method: Keras/TensorFlow machine learning, 75% training and 25% testing data split, 2 hidden layers, ReLu activation, 84 inputs, 100 perceptrons, 25 epochs
-* Outcome: Accuracy ~98% 
-* ![y_eval](https://github.com/BryantKlewer/project-one/blob/main/Pictures/y_eval.png)
+A neural network was created to determine the affordability of housing in each city. A neural network was chosen due to a high number of features and the ability to add dense layers to improve accuracy scores. Initially a linear regression model was going to be pursued but affordability was better expressed through classification, so logistic testing was used.
+
+Data Preprocessing:
+
+* A list of target values was created from the affordability metrics
+* Each value in the target columns was converted to a 0 or 1
+* Each city was encoded using OneHotEncoder
+* The year was pulled from the observation date
+* The data was split into two datasets: 
+* 2011 through 2020 for creating the model  
+* 2021 for testing the model
+* The data was scaled using StandardScaler
+
+Feature Selection:
+
+Features were chosen by plotting a correlation matrix and determining which features had the most significant effect on the chosen target of affordability score. The data was split into a training set of 2011 to 2020 data. An evaluation dataset was created from the 2021 data. The training set was initially split 75/25 in a test/train split to analyze feature selection and dense layer design. After completing this step, the entire training set was used to build a model for each target in the list below:
+
+* 'affordability_rent'
+* 'affordability_home_15yr_Payment_10_Perc_Down'
+* 'affordability_home_15yr_Payment_20_Perc_Down'
+* 'affordability_home_30yr_Payment_10_Perc_Down'
+* 'affordability_home_30yr_Payment_20_Perc_Down'
+* 'affordability_1br_15yr_Payment_10_Perc_Down'
+* 'affordability_1br_15yr_Payment_20_Perc_Down'
+* 'affordability_1br_30yr_Payment_10_Perc_Down'
+* 'affordability_1br_30yr_Payment_20_Perc_Down'
+* 'affordability_2br_15yr_Payment_10_Perc_Down'
+* 'affordability_2br_15yr_Payment_20_Perc_Down'
+* 'affordability_2br_30yr_Payment_10_Perc_Down'
+* 'affordability_2br_30yr_Payment_20_Perc_Down'
+* 'affordability_3br_15yr_Payment_10_Perc_Down'
+* 'affordability_3br_15yr_Payment_20_Perc_Down'
+* 'affordability_3br_30yr_Payment_10_Perc_Down'
+* 'affordability_3br_30yr_Payment_20_Perc_Down'
+* 'affordability_4br_15yr_Payment_10_Perc_Down'
+* 'affordability_4br_15yr_Payment_20_Perc_Down'
+* 'affordability_4br_30yr_Payment_10_Perc_Down'
+* 'affordability_4br_30yr_Payment_20_Perc_Down'
+* 'affordability_5_plus_br_15yr_Payment_10_Perc_Down'
+* 'affordability_5_plus_br_15yr_Payment_20_Perc_Down'
+* 'affordability_5_plus_br_30yr_Payment_10_Perc_Down'
+* 'affordability_5_plus_br_30yr_Payment_20_Perc_Down'
+
+Neural Network Design:
+
+* Input layer with 84 dimensions, 100 perceptrons, and using ReLu activation
+* 2 hidden layers using ReLu activation and decreasing the perceptrons by half with each layer
+* 1 sigmoid layer to give a binary output
+* Each model was created using 25 epochs
+
+Neural Network Results:
+
+The scatter plot of affordability predictions by city
+
+![y_eval](https://github.com/BryantKlewer/project-one/blob/main/Pictures/y_eval.png)
+
+The confusion matrix for 'affordability_home_30yr_Payment_20_Perc_Down' and the predicted corresponding affordability showing 100% accuracy.
+
+![matrix](https://github.com/BryantKlewer/project-one/blob/main/Pictures/matrix.png)
 
 ## Visualizations
 Tableau was used to create many visual representations of the data outputs. It was used to interpret and analyze the data. Nine dashboards were created to display various aspects of the analysis and interact with the data dynamically. All visuals have filters that allow a user to select metrics such as cities, years, sort orders and other parameters. Visualization examples include:
