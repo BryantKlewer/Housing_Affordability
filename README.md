@@ -27,12 +27,12 @@ Additional information on survey questions, data quality measures and sample siz
 #### U.S. Census Bureau, Small Area Income and Poverty Estimates (SAIPE) Program
 There is missing median household income data for some years for a few of our cities of interest. We supplemented by pulling median household income from the Small Income and Poverty Estimates (SAIPE) Program. This program produces single-year estimates of income and poverty for all U.S. states and counties. Median Household Income estimates are based on statistical models that use household survey, administrative data, population estimates, and decennial census data. 
 
-Additional information for the Small Area Income and Poverty Estimates program can be found on the SAIPE [website](https://www.census.gov/programs-surveys/saipe.html)
+Additional information for the Small Area Income and Poverty Estimates program can be found on the SAIPE [website](https://www.census.gov/programs-surveys/saipe.html).
 
 #### Zillow Home Value Index (ZHVI)
 We determined a median home value for each year in each of the cities of interest by using data from the ZHVI. These datasets provided a seasonally adjusted measure of the typical home value across a given region for each month. We took the median value from each month in the year to determine an overall median home value for each respective year.  
 
-Additional information on the Zillow Home Value Index can be found on Zillow's [website](https://www.zillow.com/research/data/)
+Additional information on the Zillow Home Value Index can be found on Zillow's [website](https://www.zillow.com/research/data/).
 
 #### Freddie Mac
 We obtained 15 and 30-year fixed interest rate data from Freddie Mac. Freddie Mac surveys lenders across the nation on a weekly basis to determine an average 15-year fixed, and 30-year fixed-mortgage rate. This survey is called the Primary Mortgage Market Survey. Additional information on survey metrics and how results are weighted can be found on the Freddie Mac [PMMS website](https://www.freddiemac.com/pmms). 
