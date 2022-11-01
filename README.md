@@ -128,3 +128,4 @@ Tableau was used to create many visual representations of the data outputs. It w
 * Arlington and Plano, TX had the lowest increases in median home income between 2011 and 2021, both at 18%.
 * Phoenix, AZ  had the highest increase in home value between 2011 and 2021 with 220% and a 56% increase in median household income creating the largest affordability gap.
 * Anchorage, AK had the lowest increase in home value over the decade with only a 24% increase and a 19% increase in median home income.
+* On average, median home values increased at 2.2x the rate of median household incomes.
