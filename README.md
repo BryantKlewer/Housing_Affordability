@@ -47,7 +47,11 @@ All of our data needed to be centrally stored for analysis. An Amazon S3 bucket 
 
 
 ### Calculation
-Calculations were made by combining home value, property tax, interest rate and income data to determine monthly housing cost. This was completed using the Numpy-Financial Python package. Calculations were made based on 15 and 30 year loan durations for both 10% and 20% downpayments. Initial calculations were made for single family homes. Additional calulations utilizing these same parameters were created for 1, 2, 3, 4, and 5+ bedroom home sizes. Additionally, a housing affordability score was calculated by taking 30% of the median income and dividing it by the calculated monthly housing cost. Each city was assigned a given score. 
+Calculations were made by combining home value, property tax, and interest rate data to determine monthly housing cost. Joins were used on the Freddie_Mac_15_Year_30_Year_Interest_Rate, Zillow_Single_Family_Home_Index_by_Metro_US_Consolidated, and Aggregated_Median_Tax_and_Monthly_Cost dataframes in order to complete this task. All calculations were completed using the Numpy-Financial Python package. Calculations were made based on 15 and 30 year loan durations for both 10% and 20% downpayments. Initial calculations were made for single family homes. Additional calulations utilizing these same parameters were created for 1, 2, 3, 4, and 5+ bedroom home sizes. Additionally, a housing affordability score was calculated by taking 30% of the median income and dividing it by the calculated monthly housing cost. Each city was assigned a given score. 
+* Merge example:
+![merge](https://github.com/BryantKlewer/project-one/blob/main/Pictures/merge.png)
+* Numpy-Financial calculation:
+![numpy_financial](https://github.com/BryantKlewer/project-one/blob/main/Pictures/numpy_financial.png)
 
 ### Machine Learning
 A neural network was created to determine the affordability of housing in each city. A neural network was chosen due to a high number of features and the ability to add dense layers to improve accuracy scores. Initially a linear regression model was going to be pursued but affordability was better expressed through classification, so logistic testing was used.
