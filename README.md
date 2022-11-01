@@ -35,7 +35,7 @@ We determined a median home value for each year in each of the cities of interes
 Additional information on the Zillow Home Value Index can be found on Zillow's [website](https://www.zillow.com/research/data/).
 
 #### Freddie Mac
-We obtained 15 and 30-year fixed interest rate data from Freddie Mac. Freddie Mac surveys lenders across the nation on a weekly basis to determine an average 15-year fixed, and 30-year fixed-mortgage rate. This survey is called the Primary Mortgage Market Survey. Additional information on survey metrics and how results are weighted can be found on the Freddie Mac [PMMS website](https://www.freddiemac.com/pmms). 
+We obtained 15 and 30-year fixed interest rate data from Freddie Mac. Freddie Mac surveys lenders across the nation on a weekly basis to determine an average 15-year fixed, and 30-year fixed-mortgage rate. This survey is called the Primary Mortgage Market Survey. Additional information on survey metrics and how results are weighted can be found on the Freddie Mac PMMS [website](https://www.freddiemac.com/pmms). 
 
 ## Analysis
 
