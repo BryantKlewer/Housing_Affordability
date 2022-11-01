@@ -2,7 +2,7 @@
 Contributors: Laura Ross, Bryant Klewer, Matt Watts, Veena Puvvada, and Annika Alicardi
 
 * [Presentation Link](https://docs.google.com/presentation/d/10ihHbhPH5w8b3enussh1Tu3RalZYbiRg6_Voe1-td5E/edit?usp=sharing)
-* [Tableau Workbook](https://public.tableau.com/app/profile/laura.ross4379/viz/HousingAffordability2011-2021Draft/AffordabilityHeatMap)
+* [Tableau Workbook](https://public.tableau.com/app/profile/laura.ross4379/viz/USHousingAffordability2011to2021/ProjectOverview)
 
 ## Purpose
 This project assessed U.S. housing costs trends between 2011 and 2021 for single family homes and apartments in 71 of the most populated cities compared to median incomes. Housing affordability has become a hot button topic over the last few years across America and determining housing affordability can be utilized to help individuals make a determination on where to live and still be able to afford a higher quality of life. Additionally, machine learning was used to determine when housing in these cities became unaffordable, [30% of median monthly income](https://www.huduser.gov/portal/pdredge/pdr-edge-featd-article-081417.html). A machine learning neural network was the best method utilized to determine the affordability trends, as there were a high number of variables. 
