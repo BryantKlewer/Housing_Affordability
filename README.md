@@ -115,10 +115,17 @@ The confusion matrix for 'affordability_home_30yr_Payment_20_Perc_Down' and the 
 ![matrix](https://github.com/BryantKlewer/project-one/blob/main/Pictures/matrix.png)
 
 ## Visualizations
-Tableau was used to create many visual representations of the data outputs. It was used to interpret and analyze the data. Nine dashboards were created to display various aspects of the analysis and interact with the data dynamically. All visuals have filters that allow a user to select metrics such as cities, years, sort orders and other parameters. Visualization examples include:
-![Affordability_by_Year_Boxplots](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_by_Year_Boxplots.png)
-![Affordability_Gap](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_Gap.png)
-![Affordability_Density_Map](https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_Density_Map.png)
+Tableau was used to interpret, analyze, and create a series of visualizations for the project. Eleven dashboards were created to display various aspects of the analysis and interact with the data dynamically. Filters and parameters were added to allow a user to select metrics such as cities, years, sort orders, and more.
+
+Visualization examples include:
+<a href="https://public.tableau.com/views/USHousingAffordability2011to2021/ProjectOverview?:language=en-US&:display_count=n&:origin=viz_share_link">
+         <img alt="Affordability Boxplots" src="https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_by_Year_Boxplots.png"></a>
+
+<a href="https://public.tableau.com/views/USHousingAffordability2011to2021/ProjectOverview?:language=en-US&:display_count=n&:origin=viz_share_link">
+         <img alt="Affordability Gap" src="https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_Gap.png"></a>
+
+<a href="https://public.tableau.com/views/USHousingAffordability2011to2021/ProjectOverview?:language=en-US&:display_count=n&:origin=viz_share_link">
+         <img alt="Affordability Density Map" src="https://github.com/BryantKlewer/project-one/blob/main/Pictures/Affordability_Density_Map.png"></a>
 
 ## Summary
 * The rate at which home values have increased has outpaced incomes in all cities with the exception of St. Louis, MO and Chicago, IL. 
@@ -127,5 +134,5 @@ Tableau was used to create many visual representations of the data outputs. It w
 * Seattle, WA had the highest increase in median home income between 2011 and 2021 at 81%. 
 * Arlington and Plano, TX had the lowest increases in median home income between 2011 and 2021, both at 18%.
 * Phoenix, AZ  had the highest increase in home value between 2011 and 2021 with 220% and a 56% increase in median household income creating the largest affordability gap.
-* Anchorage, AK had the lowest increase in home value over the decade with only a 24% increase and a 19% increase in median home income creating the smalled affordability gap.
+* Anchorage, AK had the lowest increase in home value over the decade with only a 24% increase and a 19% increase in median home income.
 * On average, median home values increased at 2.2x the rate of median household incomes.
