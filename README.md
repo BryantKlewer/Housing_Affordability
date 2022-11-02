@@ -110,7 +110,7 @@ The scatter plot of affordability predictions by city
 
 ![y_eval](https://user-images.githubusercontent.com/106288785/199367119-f9e9f016-782c-4664-b122-daeeb9b10711.png)
 
-The confusion matrix for 'affordability_home_30yr_Payment_20_Perc_Down' and the predicted corresponding affordability showing 100% accuracy.
+The confusion matrix for 'affordability_home_30yr_Payment_20_Perc_Down' and the predicted corresponding affordability showing 98.6% accuracy.
 
 ![confusion_matrix](https://user-images.githubusercontent.com/106288785/199367107-5c2eac23-7ad2-47fa-afa9-3d70ad1ba422.png)
 
