@@ -99,20 +99,20 @@ Features were chosen by plotting a correlation matrix and determining which feat
 
 Neural Network Design:
 
-* Input layer with 12 dimensions, 100 perceptrons, and using ReLu activation
-* 2 hidden layers using ReLu activation and decreasing the perceptrons by half with each layer
+* Input layer with 12 dimensions, 24 perceptrons, and using ReLu activation
+* 1 hidden layer using ReLu activation and decreasing the perceptrons by half
 * 1 sigmoid layer to give a binary output
-* Each model was created using 5 epochs
+* Each model was created using 10 epochs
 
 Neural Network Results:
 
 The scatter plot of affordability predictions by city
 
-![y_eval](https://user-images.githubusercontent.com/106288785/199367119-f9e9f016-782c-4664-b122-daeeb9b10711.png)
+![y_eval](https://user-images.githubusercontent.com/106288785/199844453-6bdd1d21-21da-4a66-beeb-598604945892.png)
 
-The confusion matrix for 'affordability_home_30yr_Payment_20_Perc_Down' and the predicted corresponding affordability showing 98.6% accuracy.
+The confusion matrix for 'affordability_home_30yr_Payment_20_Perc_Down' and the predicted corresponding affordability showing 97.2% accuracy.
 
-![confusion_matrix](https://user-images.githubusercontent.com/106288785/199367107-5c2eac23-7ad2-47fa-afa9-3d70ad1ba422.png)
+![confusion_matrix](https://user-images.githubusercontent.com/106288785/199844473-4215d154-86d6-4209-a453-1259a6a0e76c.png)
 
 ## Visualizations
 Tableau was used to interpret, analyze, and create a series of visualizations for the project. Eleven dashboards were created to display various aspects of the analysis and interact with the data dynamically. Filters and parameters were added to allow a user to select metrics such as cities, years, sort orders, and more.
